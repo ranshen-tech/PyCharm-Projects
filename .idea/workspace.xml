@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="test">
-      <change afterPath="$PROJECT_DIR$/Book excerpts/了不起的Markdown.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Memo/Mark Down/段落格式.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/MarkDown.md" beforeDir="false" afterPath="$PROJECT_DIR$/Memo/Mark Down/MarkDown.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Memo/Mark Down/列表.md" beforeDir="false" afterPath="$PROJECT_DIR$/Memo/Mark Down/列表.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +85,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662631550216</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test">
+      <created>1662644882011</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662644882012</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test">
+      <created>1662645004708</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662645004708</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
