@@ -1,19 +1,4 @@
-### 1. 引用
-> 引用:
-
->> E.g.  
-
->>> 引用是可以嵌套的
-
-> abcggg
->
->> defggg
->>
->>> ghi
->>> ggg
-
-
-### 2. 链接：
+### 链接：
 ```
 [文本](链接地址)
 
@@ -21,7 +6,7 @@
 ```
 
 
-### 4. 下划线
+### 下划线
 ```markdown
 <u>下划线可以通过HTML中的u标签来实现</u>
 ```
@@ -89,4 +74,12 @@ _   下划线
 .   英文句点
 !   感叹号
 ```
+ 
+### 注释
+```markdown
+[//]: # (注释)
+```
 
+<img alt="taohuaqi" src="../Picture/Icon/GoodLuck.jpeg"/>
+
+![4wangzi](../Picture/Icon/Evil.jpeg=150*150)
