@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="更新">
-      <change afterPath="$PROJECT_DIR$/Picture/Icon/dd.jgp.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/Icon/sfs.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Picture/Icon/u=2454136856,391670412&amp;fm=224&amp;app=112&amp;f=JPEG.jpeg" afterDir="false" />
-    </list>
+    <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="头像图标 Icon" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -210,7 +206,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662728886220</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="头像图标 Icon">
+      <created>1662729289740</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1662729289740</updated>
+    </task>
+    <task id="LOCAL-00019" summary="头像图标 Icon">
+      <created>1662729449730</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1662729449730</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -234,6 +244,7 @@
     <MESSAGE value="1407" />
     <MESSAGE value="ˆ" />
     <MESSAGE value="更新" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新" />
+    <MESSAGE value="头像图标 Icon" />
+    <option name="LAST_COMMIT_MESSAGE" value="头像图标 Icon" />
   </component>
 </project>
