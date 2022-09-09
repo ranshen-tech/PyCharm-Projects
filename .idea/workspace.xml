@@ -6,9 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="ˆ">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/Mark Down/MarkDown.md" beforeDir="false" afterPath="$PROJECT_DIR$/Memo/Mark Down/MarkDown.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/Mark Down/列表.md" beforeDir="false" afterPath="$PROJECT_DIR$/Memo/Mark Down/列表.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/Mark Down/段落格式.md" beforeDir="false" afterPath="$PROJECT_DIR$/Memo/Mark Down/段落格式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Memo/Mark Down/MarkDown.md" beforeDir="false" afterPath="$PROJECT_DIR$/Memo/MarkDown.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Memo/Mark Down/列表.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +22,6 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Memo/Mark Down/段落格式.md" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -42,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "/Users/ranshen/PyCharm Projects",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+    "settings.editor.selected.configurable": "vcs.Git"
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/新建临时文件": [
@@ -53,6 +49,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Memo/" />
       <recent name="$PROJECT_DIR$/Memo/Mark Down" />
     </key>
   </component>
@@ -177,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662709069785</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="ˆ">
+      <created>1662718241817</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1662718241817</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
