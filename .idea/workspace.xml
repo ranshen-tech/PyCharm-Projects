@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="头像图标 Icon" />
+    <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="头像图标 Icon">
+      <change beforePath="$PROJECT_DIR$/Memo/MarkDown.md" beforeDir="false" afterPath="$PROJECT_DIR$/Memo/MarkDown.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture/Icon/WechatIMG1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Picture/Icon/GoodLuck.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture/Icon/WechatIMG119.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Picture/Icon/Evil.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Picture/Icon/sfs.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Picture/Icon/NFT.jpg" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -220,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662729449730</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="头像图标 Icon">
+      <created>1662729539290</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1662729539290</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
