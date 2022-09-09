@@ -90,4 +90,6 @@ _   下划线
 !   感叹号
 ```
 
-__
+![picture](../../Desktop/WechatIMG1.jpeg '头像')
+
+![](../../Desktop/WechatIMG119.jpeg)
