@@ -92,4 +92,5 @@ _   下划线
 
 ![picture](../../Desktop/WechatIMG1.jpeg '头像')
 
-![](../../Desktop/WechatIMG119.jpeg)
+![ran](../../Desktop/WechatIMG119.jpeg)
+![ranshen](../../Desktop/WechatIMG119.jpeg)
