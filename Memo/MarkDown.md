@@ -90,16 +90,3 @@ _   下划线
 !   感叹号
 ```
 
-
-![四王子](../Picture/Icon/Evil.jpeg)
-
-![桃花期](../Picture/Icon/GoodLuck.jpeg)
-
-![NFT](../Picture/Icon/NFT.jpg)
-
-
-![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)
-
-![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png "RUNOOB")
-
-<img src="http://static.runoob.com/images/runoob-logo.png" width="50%">
