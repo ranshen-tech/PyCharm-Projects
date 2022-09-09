@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="2022-9-9ˆ">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/Mark Down/列表.md" beforeDir="false" afterPath="$PROJECT_DIR$/Memo/Mark Down/列表.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/Mark Down/段落格式.md" beforeDir="false" afterPath="$PROJECT_DIR$/Memo/Mark Down/段落格式.md" afterDir="false" />
-    </list>
+    <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="ˆ" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662699061255</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="ˆ">
+      <created>1662702998642</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1662702998642</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,6 +145,7 @@
     </ignored-roots>
     <MESSAGE value="test" />
     <MESSAGE value="2022-9-9ˆ" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022-9-9ˆ" />
+    <MESSAGE value="ˆ" />
+    <option name="LAST_COMMIT_MESSAGE" value="ˆ" />
   </component>
 </project>
