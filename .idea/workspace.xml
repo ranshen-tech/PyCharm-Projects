@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="更新">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/MarkDown.md" beforeDir="false" afterPath="$PROJECT_DIR$/Memo/MarkDown.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/Icon/dd.jgp.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/Icon/sfs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Picture/Icon/u=2454136856,391670412&amp;fm=224&amp;app=112&amp;f=JPEG.jpeg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +195,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662728164810</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="更新">
+      <created>1662728762211</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1662728762211</updated>
+    </task>
+    <task id="LOCAL-00017" summary="更新">
+      <created>1662728886220</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1662728886220</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
