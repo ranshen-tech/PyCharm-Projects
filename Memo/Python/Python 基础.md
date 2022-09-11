@@ -135,3 +135,15 @@ for i in range(1, 11):
 print(f'第{i}天，表白成功')
 
 ```
+
+
+### for循环打印九九乘法表
+```python
+# 通过外层循环控制行数
+for i in range(1, 10):
+    # 通过内层循环控制每一行的数量
+    for j in range(1, i + 1):
+        print(f'{j} * {i} = {j * i}\t', end='')
+    print()
+
+```
