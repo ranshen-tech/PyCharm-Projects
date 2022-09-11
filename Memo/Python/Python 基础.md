@@ -19,12 +19,12 @@ while True:
     guess_num = int(input())
     i += 1
     if guess_num == num:
-        print(f'right, 你猜了{i}次')
+        print('right')
         break
     else:
         if guess_num > num:
             print('more')
         else:
             print('little')
-
+print(f'你猜了{i}次')
 ```
