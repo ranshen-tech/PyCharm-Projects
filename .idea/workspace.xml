@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="while循环案例">
+    <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="基础语法">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Memo/Python/Python 基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/Memo/Python/Python 基础.md" afterDir="false" />
     </list>
@@ -279,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662903390089</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="基础语法">
+      <created>1662935186902</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1662935186902</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -306,6 +313,7 @@
     <MESSAGE value="头像图标 Icon" />
     <MESSAGE value="202299evening" />
     <MESSAGE value="while循环案例" />
-    <option name="LAST_COMMIT_MESSAGE" value="while循环案例" />
+    <MESSAGE value="基础语法" />
+    <option name="LAST_COMMIT_MESSAGE" value="基础语法" />
   </component>
 </project>
