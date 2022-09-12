@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="发工资💰，优雅">
-      <change beforePath="$PROJECT_DIR$/Memo/Python/Python 基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/Memo/Python/Python 基础.md" afterDir="false" />
+    <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="🏧项目">
+      <change beforePath="$PROJECT_DIR$/Book excerpts/高效能人士的七个习惯.md" beforeDir="false" afterPath="$PROJECT_DIR$/Book excerpts/高效能人士的七个习惯.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -321,7 +321,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662967883698</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="🏧项目">
+      <created>1662968233995</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1662968233995</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -350,6 +357,7 @@
     <MESSAGE value="while循环案例" />
     <MESSAGE value="基础语法" />
     <MESSAGE value="发工资，优雅" />
-    <option name="LAST_COMMIT_MESSAGE" value="发工资，优雅" />
+    <MESSAGE value="项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目" />
   </component>
 </project>
