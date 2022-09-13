@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="字符串">
+    <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="序列，切片">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Memo/Python/Python 基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/Memo/Python/Python 基础.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Memo/Python/container.py" beforeDir="false" afterPath="$PROJECT_DIR$/Memo/Python/container.py" afterDir="false" />
@@ -387,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663040907458</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="序列，切片">
+      <created>1663045349636</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1663045349636</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -421,6 +428,7 @@
     <MESSAGE value="删除了不必要的" />
     <MESSAGE value="列表元组" />
     <MESSAGE value="字符串" />
-    <option name="LAST_COMMIT_MESSAGE" value="字符串" />
+    <MESSAGE value="序列，切片" />
+    <option name="LAST_COMMIT_MESSAGE" value="序列，切片" />
   </component>
 </project>

@@ -308,3 +308,29 @@ new_str = string.strip('12')
 - 序列方法
   - new_sequence = sequence[:]
   - new_sequence = sequence[::2]
+
+
+### 集合
+
+- 不支持元素item重复
+- 内容无序(不支持index,不能用while，只能用for)
+- 使用set()
+- 和list一样允许被修改
+
+集合方法：
+
+- set.add(item)
+- set.remove(item)
+- set.pop()  `随机`
+- set.clear()
+- `set3 = set1.difference.set2()` set1有，set2没有的
+- 消除两个集合的差集
+  ```python
+  set1 = {1, 2, 3}
+  set2 = {1, 5, 6}
+  set1.difference_update(set2)  # 集合1被修改，集合2不变
+  print(set1)  # 结果：{2, 3}
+  print(set2)  # 结果：{1, 5, 6}
+  ```
+- set3 = set1.union(set2)
+- len(set)
