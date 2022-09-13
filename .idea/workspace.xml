@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="集合">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/Python/Python 基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/Memo/Python/Python 基础.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/Python/container.py" beforeDir="false" afterPath="$PROJECT_DIR$/Memo/Python/container.py" afterDir="false" />
+    <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="更新九九乘法表">
+      <change afterPath="$PROJECT_DIR$/Memo/Python/海龟作图.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Memo/Python/container.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +53,8 @@
       <recent name="$PROJECT_DIR$/Memo/Mark Down" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.container">
-    <configuration name="container" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.海龟作图.md">
+    <configuration name="海龟作图.md" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,7 +66,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Memo/Python/container.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Memo/Python/海龟作图.md" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +119,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.container" />
+        <item itemvalue="Python.海龟作图.md" />
         <item itemvalue="Python.scratch_1" />
         <item itemvalue="Python.scratch_2" />
       </list>
@@ -401,7 +400,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663049937571</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="更新九九乘法表">
+      <created>1663054642410</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1663054642410</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -437,6 +443,7 @@
     <MESSAGE value="字符串" />
     <MESSAGE value="序列，切片" />
     <MESSAGE value="集合" />
-    <option name="LAST_COMMIT_MESSAGE" value="集合" />
+    <MESSAGE value="更新九九乘法表" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新九九乘法表" />
   </component>
 </project>
