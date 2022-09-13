@@ -279,8 +279,26 @@ while index < len(list):
 ```
 
 - 元组方法
-- tuple.index(element)
-- tuple.count(element)
-- len(tuple)
+  - tuple.index(element)
+  - tuple.count(element)
+  - len(tuple)
 
-**元组中的列表内部的元素可以被修改**
+元组中的列表内部的元素可以被修改
+
+
+### 字符串
+
+- 字符串不可被修改
+- 字符串方法
+  - str.index(item)
+  - new_str = str.replace(str1, str2)
+  - new_str_list = str.split(separator str)
+  - string.count(str)
+  - new_str = str.strip()
+  - new_str = str.strip(指定的str)
+```python
+string = '12ranshen21'
+new_str = string.strip('12')
+传入的'12'其实就是'1'和'2'都会被移除，是按照单个字符
+```
+
