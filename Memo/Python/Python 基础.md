@@ -255,3 +255,32 @@ while True:
         break
 
 ```
+
+
+## 数据容器
+
+**如果函数定义为class的成员，那么称为方法**
+
+- 列表方法
+  - list.index(element)
+  - list.insert(index, element)
+  - list.extend(其他数据容器)将其他数据容器内容取出，依次追加到列表尾部
+  - list.remove(element)
+  - list.count(element)
+
+- list遍历
+
+```python
+index = 0  
+while index < len(list):  
+    element = list(index)
+    对元素进行process
+    element += 1
+```
+
+- 元组方法
+- tuple.index(element)
+- tuple.count(element)
+- len(tuple)
+
+**元组中的列表内部的元素可以被修改**
