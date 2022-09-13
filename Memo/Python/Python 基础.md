@@ -78,7 +78,7 @@ while i <= 9:
     j = 1
     while j <= i:
         # 内层循环的控制语句，通过\t制表符对齐，不换行
-        print(f'{j} * {i} = {j * i}\t', end='')
+        print(f'{j} * {i} = {j * i}', end='\t')
         j += 1
 
     print()  # 空内容，就是输出一个换行
@@ -144,7 +144,7 @@ print(f'第{i}天，表白成功')
 for i in range(1, 10):
     # 通过内层循环控制每一行的数量
     for j in range(1, i + 1):
-        print(f'{j} * {i} = {j * i}\t', end='')
+        print(f'{j} * {i} = {j * i}', end='\t')
     print()
 
 ```
@@ -286,7 +286,7 @@ while index < len(list):
 元组中的列表内部的元素可以被修改
 
 
-### 字符串
+## 字符串
 
 - 字符串不可被修改
 - 字符串方法
@@ -303,14 +303,14 @@ new_str = string.strip('12')
 ```
 
 
-### 序列（list, tuple, str)
+## 序列（list, tuple, str)
 
 - 序列方法
   - new_sequence = sequence[:]
   - new_sequence = sequence[::2]
 
 
-### 集合
+## 集合
 
 - 不支持元素item重复
 - 内容无序(不支持index,不能用while，只能用for)
@@ -334,3 +334,9 @@ new_str = string.strip('12')
   ```
 - set3 = set1.union(set2)
 - len(set)
+
+
+## 字典
+
+- key, value可以是任意数据类型(key不可为字典)
+- 
