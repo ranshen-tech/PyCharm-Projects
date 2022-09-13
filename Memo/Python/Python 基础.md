@@ -302,3 +302,9 @@ new_str = string.strip('12')
 传入的'12'其实就是'1'和'2'都会被移除，是按照单个字符
 ```
 
+
+### 序列（list, tuple, str)
+
+- 序列方法
+  - new_sequence = sequence[:]
+  - new_sequence = sequence[::2]
