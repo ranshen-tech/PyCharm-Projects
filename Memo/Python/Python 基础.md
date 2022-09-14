@@ -336,7 +336,15 @@ new_str = string.strip('12')
 - len(set)
 
 
+可变数据类型：值发生变化，id不变
+不可变数据类型：值发生了变化，id也变化
+
+
 ## 字典
 
 - key, value可以是任意数据类型(key不可为字典)
-- 
+
+#### 字典方法
+- dict.pop(key)
+- dict.clear()
+- dict.keys()
