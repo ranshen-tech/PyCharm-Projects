@@ -343,8 +343,11 @@ new_str = string.strip('12')
 ## 字典
 
 - key, value可以是任意数据类型(key不可为字典)
+- 字典无序，不支持❌while循环♻️
+- 不存在则添加，存在则更新
 
 #### 字典方法
 - dict.pop(key)
 - dict.clear()
 - dict.keys()
+- len(dict)

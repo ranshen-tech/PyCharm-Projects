@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="鸡兔同笼">
-      <change afterPath="$PROJECT_DIR$/Book excerpts/人生战略.md" afterDir="false" />
+    <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="思维编程&#10;1. 人生战略">
+      <change afterPath="$PROJECT_DIR$/Memo/Python/升职加薪.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Memo/MarkDown.md" beforeDir="false" afterPath="$PROJECT_DIR$/Memo/MarkDown.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Memo/Python/Python 基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/Memo/Python/Python 基础.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +62,7 @@
       <recent name="$PROJECT_DIR$/Memo/Mark Down" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.scratch_2">
+  <component name="RunManager" selected="Python.升职加薪">
     <configuration name="鸡兔同笼" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -75,6 +76,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Memo/Python/鸡兔同笼.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="升职加薪" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Memo/Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Memo/Python/升职加薪.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,6 +170,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.升职加薪" />
         <item itemvalue="Python.scratch_2" />
         <item itemvalue="Python.鸡兔同笼" />
         <item itemvalue="Python.海龟作图.md" />
@@ -451,7 +474,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663062033763</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="思维编程&#10;1. 人生战略">
+      <created>1663116069390</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1663116069390</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -490,6 +520,7 @@
     <MESSAGE value="更新九九乘法表" />
     <MESSAGE value="海龟作图" />
     <MESSAGE value="鸡兔同笼" />
-    <option name="LAST_COMMIT_MESSAGE" value="鸡兔同笼" />
+    <MESSAGE value="思维编程&#10;1. 人生战略" />
+    <option name="LAST_COMMIT_MESSAGE" value="思维编程&#10;1. 人生战略" />
   </component>
 </project>
