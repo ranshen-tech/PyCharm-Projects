@@ -351,3 +351,15 @@ new_str = string.strip('12')
 - dict.clear()
 - dict.keys()
 - len(dict)
+
+
+### 数据容器通用的方法
+
+- len(容器)
+- max(容器)
+- min(容器)
+- list(容器)
+- tuple(容器)
+- str(容器)
+- set(容器)
+- sorted(容器, [reverse=True]) `排序结果为列表对象`
