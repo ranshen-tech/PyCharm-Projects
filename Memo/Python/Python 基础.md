@@ -1,3 +1,9 @@
+### 赋值
+- **链式赋值**
+`a = b = c = 100`
+- **交换赋值**
+`a, b = b, a`
+
 ## while循环
 
 
@@ -52,18 +58,6 @@ while i <= 10:
     i += 1
 print(f'坚持到{i - 1}天，表白成功')
 
-```
-
-
-#### 制表符/t
-
-```python
-# 使用空格无法对齐
-print('hello world')
-print('itheima best')
-# 使用/t可以对齐
-print('hello\twolrd')
-print('itheima\tbest')
 ```
 
 
@@ -363,3 +357,4 @@ new_str = string.strip('12')
 - str(容器)
 - set(容器)
 - sorted(容器, [reverse=True]) `排序结果为列表对象`
+- sorted()函数返回重新排序的列表，与sort()函数的区别在于sort()函数是list列表中的函数，而sorted()函数可以对所有可迭代对象进行排序操作。并且用sort()函数对列表排序时会影响列表本身，而sorted()函数则不会。

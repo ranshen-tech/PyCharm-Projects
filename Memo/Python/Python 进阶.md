@@ -58,4 +58,20 @@ user_info(name='ran', age=18, id=110)  # user_info参数的类型是：<class 'd
 user_info(gender='male')  # user_info参数的类型是：<class 'dict'>, 内容是：{'gender': 'male'}
 ```
 
-- **匿名函数**
+
+### 匿名函数
+
+- 函数作为参数传递的方式
+- lambda函数：`lambda 参数: 函数体`
+  - 无法重复调用
+  - 无法写多行
+```python
+def test_func(compute):
+    result = compute(1, 2)
+    print(type(compute))
+    print(result)
+
+# <class 'function'>
+# 3
+test_func(lambda x, y: x + y)
+```
