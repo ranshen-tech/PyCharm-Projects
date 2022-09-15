@@ -6,7 +6,7 @@
 # print(a, b)
 
 
-s = 0
-for i in range(10):
-    s += i
-print(s)
+for i in range(5):
+    for j in range(5 - i):
+        print('*', end='')
+    print()
