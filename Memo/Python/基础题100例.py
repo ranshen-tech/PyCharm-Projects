@@ -76,3 +76,4 @@
 # print(sum_of_square(10))
 
 
+# 6.计算列表数字的和
