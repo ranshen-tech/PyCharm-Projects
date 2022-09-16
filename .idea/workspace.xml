@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="Added new exercise.">
-      <change afterPath="$PROJECT_DIR$/Memo/Python/第三方库-画图.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Memo/Python/基础题100例.py" beforeDir="false" afterPath="$PROJECT_DIR$/Memo/Python/基础题100例.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,7 @@
       <recent name="$PROJECT_DIR$/Memo/Mark Down" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.第三方库-画图">
+  <component name="RunManager" selected="Python.基础题100例">
     <configuration name="第三方库-画图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -210,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.第三方库-画图" />
         <item itemvalue="Python.基础题100例" />
+        <item itemvalue="Python.demo" />
+        <item itemvalue="Python.第三方库-画图" />
         <item itemvalue="Python.模拟手机通讯录" />
         <item itemvalue="Python.模拟京东购物流程" />
-        <item itemvalue="Python.demo" />
       </list>
     </recent_temporary>
   </component>
@@ -226,13 +226,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00011" summary="1407">
-      <created>1662703672108</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1662703672108</updated>
     </task>
     <task id="LOCAL-00012" summary="ˆ">
       <created>1662709069785</created>
@@ -570,7 +563,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663324829563</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Added new exercise.">
+      <created>1663332922999</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1663332922999</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

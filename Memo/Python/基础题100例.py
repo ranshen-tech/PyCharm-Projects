@@ -63,7 +63,6 @@
 计算：1^2 + 2^2 + 3^2 + ......+ N^2
 """
 
-
 # def sum_of_square(n):
 #     result = 0
 #     for i in range(n + 1):
@@ -97,3 +96,21 @@
 # end = 15
 # data = [i for i in range(begin, end) if i % 2 == 0]
 # print(f'begin = {begin}, end = {end}, even number is {data}')
+
+
+# 8.移除列表中的多个元素
+"""
+输入：[3, 5, 7, 9, 11, 13]
+移除元素：[7, 11]
+"""
+
+
+# lst1 = [3, 5, 7, 9, 11, 13]
+# lst2 = [7, 11]
+# data = [i for i in lst1 if i not in lst2]
+# print(f'From {lst1} remove {lst2}, result: {data}')
+
+
+# 9.对列表进行元素去重
+lst = [10, 20, 30, 10, 20]
+print(f'Source list is {lst}, unique list is {list(set(lst))}')
