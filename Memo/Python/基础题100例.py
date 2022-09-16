@@ -4,7 +4,6 @@
 3的阶乘：3*2*1
 """
 
-
 # def factorial(number):
 #     result = 1
 #     origin = number
@@ -30,3 +29,50 @@
 # print(area_of_circle(2))
 # print(area_of_circle(3.14))
 # print(area_of_circle(6.78))
+
+
+# 4.区间内的所有素数（质数）
+"""
+输入开始数字和结束数字[begin，end]
+打印区间内的所有素数（大于1的整数中，只能被1和自己整除）
+"""
+
+# def is_prime(number):
+#     if number == 2:
+#         return True
+#     for i in range(2, number):
+#         if number % i == 0:
+#             return False
+#     return True
+#
+#
+# def print_prime(x, y):
+#     for i in range(x, y + 1):
+#         if is_prime(i):
+#             print(f'{i} is a prime!')
+#
+#
+# begin = 11
+# end = 25
+# print_prime(begin, end)
+
+
+# 5.求前n个数字的平方和
+"""
+输入：正整数N
+计算：1^2 + 2^2 + 3^2 + ......+ N^2
+"""
+
+
+# def sum_of_square(n):
+#     result = 0
+#     for i in range(n + 1):
+#         result += i ** 2
+#     return f'Sum of square {n} is {result}'
+#
+#
+# print(sum_of_square(3))
+# print(sum_of_square(5))
+# print(sum_of_square(10))
+
+
