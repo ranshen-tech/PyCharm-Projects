@@ -77,3 +77,18 @@
 
 
 # 6.计算列表数字的和
+# def sum_of_list(lst):
+#     total = 0
+#     for i in lst:
+#         total += i
+#     return f'Sum of list {lst} is {total}'
+#
+#
+# lst1 = [1, 2, 3, 4]
+# lst2 = [17, 5, 3, 5]
+# print(sum_of_list(lst1))
+# print(sum_of_list(lst2))
+# print(sum(lst1))
+# print(sum(lst2))
+
+
