@@ -358,3 +358,5 @@ new_str = string.strip('12')
 - set(容器)
 - sorted(容器, [reverse=True]) `排序结果为列表对象`
 - sorted()函数返回重新排序的列表，与sort()函数的区别在于sort()函数是list列表中的函数，而sorted()函数可以对所有可迭代对象进行排序操作。并且用sort()函数对列表排序时会影响列表本身，而sorted()函数则不会。
+- index()
+- count()

@@ -58,3 +58,12 @@
 #         print(i, end='')
 #         if i == 'h':
 #             break
+
+
+# import random
+#
+#
+# lst = [random.random() for _ in range(10)]
+# print(lst)
+
+
