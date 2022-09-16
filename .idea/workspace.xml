@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="2022915">
+    <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="Updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book excerpts/人生战略.md" beforeDir="false" afterPath="$PROJECT_DIR$/Book excerpts/人生战略.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Memo/Python/Python 基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/Memo/Python/Python 基础.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Memo/Python/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Memo/Python/demo.py" afterDir="false" />
     </list>
@@ -537,7 +536,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663250869009</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Updated">
+      <created>1663291844598</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1663291844598</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -556,7 +562,6 @@
       <path value="$PROJECT_DIR$/Learning_Notes" />
       <path value="$PROJECT_DIR$/Pycharm Course" />
     </ignored-roots>
-    <MESSAGE value="test" />
     <MESSAGE value="2022-9-9ˆ" />
     <MESSAGE value="1407" />
     <MESSAGE value="ˆ" />
@@ -581,6 +586,7 @@
     <MESSAGE value="函数的多种传递方式" />
     <MESSAGE value="j" />
     <MESSAGE value="2022915" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022915" />
+    <MESSAGE value="Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
   </component>
 </project>

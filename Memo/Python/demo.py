@@ -67,3 +67,19 @@
 # print(lst)
 
 
+# lst = [[j for j in range(3)] for i in range(4)]
+# print(lst)
+
+#
+# # zip函数的使用  函数映射的结果是zip对象
+# lst1 = [1, 2, 3, 4]
+# lst2 = ['rs', 'zyc', 'cyy', 'xp']
+# zip1 = zip(lst1, lst2)
+# zip2 = zip(lst2, lst1)
+# print(zip1)
+# print(zip2)
+# print(list(zip1))
+# print(list(zip2))
+# d = dict(zip1)
+# print(d)
+# print(dict(zip2))
