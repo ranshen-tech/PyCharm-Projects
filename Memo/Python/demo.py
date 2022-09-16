@@ -90,7 +90,58 @@
 # print(d)
 
 
-t = (1, 2, 3)
-d = {t: 10}
-print(d)
+# t = (1, 2, 3)
+# d = {t: 10}
+# print(d)
+
+
+# 可以直接使用dict函数将[(1, 'rs'), (2, 'cyy'), (3, 'xp')]转成字典
+# lst = [(1, 'rs'), (2, 'zyc'), (3, 'xp')]
+# d = dict(lst)
+# print(d)
+
+
+# # pop方法
+# print(d.pop(1))
+# print(d)
+# print(d.pop(111, '不存在'))
+# print(d)
+
+
+# 字典生成
+# import random
+#
+#
+# d = {key: random.randint(1, 3) for key in range(5)}
+# print(d)
+
+
+# # 使用映射函数生成字典
+# name = ['rs', 'zyc', 'cyy']
+# age = [29, 18, 21]
+# d = {key: value for key, value in zip(name, age)}
+# print(d)
+
+
+# # 集合生成式
+# s = {i for i in range(10) if i % 2}
+# print(s)
+
+
+# 练习
+# d = {'a': 10, 'b': 20, 'c': 30, 'd': 40}
+# d2 = d
+# d['b'] = 100
+# print(d['b'] + d2['b'])
+
+
+# lst = []
+# for i in '想念':
+#     for j in '家人':
+#         lst.append(i + j)
+# print(lst)
+
+
+# lst = [1, 3, 5, 7, 9]
+# print(lst.reverse())
 
