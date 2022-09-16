@@ -92,3 +92,8 @@
 # print(sum(lst2))
 
 
+# 7.计算数字范围内[x, y}的所有偶数
+# begin = 4
+# end = 15
+# data = [i for i in range(begin, end) if i % 2 == 0]
+# print(f'begin = {begin}, end = {end}, even number is {data}')
