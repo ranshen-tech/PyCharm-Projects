@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="Added new exercise.">
-      <change afterPath="$PROJECT_DIR$/Memo/Python/sunnyday.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Memo/Python/heima.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Memo/Python/charpter_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Memo/Python/charpter_8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -252,13 +251,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00018" summary="头像图标 Icon">
-      <created>1662729289740</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1662729289740</updated>
     </task>
     <task id="LOCAL-00019" summary="头像图标 Icon">
       <created>1662729449730</created>
@@ -596,7 +588,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663394684233</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Added new exercise.">
+      <created>1663398838518</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1663398838518</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

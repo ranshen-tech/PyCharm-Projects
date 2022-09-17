@@ -49,3 +49,10 @@ import time
 
 
 # 写操作'a'
+# f = open('heima.txt', 'a', encoding='UTF-8')
+# f.write('\n月薪过万')
+# f.flush()
+# f.close()
+
+
+#
