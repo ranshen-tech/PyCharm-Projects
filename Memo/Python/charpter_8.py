@@ -39,5 +39,13 @@ import time
 #         print(f'每一行的数据是: {line}')
 
 
-a = b = c = 1000
-print(c, b, a)
+# 写操作'w'(打开不存在文件）
+# f = open('sunnyday.txt', 'w', encoding='UTF-8')
+# f.write('ranshen')
+
+# f.flush()  # 内容刷新
+# f.close()  # 包含flush()功能
+# time.sleep(6000)
+
+
+# 写操作'a'
