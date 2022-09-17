@@ -104,7 +104,6 @@
 移除元素：[7, 11]
 """
 
-
 # lst1 = [3, 5, 7, 9, 11, 13]
 # lst2 = [7, 11]
 # data = [i for i in lst1 if i not in lst2]
@@ -112,5 +111,32 @@
 
 
 # 9.对列表进行元素去重
-lst = [10, 20, 30, 10, 20]
-print(f'Source list is {lst}, unique list is {list(set(lst))}')
+# lst = [10, 20, 30, 10, 20]
+# print(f'Source list is {lst}, unique list is {list(set(lst))}')
+
+
+# 11.实现学生成绩排序
+"""
+复杂列表：元素是字典或元组
+"""
+# stu = [
+#     {'id': 1001, 'name': 'rs', 'grade': 88},
+#     {'id': 1002, 'name': 'zyc', 'grade': 77},
+#     {'id': 1003, 'name': 'cyy', 'grade': 99},
+#     {'id': 1004, 'name': 'xp', 'grade': 66}
+# ]
+#
+# sort_stu = sorted(stu, key=lambda x: x['id'], reverse=True)  # x表示列表中的每一个元素
+# print(f'Source: {stu},\nsort result: {sort_stu}')
+
+
+# TODO 12.读取成绩文件排序数据
+"""
+输入
+"""
+
+
+# 13.统计学生成绩高分、低分、平均分
+
+
+# 14.

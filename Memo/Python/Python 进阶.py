@@ -38,10 +38,13 @@
 
 
 # 函数作为参数传递
-def test_func(compute):
-    result = compute(1, 2)
-    print(type(compute))
-    print(result)
+# def test_func(compute):
+#     result = compute(1, 2)
+#     print(type(compute))
+#     print(result)
+#
+#
+# test_func(lambda x, y: x + y)
 
 
-test_func(lambda x, y: x + y)
+# 打
