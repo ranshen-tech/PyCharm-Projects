@@ -2,7 +2,8 @@ import time
 
 # f = open('test.txt', 'r', encoding='UTF-8')
 # print(type(f))
-# f.read(num)  # num表示从文件中读取的数据的长度,没有num默认读取所有数据
+# f.read(num) num表示从文件中读取的数据的长度,没有num默认读取所有数据
+# print(type(f.read()))
 # print(f'read方法读取10个字节的结果: {f.read(10)}')
 # print(f'read方法读取全部内容的结果: {f.read()}')  # 多次调用read()方法会在之前读取的内容后继续读取
 
