@@ -39,3 +39,5 @@ import time
 #         print(f'每一行的数据是: {line}')
 
 
+a = b = c = 1000
+print(c, b, a)
