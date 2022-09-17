@@ -5,46 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="Added new exercise.">
-      <change beforePath="$PROJECT_DIR$/Memo/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/.idea/Memo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/GitHub/github.md" beforeDir="false" afterPath="$PROJECT_DIR$/GitHub/github.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/Mac 快捷键.md" beforeDir="false" afterPath="$PROJECT_DIR$/Mac 快捷键.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/MarkDown.md" beforeDir="false" afterPath="$PROJECT_DIR$/MarkDown.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/MySQL基础" beforeDir="false" afterPath="$PROJECT_DIR$/MySQL基础" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/Python/Python 进阶.md" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python 进阶.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/Python/Python 进阶.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Python 进阶.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/Python/atm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/atm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/Python/charpter_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/charpter_8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/Python/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/Python/heima.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/Python/sunnyday.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/Python/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/Python/word.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/word.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/Python/判断闰年.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/判断闰年.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/Python/剪刀石头布.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/剪刀石头布.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/Python/千年虫.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/千年虫.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/Python/取数位上的数.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/取数位上的数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/Python/基础题100例.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/基础题100例.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/Python/模拟京东购物流程.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/模拟京东购物流程.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/Python/模拟手机通讯录.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/模拟手机通讯录.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/Python/水仙花数.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/水仙花数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/Python/海龟作图.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/Python/画三角形.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/画三角形.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/Python/第三方库-画图.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/第三方库-画图.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/Python/进阶练习-单词计数.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/进阶练习-单词计数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memo/Python/鸡兔同笼.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/鸡兔同笼.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture/Icon/4a36acaf2edda3cc52f2c54d03e93901213f924c.png" beforeDir="false" afterPath="$PROJECT_DIR$/Icon/4a36acaf2edda3cc52f2c54d03e93901213f924c.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture/Icon/Evil.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Icon/Evil.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture/Icon/GoodLuck.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Icon/GoodLuck.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture/Icon/NFT.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Icon/NFT.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture/Icon/dd.jgp.webp" beforeDir="false" afterPath="$PROJECT_DIR$/Icon/dd.jgp.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture/Icon/u=2103414616,152367442&amp;fm=30&amp;app=106&amp;f=JPEG.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Icon/u=2103414616,152367442&amp;fm=30&amp;app=106&amp;f=JPEG.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Picture/Icon/u=2454136856,391670412&amp;fm=224&amp;app=112&amp;f=JPEG.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Icon/u=2454136856,391670412&amp;fm=224&amp;app=112&amp;f=JPEG.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/文件备份/bill.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/文件备份/bill.txt.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/文件备份/进阶-文件备份.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,15 +60,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Python/文件备份" />
       <recent name="$PROJECT_DIR$/" />
       <recent name="$PROJECT_DIR$/Memo/Python" />
       <recent name="$PROJECT_DIR$/Picture/Icon" />
       <recent name="$PROJECT_DIR$/Memo/" />
-      <recent name="$PROJECT_DIR$/Memo/Mark Down" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.charpter_8">
-    <configuration name="第三方库-画图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.进阶-文件备份">
+    <configuration name="进阶-文件备份" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,11 +76,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Memo/Python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Memo/Python/第三方库-画图.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/文件备份/进阶-文件备份.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -274,11 +238,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.进阶-文件备份" />
         <item itemvalue="Python.charpter_8" />
         <item itemvalue="Python.进阶练习-单词计数" />
         <item itemvalue="Python.基础题100例" />
         <item itemvalue="Python.demo" />
-        <item itemvalue="Python.第三方库-画图" />
       </list>
     </recent_temporary>
   </component>
@@ -290,13 +254,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00020" summary="头像图标 Icon">
-      <created>1662729539290</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1662729539290</updated>
     </task>
     <task id="LOCAL-00021" summary="头像图标 Icon">
       <created>1662729879240</created>
@@ -634,7 +591,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663399256870</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="Added new exercise.">
+      <created>1663399681920</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1663399681920</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
