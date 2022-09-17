@@ -1,18 +1,5 @@
 ### 函数的多返回值
 
-```python
-# 支持不同类型的数据return
-def test_return():
-    return 1, 'hello', True
-
-
-x, y, z = test_return()
-print(x)
-print(y)
-print(z)
-```
-
-
 ### 函数的多种传参方式
 
 - **位置参数**：
