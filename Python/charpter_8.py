@@ -1,6 +1,12 @@
 import time
 
 # f = open('test.txt', 'r', encoding='UTF-8')
+# fw = open('test.txt', 'w', encoding='UTF-8')
+# fa = open('test.txt', 'a', encoding='UTF-8')
+# print(type(f))
+# print(type(fw))
+# print(type(fa))
+
 # print(type(f))
 # f.read(num) num表示从文件中读取的数据的长度,没有num默认读取所有数据
 # print(type(f.read()))
