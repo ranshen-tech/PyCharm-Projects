@@ -5,9 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="Updated">
-      <change beforePath="$PROJECT_DIR$/Book excerpts/富爸爸.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book excerpts/高效能人士的七个习惯.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHub/github.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/notebook.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book excerpts/Python从入门到实践.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book excerpts/了不起的Markdown.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book excerpts/人生战略.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Icon/4a36acaf2edda3cc52f2c54d03e93901213f924c.png" beforeDir="false" afterPath="$PROJECT_DIR$/Picture/Icon/4a36acaf2edda3cc52f2c54d03e93901213f924c.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Icon/Evil.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Picture/Icon/Evil.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Icon/GoodLuck.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Picture/Icon/GoodLuck.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Icon/NFT.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Picture/Icon/NFT.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Icon/dd.jgp.webp" beforeDir="false" afterPath="$PROJECT_DIR$/Picture/Icon/dd.jgp.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Icon/u=2103414616,152367442&amp;fm=30&amp;app=106&amp;f=JPEG.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Picture/Icon/u=2103414616,152367442&amp;fm=30&amp;app=106&amp;f=JPEG.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Icon/u=2454136856,391670412&amp;fm=224&amp;app=112&amp;f=JPEG.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Picture/Icon/u=2454136856,391670412&amp;fm=224&amp;app=112&amp;f=JPEG.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mac 快捷键.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySQL基础" beforeDir="false" afterPath="$PROJECT_DIR$/MySQL基础" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/caesar_cipher.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/caesar_cipher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/word.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/判断闰年.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,14 +83,14 @@
       <recent name="$PROJECT_DIR$/Python" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Picture" />
       <recent name="$PROJECT_DIR$/Python/文件备份" />
       <recent name="$PROJECT_DIR$/" />
       <recent name="$PROJECT_DIR$/Memo/Python" />
       <recent name="$PROJECT_DIR$/Picture/Icon" />
-      <recent name="$PROJECT_DIR$/Memo/" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.demo">
+  <component name="RunManager" selected="Python.notebook">
     <configuration name="模拟手机通讯录" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -182,7 +196,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="file_util" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="notebook" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,11 +204,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/my_utils" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/my_utils/file_util.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/notebook.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,34 +259,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="str_util" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python Project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/my_utils" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/my_utils/str_util.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.notebook" />
+        <item itemvalue="Python.scratch_1" />
+        <item itemvalue="Python.scratch_2" />
         <item itemvalue="Python.demo" />
         <item itemvalue="Python.charpter_8" />
-        <item itemvalue="Python.scratch_2" />
-        <item itemvalue="Python.file_util" />
-        <item itemvalue="Python.str_util" />
       </list>
     </recent_temporary>
   </component>
@@ -263,13 +277,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00033" summary="Conclusion">
-      <created>1662968810399</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1662968810399</updated>
     </task>
     <task id="LOCAL-00034" summary="删除了不必要的">
       <created>1662969005414</created>
@@ -607,7 +614,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663490626176</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="Updated">
+      <created>1663490912451</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1663490912451</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
