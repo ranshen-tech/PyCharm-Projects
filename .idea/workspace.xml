@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="Added new exercise.">
-      <change afterPath="$PROJECT_DIR$/Python/chapter_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/inexistence.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/a.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/chapter_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/chapter_9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +30,14 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../Library/Caches/JetBrains/PyCharmEdu2022.2/python_stubs/1456468620/time.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2ETPtUrZMmzctnNxzm9YeRrmoLQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -253,13 +259,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00025" summary="while循环案例">
-      <created>1662883138685</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1662883138685</updated>
     </task>
     <task id="LOCAL-00026" summary="while循环案例">
       <created>1662886983701</created>
@@ -597,7 +596,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663425905398</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Added new exercise.">
+      <created>1663464111822</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1663464111822</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
