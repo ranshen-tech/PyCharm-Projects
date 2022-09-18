@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="Updated">
-      <change beforePath="$PROJECT_DIR$/Mac 快捷键.md" beforeDir="false" afterPath="$PROJECT_DIR$/Mac 快捷键.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarkDown.md" beforeDir="false" afterPath="$PROJECT_DIR$/MarkDown.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book excerpts/富爸爸.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book excerpts/高效能人士的七个习惯.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GitHub/github.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -262,13 +263,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00032" summary="Conclusion">
-      <created>1662968664435</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1662968664435</updated>
     </task>
     <task id="LOCAL-00033" summary="Conclusion">
       <created>1662968810399</created>
@@ -606,7 +600,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663490246590</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Updated">
+      <created>1663490626176</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1663490626176</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
