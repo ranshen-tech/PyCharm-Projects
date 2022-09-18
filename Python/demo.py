@@ -145,3 +145,37 @@
 # lst = [1, 3, 5, 7, 9]
 # print(lst.reverse())
 
+
+# 2022918
+# lst1 = [1, 2, 3, 4, 5]
+# lst2 = ['python', 'java', 'javascript', 'rust']
+# z = zip(lst1, lst2)
+# x = tuple(z)
+# print(dict(tuple(zip(lst1, lst2))))
+
+# a = (('apple', 'a'), ('b', 'banana'), ('c', 'cat'))
+# b = list(a)
+# print(b)
+# print(dict(b))
+
+
+# t = (i for i in range(10) if i % 2)
+# print(tuple(t))
+
+# d = {i: i + 2 for i in range(10) if i % 2}
+# print(d)
+
+
+# 集合是可变数据类型，集合中的元素必须是不可变数据类型,集合没有索引，但集合中元素可以for遍历
+# lst = (1, 2, 3)
+# s = set(lst)
+# print(s)
+# s.add(22)
+# print(s)
+# for i in s:
+#     print(i)
+
+s = {'apple', 'banana', 'grape', 'pear', 'orange'}
+d = {'apple': 1, 'banana': 2, 'grape': 3, 'pear': 4, 'orange': 5}
+print(s)
+print(d)

@@ -13,9 +13,9 @@ def print_file_into(file_name):
         content = f.read()
         print('文件全部内容如下：')
         print(content)
-        f.close()
     finally:
-        print(type(f))
+        if f:
+            f.close()
 
 
 def append_to_file(file_name, data):
@@ -26,9 +26,9 @@ def append_to_file(file_name, data):
     :return: None
     """
     with open(file_name, 'a', encoding='UTF-8') as f:
-        f.write(data)
+        f.write(f'{data}\n')
 
 
 if __name__ == '__main__':
     print_file_into('inexistence.txt')
-    append_to_file('inexistence.txt', 'i love u')
+    append_to_file('inexistence.txt', 'ran shen')
