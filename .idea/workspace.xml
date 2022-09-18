@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="Added">
-      <change afterPath="$PROJECT_DIR$/Python/my_utils/inexistence.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/a.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/charpter_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/charpter_8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/my_utils/file_util.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/my_utils/file_util.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/my_utils/str_util.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/my_utils/str_util.py" afterDir="false" />
+    <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="Updated">
+      <change beforePath="$PROJECT_DIR$/Mac 快捷键.md" beforeDir="false" afterPath="$PROJECT_DIR$/Mac 快捷键.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarkDown.md" beforeDir="false" afterPath="$PROJECT_DIR$/MarkDown.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -267,20 +262,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00030" summary="发工资💰，优雅">
-      <created>1662967883698</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1662967883698</updated>
-    </task>
-    <task id="LOCAL-00031" summary="🏧项目">
-      <created>1662968233995</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1662968233995</updated>
     </task>
     <task id="LOCAL-00032" summary="Conclusion">
       <created>1662968664435</created>
@@ -611,7 +592,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663480458701</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="Added">
+      <created>1663490148430</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1663490148430</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Updated">
+      <created>1663490246590</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1663490246590</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -654,8 +649,8 @@
     <MESSAGE value="2022915" />
     <MESSAGE value="Changed" />
     <MESSAGE value="Added new exercise." />
-    <MESSAGE value="Updated" />
     <MESSAGE value="Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added" />
+    <MESSAGE value="Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
   </component>
 </project>
