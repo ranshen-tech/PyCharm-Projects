@@ -1,10 +1,19 @@
+# def str_reverse(s):
+#     """
+#     将接收的字符串反转返回
+#     :param s: str
+#     :return: str
+#     """
+#     return ''.join(sorted(s, reverse=True))
+
+
 def str_reverse(s):
     """
     将接收的字符串反转返回
     :param s: str
     :return: str
     """
-    return ''.join(sorted(s, reverse=True))
+    return s[::-1]
 
 
 def sub_str(s, x, y):
@@ -19,5 +28,5 @@ def sub_str(s, x, y):
 
 
 if __name__ == '__main__':
-    print(str_reverse('123'))
-    print(sub_str('ran0519', 2, 4))
+    print(str_reverse('黑马程序员'))
+    print(sub_str('黑马程序员', 1, 3))
