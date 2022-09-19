@@ -129,7 +129,3 @@
 # for i in s:
 #     print(i)
 
-# s = {'apple', 'banana', 'grape', 'pear', 'orange'}
-# d = {'apple': 1, 'banana': 2, 'grape': 3, 'pear': 4, 'orange': 5}
-# print(s)
-# print(d)
