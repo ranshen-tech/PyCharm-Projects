@@ -2,10 +2,6 @@
 # print(a, b, d)
 
 
-# a, *b = 'room'
-# print(a, b)
-
-
 # list1 = [i for i in range(10) if i % 2 == 0]
 # print(list1)
 #
