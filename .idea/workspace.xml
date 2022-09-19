@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="Changed" />
+    <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="Updated">
+      <change beforePath="$PROJECT_DIR$/Python/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/demo.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -259,34 +261,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00042" summary="思维编程&#10;1. 人生战略">
-      <created>1663116069390</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1663116069390</updated>
-    </task>
-    <task id="LOCAL-00043" summary="思维编程&#10;1. 人生战略">
-      <created>1663118367202</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1663118367202</updated>
-    </task>
-    <task id="LOCAL-00044" summary="容器通用方法">
-      <created>1663120335805</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1663120335805</updated>
-    </task>
-    <task id="LOCAL-00045" summary="函数的多种传递方式">
-      <created>1663127861191</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1663127861191</updated>
     </task>
     <task id="LOCAL-00046" summary="j">
       <created>1663161187118</created>
@@ -603,7 +577,35 @@
       <option name="project" value="LOCAL" />
       <updated>1663597826950</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="Changed">
+      <created>1663597943570</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1663597943570</updated>
+    </task>
+    <task id="LOCAL-00092" summary="Updated">
+      <created>1663598012451</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1663598012451</updated>
+    </task>
+    <task id="LOCAL-00093" summary="Updated">
+      <created>1663598051964</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1663598051964</updated>
+    </task>
+    <task id="LOCAL-00094" summary="Updated">
+      <created>1663598106173</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1663598106173</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -646,8 +648,8 @@
     <MESSAGE value="2022915" />
     <MESSAGE value="Added new exercise." />
     <MESSAGE value="Added" />
-    <MESSAGE value="Updated" />
     <MESSAGE value="Changed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed" />
+    <MESSAGE value="Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
   </component>
 </project>
