@@ -100,10 +100,6 @@
 # print(lst)
 
 
-# lst = [1, 3, 5, 7, 9]
-# print(lst.reverse())
-
-
 # 2022918
 # lst1 = [1, 2, 3, 4, 5]
 # lst2 = ['python', 'java', 'javascript', 'rust']
