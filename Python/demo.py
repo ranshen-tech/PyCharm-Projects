@@ -2,14 +2,11 @@
 # print(a, b, d)
 
 
-tuple1 = (i for i in range(10) if i % 2 == 0)
-print(tuple1)
-print(tuple(tuple1))
-#
-# set1 = {i for i in range(10) if i % 2 == 0}
-# print(set1)
-#
-# dict1 = {i for i in range(10) if i % 2 == 0}
+# tuple1 = (i for i in range(10) if i % 2 == 0)
+# print(tuple1)
+# print(tuple(tuple1))
+
+dict1 = {i for i in range(10) if i % 2 == 0}
 
 
 # for i in range(1, 10):
