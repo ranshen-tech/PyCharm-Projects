@@ -20,7 +20,7 @@
 #         print(' ', end='')
 #     print('*' * (2 * (bot - i) - 1))
 
-#
+
 # for i in 'python':
 #     for j in range(2):
 #         print(i, end='')
@@ -29,8 +29,8 @@
 
 
 # import random
-#
-#
+
+
 # lst = [random.random() for _ in range(10)]
 # print(lst)
 
