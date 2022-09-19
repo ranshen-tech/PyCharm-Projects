@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="Updated">
-      <change afterPath="$PROJECT_DIR$/english_grammar_notes" afterDir="false" />
+    <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="Changed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python/caesar_cipher.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/caesar_cipher.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python/notebook.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/notebook.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/english_grammar_notes" beforeDir="false" afterPath="$PROJECT_DIR$/english_grammar_notes" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -264,13 +264,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00035" summary="列表元组">
-      <created>1663035438296</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1663035438296</updated>
     </task>
     <task id="LOCAL-00036" summary="字符串">
       <created>1663040907458</created>
@@ -608,7 +601,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663508726061</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="Changed">
+      <created>1663558061192</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1663558061192</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -649,10 +649,10 @@
     <MESSAGE value="函数的多种传递方式" />
     <MESSAGE value="j" />
     <MESSAGE value="2022915" />
-    <MESSAGE value="Changed" />
     <MESSAGE value="Added new exercise." />
     <MESSAGE value="Added" />
     <MESSAGE value="Updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
+    <MESSAGE value="Changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed" />
   </component>
 </project>
