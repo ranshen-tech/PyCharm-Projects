@@ -73,8 +73,8 @@
 
 # 字典生成
 # import random
-#
-#
+
+
 # d = {key: random.randint(1, 3) for key in range(5)}
 # print(d)
 
@@ -84,11 +84,6 @@
 # age = [29, 18, 21]
 # d = {key: value for key, value in zip(name, age)}
 # print(d)
-
-
-# # 集合生成式
-# s = {i for i in range(10) if i % 2}
-# print(s)
 
 
 # 练习
