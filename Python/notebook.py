@@ -39,5 +39,53 @@
 """
 2022-09-19
 """
-s = 'r'
-print('/'.join(s))
+# 输入一个十进制整数，分别输入二进制，八进制，十六进制字符串
+# num = int(input('请输入一个十进制整数：'))
+# print(f'{num}的二进制数为：{bin(num)}')
+# print(f'{num}的八进制数为：{oct(num)}')
+# print(f'{num}的十六进制数为：{hex(num)}')
+
+
+# 最大公约数：如存在x满足a，b均可以整除x，则x为a，b的公约数，当x最大时为最大公约数
+# a = int(input('请输入整数a：'))
+# b = int(input('请输入整数b ：'))
+# x = 0
+# assert a > 0 and b > 0, '请输入正整数!'
+# min_num = min(a, b)
+# max_num = max(a, b)
+# for x in range(min_num, 0, -1):  # 倒着遍历
+#     if a % x == 0 and b % x == 0:
+#         break
+# print(f'{a}和{b}的最大公约数是：{x}')
+# 最小公倍数：如存在y满足a，b均可以被整除，则y为a，b的公倍数，当y最小时为最小x公倍数
+# while True:
+#     if max_num % a == 0 and max_num % b == 0:
+#         break
+#     max_num += 1
+# print(f'{a}和{b}的最小公倍数是：{max_num}')
+
+
+# 统计不同字符个数
+# string = input('请输入一行字符串：')
+# alpha, num, space, other = 0, 0, 0, 0
+# for i in string:
+#     if i.isalpha():
+#         alpha += 1
+#     elif i.isdigit():
+#         num += 1
+#     elif i.isspace():
+#         space += 1
+#     else:
+#         other += 1
+# print(f'字母字符{alpha}, 数字字符{num}, 空格字符{space}, 其他字符{other}')
+
+
+# 求阶乘函数
+# def factorial(n):
+#     total = 1
+#     for i in range(1, n + 1):
+#         total *= i
+#     return total
+
+
+# print(factorial(10))
