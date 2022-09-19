@@ -6,22 +6,14 @@
 # print(tuple1)
 # print(tuple(tuple1))
 
-dict1 = {i for i in range(10) if i % 2 == 0}
-
-
-# for i in range(1, 10):
-#     for j in range(1, i + 1):
-#         print(f'{j} * {i} = {j * i}', end='\t')
-#     print()
-
 
 # for i in range(5):
 #     for j in range(i + 1):
 #         print('*', end='\t')
 #     print()
 # print('\n')
-#
-#
+
+
 # for i in range(5):
 #     for j in range(5 - i):
 #         print('*', end='\t')
@@ -165,7 +157,7 @@ dict1 = {i for i in range(10) if i % 2 == 0}
 # for i in s:
 #     print(i)
 
-s = {'apple', 'banana', 'grape', 'pear', 'orange'}
-d = {'apple': 1, 'banana': 2, 'grape': 3, 'pear': 4, 'orange': 5}
-print(s)
-print(d)
+# s = {'apple', 'banana', 'grape', 'pear', 'orange'}
+# d = {'apple': 1, 'banana': 2, 'grape': 3, 'pear': 4, 'orange': 5}
+# print(s)
+# print(d)
