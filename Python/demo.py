@@ -7,12 +7,6 @@
 # print(tuple(tuple1))
 
 
-# for i in range(5):
-#     for j in range(5 - i):
-#         print('*', end='\t')
-#     print()
-# print('\n')
-
 # top = int(input('请输入菱形上半部分有多少行：'))
 # bot = top - 1
 #
