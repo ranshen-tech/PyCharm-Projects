@@ -81,11 +81,11 @@
 
 
 # 求阶乘函数
-# def factorial(n):
-#     total = 1
-#     for i in range(1, n + 1):
-#         total *= i
-#     return total
+def factorial(n):
+    total = 1
+    for i in range(n, 0, -1):
+        total *= i
+    return total
 
 
-# print(factorial(10))
+print(factorial(5))
