@@ -2,12 +2,9 @@
 # print(a, b, d)
 
 
-# list1 = [i for i in range(10) if i % 2 == 0]
-# print(list1)
-#
-# tuple1 = (i for i in range(10) if i % 2 == 0)
-# print(tuple1)
-# print(list(tuple1))
+tuple1 = (i for i in range(10) if i % 2 == 0)
+print(tuple1)
+print(tuple(tuple1))
 #
 # set1 = {i for i in range(10) if i % 2 == 0}
 # print(set1)
