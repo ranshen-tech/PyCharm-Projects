@@ -77,7 +77,7 @@
       <recent name="$PROJECT_DIR$/Picture/Icon" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.caesar_cipher">
+  <component name="RunManager" selected="Python.caesar_cypher">
     <configuration name="模拟手机通讯录" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="caesar_cipher" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="caesar_cypher" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,7 +153,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/caesar_cipher.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/caesar_cypher.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -248,7 +248,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.caesar_cipher" />
+        <item itemvalue="Python.caesar_cypher" />
         <item itemvalue="Python.notebook" />
         <item itemvalue="Python.scratch_1" />
         <item itemvalue="Python.scratch_2" />

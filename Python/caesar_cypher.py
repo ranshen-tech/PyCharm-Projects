@@ -5,12 +5,6 @@ C = (P + 3) mod 26
 P = (C - 3) mod 26
 对字母a-z和A-Z按照加密算法转换，非英文字母部分直接输出
 """
-# print(ord('a'))
-# print(97 % 26)
-# print(ord('z'))
-# print(125 % 26)
-
-
 # 加密🔐
 # plain_text = input('plain text: ')
 # key = int(input('key: '))  # 位移长度（密匙🔑）
@@ -50,14 +44,14 @@ Caesar cypher (第二版)
 # print(chr(97))
 
 # todo 只能输入小写，大写就对不上
-s1 = 'abcdefghijklmnopqrstuvwxyz'
-s2 = 'nopqrstuvwxy`abcdefghijklz'
-d = {}
-for letter in range(65, 97):  # chr(65) --> 'A', chr(97) --> 'a'
-    for i in range(26):
-        d[chr(letter + i)] = chr(letter + (i + 13) % 26)
-print(''.join(d.get(letter, letter) for letter in s1))  # 编码
-print(''.join(d.get(letter, letter) for letter in s2))  # 解码
+# s1 = 'abcdefghijklmnopqrstuvwxyz'
+# s2 = 'nopqrstuvwxy`abcdefghijklz'
+# d = {}
+# for letter in range(65, 97):  # chr(65) --> 'A', chr(97) --> 'a'
+#     for i in range(26):
+#         d[chr(letter + i)] = chr(letter + (i + 13) % 26)
+# print(''.join(d.get(letter, letter) for letter in s1))  # 编码
+# print(''.join(d.get(letter, letter) for letter in s2))  # 解码
 # print(ord('_'))
 # print(chr(122))
 # print(d)
