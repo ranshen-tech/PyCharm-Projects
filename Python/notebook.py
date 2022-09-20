@@ -191,12 +191,12 @@
 # def isPrime(n):
 #     if n <= 1:
 #         return False
-    # 对于正整数n，如果用2-n之间的所有整数去除，均无法整除，那么n是质数（只能被1和自己整除）
-    # for i in range(2, n):
-    #     if n % i == 0:
-    #         return False
-    # else:
-    #     return True
+# 对于正整数n，如果用2-n之间的所有整数去除，均无法整除，那么n是质数（只能被1和自己整除）
+# for i in range(2, n):
+#     if n % i == 0:
+#         return False
+# else:
+#     return True
 # try:
 #     num = eval(input('请输入要输入的数字：'))
 #     print(isPrime(num))
@@ -209,3 +209,12 @@
 #         print(j, end=' ')
 
 
+# 组合数据类型：集合、序列、映射
+# 集合操作符：
+# S-T(差集)在S中但不在T中;S&T(交集)同时在S和T中；S^T(补集)S和T中非共同元素;S|T(并集)S和T中所有元素
+# s = {1, 2, 3}
+# t = {3, 4, 5}
+# print(s - t)
+# print(s & t)
+# print(s ^ t)
+# print(s | t)

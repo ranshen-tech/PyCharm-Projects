@@ -9,3 +9,4 @@ for i in range(100, 1000):
     hundreds = i // 100
     if units ** 3 + tens ** 3 + hundreds ** 3 == i:
         print(i)
+
