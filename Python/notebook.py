@@ -94,10 +94,11 @@
 """
 2022-09-20
 """
+
+
 # json本质上是特定格式的字符串：数据格式是字典，或者内部嵌套字典的列表
 # 演示json数据和python字典相互转换
 # import json
-import json
 
 # 准备列表，列表中每一个元素都是字典，将其转换为json
 # data = [{'name': 'rs', 'age': 29}, {'name': 'zyc', 'age': 38}, {'name': 'cyy', 'age': 16}]
@@ -128,24 +129,59 @@ import json
 
 # pycharts基础入门
 # 导包，导入line功能构建折线图对象
-from pyecharts.charts import Line
+# from pyecharts.charts import Line
 # 导包，导入各种控制选项
-from pyecharts.options import TitleOpts, LegendOpts, ToolboxOpts, VisualMapOpts
+# from pyecharts.options import TitleOpts, LegendOpts, ToolboxOpts, VisualMapOpts
 
 # 通过line函数得到折线图对象
-line = Line()
+# line = Line()
 # 添加x轴数据
-line.add_xaxis(['中国', '美国', '英国'])
+# line.add_xaxis(['中国', '美国', '英国'])
 # 添加y轴数据
-line.add_yaxis('GDP', [30, 20, 10])
+# line.add_yaxis('GDP', [30, 20, 10])
 
 # 全局配置通过set_global_opts()方法
-line.set_global_opts(
-    title_opts=TitleOpts(title='Gdp展示', pos_left='center', pos_bottom='1%'),  # 光标移到括号里按command + p可以把需要的参数都弹出来
-    legend_opts=LegendOpts(is_show=True),  # 图例
-    toolbox_opts=ToolboxOpts(is_show=True),  # 工具箱
-    visualmap_opts=VisualMapOpts(is_show=True)  # 视觉映射
-)
+# line.set_global_opts(
+#     title_opts=TitleOpts(title='Gdp展示', pos_left='center', pos_bottom='1%'),  # 光标移到括号里按command + p可以把需要的参数都弹出来
+#     legend_opts=LegendOpts(is_show=True),  # 图例
+#     toolbox_opts=ToolboxOpts(is_show=True),  # 工具箱
+#     visualmap_opts=VisualMapOpts(is_show=True)  # 视觉映射
+# )
 
 # 生成图像
-line.render()
+# line.render()
+
+
+# 全局变量在函数内部使用时需要提前使用global声明
+# n = 2
+# def multiply(x, y=10):
+#     return x * y * n  # 未使用global，即使n名称相同，也不是全局变量
+
+
+# s = multiply(3, 4)
+# print(s)
+
+
+# def multiply(x, y=10):
+#     global n
+#     n = x * y
+#     return n
+
+
+# s = multiply(99, 2)
+# print(s)
+# print(n)
+
+
+# string = "an apple a day"
+# def split(s):
+#     return s.split('a')
+# print(split(string))
+
+
+# def func(ls=[]):
+#     ls.append(1)
+#     return ls
+# a = func()
+# b = func()
+# print(a, b)

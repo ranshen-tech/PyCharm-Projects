@@ -7,7 +7,6 @@
     <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="Updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python/notebook.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/notebook.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/render.html" beforeDir="false" afterPath="$PROJECT_DIR$/Python/render.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -263,13 +262,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00058" summary="Added new exercise.">
-      <created>1663319578729</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1663319578729</updated>
     </task>
     <task id="LOCAL-00059" summary="Added new exercise.">
       <created>1663324829563</created>
@@ -607,7 +599,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663643896247</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="Updated">
+      <created>1663650887788</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1663650887788</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
