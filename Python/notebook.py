@@ -129,12 +129,19 @@ import json
 # pycharts基础入门
 # 导包，导入line功能构建折线图对象
 from pyecharts.charts import Line
-
+# 导包，导入各种控制选项
+from pyecharts.options import TitleOpts
 # 通过line函数得到折线图对象
 line = Line()
 # 添加x轴数据
 line.add_xaxis(['中国', '美国', '英国'])
 # 添加y轴数据
 line.add_yaxis('GDP', [30, 20, 10])
-# 生成图标
+
+# 全局配置通过set_global_opts()方法
+line.set_global_opts(
+    title_opts=TitleOpts('GDP展示')  # 光标移到括号里按command + p可以把需要的参数都弹出来
+)
+
+# 生成图像
 line.render()
