@@ -81,11 +81,25 @@
 
 
 # 求阶乘函数
-def factorial(n):
-    total = 1
-    for i in range(n, 0, -1):
-        total *= i
-    return total
+# def factorial(n):
+#     total = 1
+#     for i in range(n, 0, -1):
+#         total *= i
+#     return total
 
 
-print(factorial(5))
+# print(factorial(5))
+
+
+"""
+2022-09-20
+"""
+# json本质上是特定格式的字符串：数据格式是字典，或者内部嵌套字典的列表都转换为字符串
+# 导入json模块
+import json
+
+# 准备符合json格式要求的python数据
+data = [{'name': 'rs', age = 30}, {'name': 'zyc', age = 18}]
+# 通过json.dump(data)方法把python数据转化为json数据
+data = json.dump(data)
+# 通过json.load(data)方法把json数据转化为python数据
