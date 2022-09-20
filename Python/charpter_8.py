@@ -1,4 +1,4 @@
-import time
+# import time
 
 # f = open('test.txt', 'r', encoding='UTF-8')
 # fw = open('test.txt', 'w', encoding='UTF-8')
@@ -6,13 +6,12 @@ import time
 # print(type(f))
 # print(type(fw))
 # print(type(fa))
-
-# print(type(f))
-# f.read(num) num表示从文件中读取的数据的长度,没有num默认读取所有数据
+# f.close()
 # print(type(f.read()))
-# print(f'read方法读取10个字节的结果: {f.read(10)}')
+# print(f.read())
+# print(f'read方法读取10个字节的结果: {f.read(1)}')
 # print(f'read方法读取全部内容的结果: {f.read()}')  # 多次调用read()方法会在之前读取的内容后继续读取
-
+# f.close()
 
 # f.readlines() 按照行的方式把整个文件内容一次性读取，返回的是列表，每一行是一个元素
 # lines = f.readlines()
@@ -62,7 +61,7 @@ import time
 
 
 # 综合案例练习
-import my_utils.str_util
+# import my_utils.str_util
 from my_utils import file_util
-print(my_utils.str_util.str_reverse('黑马程序员'))
-print(my_utils.str_util.sub_str('itheima', 4, 1))
+# print(my_utils.str_util.str_reverse('黑马程序员'))
+# print(my_utils.str_util.sub_str('itheima', 4, 1))
