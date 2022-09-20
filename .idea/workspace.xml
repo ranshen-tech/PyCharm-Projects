@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="Changed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/notebook.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/notebook.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/demo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,13 +69,13 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Python/经典案例" />
+      <recent name="$PROJECT_DIR$/Python/经典习题" />
       <recent name="$PROJECT_DIR$/Picture" />
       <recent name="$PROJECT_DIR$/Python/文件备份" />
       <recent name="$PROJECT_DIR$/" />
-      <recent name="$PROJECT_DIR$/Memo/Python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.第三方库-画图">
+  <component name="RunManager" selected="Python.demo">
     <configuration name="第三方库-画图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -181,7 +181,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="chapter_9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -193,7 +193,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/chapter_9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,11 +246,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.demo" />
         <item itemvalue="Python.第三方库-画图" />
         <item itemvalue="Python.水仙花数" />
         <item itemvalue="Python.notebook" />
         <item itemvalue="Python.fibonacci_sequence" />
-        <item itemvalue="Python.chapter_9" />
       </list>
     </recent_temporary>
   </component>
@@ -262,13 +262,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00061" summary="Added new exercise.">
-      <created>1663338152217</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1663338152217</updated>
     </task>
     <task id="LOCAL-00062" summary="Added new exercise.">
       <created>1663380488867</created>
@@ -606,7 +599,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663666072556</updated>
     </task>
-    <option name="localTasksCounter" value="110" />
+    <task id="LOCAL-00110" summary="Changed">
+      <created>1663676584562</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1663676584562</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
