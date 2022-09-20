@@ -16,7 +16,7 @@ def str_reverse(s):
     return s[::-1]
 
 
-def sub_str(s, x=0, y=len(s)):
+def sub_str(s, x, y):
     """
     按照下标x, y对传入的字符串切片
     :param s: str
