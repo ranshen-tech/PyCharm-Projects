@@ -94,12 +94,47 @@
 """
 2022-09-20
 """
-# json本质上是特定格式的字符串：数据格式是字典，或者内部嵌套字典的列表都转换为字符串
-# 导入json模块
+# json本质上是特定格式的字符串：数据格式是字典，或者内部嵌套字典的列表
+# 演示json数据和python字典相互转换
+# import json
 import json
 
-# 准备符合json格式要求的python数据
-data = [{'name': 'rs', age = 30}, {'name': 'zyc', age = 18}]
-# 通过json.dump(data)方法把python数据转化为json数据
-data = json.dump(data)
-# 通过json.load(data)方法把json数据转化为python数据
+# 准备列表，列表中每一个元素都是字典，将其转换为json
+# data = [{'name': 'rs', 'age': 29}, {'name': 'zyc', 'age': 38}, {'name': 'cyy', 'age': 16}]
+# 通过json.dumps(data)方法把python数据转化为json数据
+# json_str = json.dumps(data)
+# print(type(json_str))
+# print(json_str)
+
+
+# 准备字典，将字典转换为json
+# d = {'name': '周杰伦', 'addr': '台北'}
+# json_str = json.dumps(d, ensure_ascii=False)
+# print(type(json_str))
+# print(json_str)
+
+
+# 通过json.loads(data)方法把json字符串转化为python数据
+# string = '[{"name": "rs", "age": 29}, {"name": "zyc", "age": 38}, {"name": "cyy", "age": 16}]'
+# lst = json.loads(string)
+# print(type(lst))
+# print(lst)
+
+# string = '{"name": "周杰伦", "addr": "台北"}'
+# lst = json.loads(string)
+# print(type(lst))
+# print(lst)
+
+
+# pycharts基础入门
+# 导包，导入line功能构建折线图对象
+from pyecharts.charts import Line
+
+# 通过line函数得到折线图对象
+line = Line()
+# 添加x轴数据
+line.add_xaxis(['中国', '美国', '英国'])
+# 添加y轴数据
+line.add_yaxis('GDP', [30, 20, 10])
+# 生成图标
+line.render()
