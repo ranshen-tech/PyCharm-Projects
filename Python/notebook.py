@@ -130,7 +130,8 @@ import json
 # 导包，导入line功能构建折线图对象
 from pyecharts.charts import Line
 # 导包，导入各种控制选项
-from pyecharts.options import TitleOpts
+from pyecharts.options import TitleOpts, LegendOpts, ToolboxOpts, VisualMapOpts
+
 # 通过line函数得到折线图对象
 line = Line()
 # 添加x轴数据
@@ -140,7 +141,10 @@ line.add_yaxis('GDP', [30, 20, 10])
 
 # 全局配置通过set_global_opts()方法
 line.set_global_opts(
-    title_opts=TitleOpts('Gdp展示', pos_left='center', pos_bottom='1%')  # 光标移到括号里按command + p可以把需要的参数都弹出来
+    title_opts=TitleOpts(title='Gdp展示', pos_left='center', pos_bottom='1%'),  # 光标移到括号里按command + p可以把需要的参数都弹出来
+    legend_opts=LegendOpts(is_show=True),  # 图例
+    toolbox_opts=ToolboxOpts(is_show=True),  # 工具箱
+    visualmap_opts=VisualMapOpts(is_show=True)  # 视觉映射
 )
 
 # 生成图像
