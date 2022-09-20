@@ -95,7 +95,6 @@
 2022-09-20
 """
 
-
 # json本质上是特定格式的字符串：数据格式是字典，或者内部嵌套字典的列表
 # 演示json数据和python字典相互转换
 # import json
@@ -185,3 +184,28 @@
 # a = func()
 # b = func()
 # print(a, b)
+
+
+# TODO 记得把safari浏览器怎么收藏网页搞明白
+# 判断质数
+# def isPrime(n):
+#     if n <= 1:
+#         return False
+    # 对于正整数n，如果用2-n之间的所有整数去除，均无法整除，那么n是质数（只能被1和自己整除）
+    # for i in range(2, n):
+    #     if n % i == 0:
+    #         return False
+    # else:
+    #     return True
+# try:
+#     num = eval(input('请输入要输入的数字：'))
+#     print(isPrime(num))
+# except Exception as e:
+#     print(f'发现异常：{e}')
+#     print('一定要整数，正整数')
+
+# for j in range(201):
+#     if isPrime(j):
+#         print(j, end=' ')
+
+
