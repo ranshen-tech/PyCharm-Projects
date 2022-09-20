@@ -140,7 +140,7 @@ line.add_yaxis('GDP', [30, 20, 10])
 
 # 全局配置通过set_global_opts()方法
 line.set_global_opts(
-    title_opts=TitleOpts('GDP展示')  # 光标移到括号里按command + p可以把需要的参数都弹出来
+    title_opts=TitleOpts('Gdp展示', pos_left='center', pos_bottom='1%')  # 光标移到括号里按command + p可以把需要的参数都弹出来
 )
 
 # 生成图像
