@@ -5,9 +5,10 @@ def if_repeat(lst):
     :return: bool
     """
     elem = input('请输入要判断的element: ')
-    if elem in lst:
-        lst.remove(elem)
-        if elem in lst:
+    lst2 = lst.copy()
+    if elem in lst2:
+        lst2.remove(elem)
+        if elem in lst2:
             print('True')
         else:
             print('False')
