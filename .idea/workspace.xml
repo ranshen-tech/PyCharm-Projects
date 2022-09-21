@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="Changed">
-      <change afterPath="$PROJECT_DIR$/Python/文件操作/random_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/文件操作/random_matrix.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python/notebook.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/notebook.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/文件备份/bill.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/文件操作/bill.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/文件备份/bill.txt.bak" beforeDir="false" afterPath="$PROJECT_DIR$/Python/文件操作/bill.txt.bak" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/文件备份/进阶-文件备份.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/文件操作/进阶-文件备份.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/文件操作/random_matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/文件操作/random_matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/文件操作/random_matrix.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/文件操作/random_matrix.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +78,7 @@
       <recent name="$PROJECT_DIR$/" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.random_matrix">
+  <component name="RunManager" selected="Python.notebook">
     <configuration name="模拟手机通讯录" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -250,8 +249,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.random_matrix" />
         <item itemvalue="Python.notebook" />
+        <item itemvalue="Python.random_matrix" />
         <item itemvalue="Python.repeated_ele_determin" />
         <item itemvalue="Python.chr_frequency" />
         <item itemvalue="Python.file_util" />
@@ -266,13 +265,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00073" summary="Added new exercise.">
-      <created>1663425905398</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1663425905398</updated>
     </task>
     <task id="LOCAL-00074" summary="Added new exercise.">
       <created>1663464111822</created>
@@ -610,7 +602,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663726647668</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary="Changed">
+      <created>1663736579869</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1663736579869</updated>
+    </task>
+    <option name="localTasksCounter" value="123" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

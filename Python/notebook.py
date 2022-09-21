@@ -246,3 +246,17 @@
 # a = '1234'
 # b = 'a'.join(a)
 # print(b)
+
+
+# 最好用列表推导式
+
+
+# case = [9, 8, 8, 3, 3, 1]
+# for i in case:
+#     if i % 2 == 0:
+#         case.remove(i)
+# print(case)  # 为啥结果不是[9, 3, 3, 1]
+# case1 = [i for i in case if i % 2 == 0]
+# print(case1)
+# case2 = [i for i in case if i % 2 != 0]
+# print(case2)
