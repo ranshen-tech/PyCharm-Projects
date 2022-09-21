@@ -186,7 +186,6 @@
 # print(a, b)
 
 
-# TODO 记得把safari浏览器怎么收藏网页搞明白
 # 判断质数
 # def isPrime(n):
 #     if n <= 1:
@@ -218,3 +217,17 @@
 # print(s & t)
 # print(s ^ t)
 # print(s | t)
+
+
+"""
+2022-09-21
+"""
+# sort()参数key是某个函数的返回值，这个函数的输入参数是我们要待排序的列表的每一个元素，
+# 返回值作为我们对列表元素进行排序的依据
+# lst = [[1, 7], [1, 5], [2, 4], [1, 1]]
+# lst.sort()
+# print(lst)
+# lst.sort(key=lambda x: x[1])
+# print(lst)
+
+
