@@ -240,3 +240,9 @@
 #     for j in range(8):
 #         print(random.choice(result), end='')
 #     print()
+
+
+# 逗号分隔的储存格式脚CSV，采用join方法最方便
+# a = '1234'
+# b = 'a'.join(a)
+# print(b)
