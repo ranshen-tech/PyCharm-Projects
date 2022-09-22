@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="Changed">
-      <change afterPath="$PROJECT_DIR$/Python/经典习题/wordcloud2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/库/third_party_library.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/库/third_party_library.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/库/wordcloud.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/经典习题/wordcloud2.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -263,13 +261,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00080" summary="Updated">
-      <created>1663490246590</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1663490246590</updated>
     </task>
     <task id="LOCAL-00081" summary="Updated">
       <created>1663490626176</created>
@@ -607,7 +598,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663817054754</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <task id="LOCAL-00129" summary="Changed">
+      <created>1663817583259</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1663817583259</updated>
+    </task>
+    <option name="localTasksCounter" value="130" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
