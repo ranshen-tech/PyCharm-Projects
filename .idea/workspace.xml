@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="Changed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/经典习题/turtle_library.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/经典习题/standard_library.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/经典习题/standard_library.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/经典习题/standard_library.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -262,13 +262,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00076" summary="Updated">
-      <created>1663475779876</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1663475779876</updated>
     </task>
     <task id="LOCAL-00077" summary="Updated">
       <created>1663479329089</created>
@@ -606,7 +599,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663752831559</updated>
     </task>
-    <option name="localTasksCounter" value="125" />
+    <task id="LOCAL-00125" summary="Changed">
+      <created>1663807551018</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1663807551019</updated>
+    </task>
+    <option name="localTasksCounter" value="126" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
