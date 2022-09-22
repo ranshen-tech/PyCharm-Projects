@@ -260,3 +260,8 @@
 # print(case1)
 # case2 = [i for i in case if i % 2 != 0]
 # print(case2)
+
+
+"""
+2022-09-22
+"""
