@@ -2,7 +2,7 @@
 turtle库使用
 """
 # import time
-# import turtle as t
+import turtle as t
 # t.penup()
 # t.goto(-200, -50)
 # t.pendown()
@@ -45,7 +45,7 @@ turtle库使用
 # t.hideturtle()  # 把笔隐藏
 
 # time.sleep(1)
-
+import time
 
 """
 random库使用
@@ -61,7 +61,7 @@ import random
 # ran = random.randrange(1, 4, 2)  # [start, stop, step)
 # print(ran)
 
-# ran = random.uniform(1, 2)  # 生成一个随机数
+# ran = random.uniform(1, 2)  # 生成一个[a, b]随机数
 # print(ran)
 
 # print(random.choice('python'))
@@ -75,4 +75,5 @@ import random
 """
 time库使用
 """
-print()
+# print(time.ctime(time.time()))
+# print(time.ctime())
