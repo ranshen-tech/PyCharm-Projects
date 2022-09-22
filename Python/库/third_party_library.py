@@ -12,12 +12,10 @@ jieba库：将一段中文文本分割成中文词语的序列
 wordcloud库：根据文本产生词云,默认空格或标点分隔符对目标文本进行分词处理。
 对于中文文本，一般先将文本分词处理，然后以空格拼接，然后调用wordcloud库函数
 """
-from wordcloud import WordCloud  # 从库中导入其中一个类
-txt = 'I like Python, I am learning Python.'
-# f = WordCloud().generate(txt)
-wordcloud = WordCloud().generate(txt)
-wordcloud.to_file('abc.jpg')
-# f.to_file('wordcloud.jpg')  # 这个挺关键
+# from wordcloud import WordCloud  # 从库中导入其中一个类
+# txt = 'I like Python, I am learning Python.'
+# wordcloud = WordCloud().generate(txt)
+# wordcloud.to_file('wordcloud.jpg')
 
 
 # import jieba
