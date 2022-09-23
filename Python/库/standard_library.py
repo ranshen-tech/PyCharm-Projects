@@ -55,6 +55,24 @@ import turtle as t
 #     t.seth(d)
 
 
+# def draw_circle(n):
+#     t.penup()
+#     t.goto(0, -n)
+#     t.pendown()
+#     t.circle(n)
+
+
+# for i in range(20, 80, 20):
+#     draw_circle(i)
+# t.done()
+
+
+# for i in range(6):
+#     t.fd(100)
+#     t.left(60)
+# t.done()
+
+
 """
 random库使用
 """

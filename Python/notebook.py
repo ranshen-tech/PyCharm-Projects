@@ -265,3 +265,8 @@
 """
 2022-09-23
 """
+# 查看python版本
+# import sys
+# print(sys.version)
+
+
