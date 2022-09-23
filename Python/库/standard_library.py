@@ -1,7 +1,7 @@
 """
 turtle库使用
 """
-# import time
+import time
 import turtle as t
 # t.penup()
 # t.goto(-200, -50)
@@ -45,7 +45,15 @@ import turtle as t
 # t.hideturtle()  # 把笔隐藏
 
 # time.sleep(1)
-import time
+
+
+# 绘制边长200的正方形
+# d = 0
+# for i in range(4):
+#     t.fd(200)
+#     d += 90
+#     t.seth(d)
+
 
 """
 random库使用

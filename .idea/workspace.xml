@@ -5,8 +5,119 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="Changed">
+      <change afterPath="$PROJECT_DIR$/python-learn/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/.idea/python-learn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/01_你好Python/render.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/01_你好Python/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/02_Python入门语法/05_字符串的多种定义方式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/02_Python入门语法/06_Python中的运算符.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/02_Python入门语法/07_input语句.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/02_Python入门语法/08_字符串格式化的方式2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/02_Python入门语法/09_对表达式进行格式化.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/02_Python入门语法/10_字符串格式化练习题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/03_Python判断语句/01_布尔类型和比较运算符.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/03_Python判断语句/02_2_成年人判断练习题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/03_Python判断语句/02_if判断语句的基础格式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/03_Python判断语句/03_2_我要买票吗练习题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/03_Python判断语句/03_if else语句的使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/03_Python判断语句/04_2_猜猜心里数字练习题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/03_Python判断语句/04_if_elif_else语句的使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/03_Python判断语句/05_判断语句的嵌套.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/03_Python判断语句/06_判断语句实战案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/03_Python判断语句/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/04_Python循环语句/01_2_while循环练习题_求1-100的和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/04_Python循环语句/01_while循环的基础语法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/04_Python循环语句/02_while循环的基础案例-猜数字.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/04_Python循环语句/03_while循环的嵌套应用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/04_Python循环语句/04_while循环的嵌套案例-九九乘法表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/04_Python循环语句/05_2_for循环练习题-数一数有几个a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/04_Python循环语句/05_for循环的基础语法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/04_Python循环语句/06_range语句.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/04_Python循环语句/07_变量作用域.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/04_Python循环语句/08_2_for循环打印九九乘法表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/04_Python循环语句/08_for循环的嵌套使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/04_Python循环语句/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/05_函数/01_函数快速体验.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/05_函数/02_函数定义.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/05_函数/03_函数基础定义练习案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/05_函数/04_函数的参数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/05_函数/05_函数的参数练习案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/05_函数/06_函数的返回值定义语法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/05_函数/07_None.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/05_函数/08_函数的说明文档.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/05_函数/09_函数的嵌套调用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/05_函数/10_变量的作用域.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/05_函数/11_函数综合案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/05_函数/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/06_函数进阶/01_函数的多返回值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/06_函数进阶/02_函数参数的多种使用形式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/06_函数进阶/03_函数作为参数传递.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/06_函数进阶/04_lambda匿名函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/06_函数进阶/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/07_数据容器/01_list列表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/07_数据容器/02_list列表的常用操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/07_数据容器/03_list列表常用操作课后练习.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/07_数据容器/04_list列表的循环.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/07_数据容器/05_tuple元组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/07_数据容器/06_字符串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/07_数据容器/07_字符串课后练习.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/07_数据容器/08_序列和切片.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/07_数据容器/09_序列切片课后练习.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/07_数据容器/10_集合.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/07_数据容器/11_集合课后练习.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/07_数据容器/12_字典.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/07_数据容器/13_字典的常用操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/07_数据容器/14_字典课后练习.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/07_数据容器/15_数据容器通用功能.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/07_数据容器/16_字符串大小比较.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/07_数据容器/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/08_文件操作/01_文件的读取.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/08_文件操作/02_文件读取的课后练习.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/08_文件操作/03_文件的写入.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/08_文件操作/04_文件的追加写入.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/08_文件操作/05_文件操作的综合案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/09_异常_模块_包/01_演示异常的出现.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/09_异常_模块_包/02_异常的捕获.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/09_异常_模块_包/03_异常的传递.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/09_异常_模块_包/04_模块的导入.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/09_异常_模块_包/05_自定义模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/09_异常_模块_包/06_包.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/09_异常_模块_包/07_综合案例练习.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/10_可视化案例/01_json数据格式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/10_可视化案例/02_pyecharts基础入门.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/10_可视化案例/03_折线图开发.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/10_可视化案例/04_地图可视化的基本使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/10_可视化案例/05_全国疫情可视化地图开发.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/10_可视化案例/06_省级疫情可视化地图开发.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/10_可视化案例/07_基础柱状图开发.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/10_可视化案例/08_基础时间线柱状图开发.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/10_可视化案例/09_拓展知识点-列表的sort方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/10_可视化案例/10_GDP动态柱状图开发.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/10_可视化案例/1960-2019全球GDP前8国家.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/10_可视化案例/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/10_可视化案例/全国疫情地图.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/10_可视化案例/基础时间线柱状图.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/10_可视化案例/基础柱状图.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/10_可视化案例/河南省疫情地图.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/10_可视化案例/美日印疫情折线图.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/my_package/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/my_package/my_module1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/my_package/my_module2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/my_utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/my_utils/file_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-learn/my_utils/str_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/可视化案例数据/动态柱状图数据/1960-2019全球GDP数据.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/可视化案例数据/地图数据/疫情.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/可视化案例数据/折线图数据/印度.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/可视化案例数据/折线图数据/日本.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/可视化案例数据/折线图数据/美国.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python/notebook.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/notebook.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/库/standard_library.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/库/standard_library.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +186,70 @@
       <recent name="$PROJECT_DIR$/Python/文件备份" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.third_party_library">
+  <component name="RunManager" selected="Python.standard_library">
+    <configuration name="01_json数据格式" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-learn/10_可视化案例" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-learn/10_可视化案例/01_json数据格式.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03_折线图开发" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-learn/10_可视化案例" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-learn/10_可视化案例/03_折线图开发.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="05_全国疫情可视化地图开发" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-learn/10_可视化案例" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-learn/10_可视化案例/05_全国疫情可视化地图开发.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="模拟手机通讯录" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,7 +313,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="notebook" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="scratch_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,32 +321,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/notebook.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="random_matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python Project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/文件操作" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/文件操作/random_matrix.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,7 +342,7 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/经典习题" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/库" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -202,55 +355,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="third_party_library" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python Project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/经典习题" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/库/third_party_library.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="turtle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python Project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/经典习题" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/经典习题/turtle.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.third_party_library" />
         <item itemvalue="Python.standard_library" />
-        <item itemvalue="Python.turtle" />
-        <item itemvalue="Python.notebook" />
-        <item itemvalue="Python.random_matrix" />
+        <item itemvalue="Python.scratch_1" />
+        <item itemvalue="Python.05_全国疫情可视化地图开发" />
+        <item itemvalue="Python.03_折线图开发" />
+        <item itemvalue="Python.01_json数据格式" />
       </list>
     </recent_temporary>
   </component>
@@ -262,13 +373,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00083" summary="Updated">
-      <created>1663508726061</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1663508726061</updated>
     </task>
     <task id="LOCAL-00084" summary="Changed">
       <created>1663558061192</created>
@@ -606,7 +710,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663821658445</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary="Changed">
+      <created>1663823392763</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1663823392763</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
