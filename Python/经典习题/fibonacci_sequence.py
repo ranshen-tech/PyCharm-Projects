@@ -9,6 +9,12 @@
 # print(fibo(5))
 
 
+a, b = 0, 1
+while a <= 100:
+    print(a, end=',')
+    a, b = b, a + b
+
+
 # 阶乘
 # def factorial(n):
 #     if n == 0:

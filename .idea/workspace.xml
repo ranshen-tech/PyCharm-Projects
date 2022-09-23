@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="Changed">
-      <change afterPath="$PROJECT_DIR$/计算机二级模拟题/全国计算机等级二级考试模拟试卷二/源码/天龙八部-汉字统计.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/经典习题/随机生成密码.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/计算机二级模拟题/全国计算机等级二级考试模拟试卷二/源码/ran.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/计算机二级模拟题/全国计算机等级二级考试模拟试卷二/源码/ran1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/计算机二级模拟题/全国计算机等级二级考试模拟试卷二/源码/天龙八部-汉字统计.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/计算机二级模拟题/全国计算机等级二级考试模拟试卷二/源码/综合应用题1.py" beforeDir="false" afterPath="$PROJECT_DIR$/计算机二级模拟题/全国计算机等级二级考试模拟试卷二/源码/综合应用题1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/计算机二级模拟题/全国计算机等级二级考试模拟试卷二/源码/综合应用题2.py" beforeDir="false" afterPath="$PROJECT_DIR$/计算机二级模拟题/全国计算机等级二级考试模拟试卷二/源码/综合应用题2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/经典习题/fibonacci_sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/经典习题/fibonacci_sequence.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,8 +76,8 @@
       <recent name="$PROJECT_DIR$/Python/文件备份" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.综合应用题1">
-    <configuration name="论语提取" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.随机生成密码">
+    <configuration name="随机生成密码" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,11 +85,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/计算机二级模拟题/全国计算机等级二级考试模拟试卷一/模拟题一源码" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/经典习题" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/计算机二级模拟题/全国计算机等级二级考试模拟试卷一/模拟题一源码/论语提取.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/经典习题/随机生成密码.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,6 +111,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/计算机二级模拟题/全国计算机等级二级考试模拟试卷二/源码/综合应用题1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="综合应用题2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/计算机二级模拟题/全国计算机等级二级考试模拟试卷二/源码" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/计算机二级模拟题/全国计算机等级二级考试模拟试卷二/源码/综合应用题2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -228,34 +245,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="standard_library" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python Project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/库" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/库/standard_library.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.随机生成密码" />
+        <item itemvalue="Python.fibonacci_sequence" />
+        <item itemvalue="Python.综合应用题2" />
         <item itemvalue="Python.综合应用题1" />
         <item itemvalue="Python.notebook" />
-        <item itemvalue="Python.standard_library" />
-        <item itemvalue="Python.fibonacci_sequence" />
-        <item itemvalue="Python.论语提取" />
       </list>
     </recent_temporary>
   </component>
@@ -267,20 +263,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00089" summary="Changed">
-      <created>1663597638837</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1663597638837</updated>
-    </task>
-    <task id="LOCAL-00090" summary="Changed">
-      <created>1663597826950</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1663597826950</updated>
     </task>
     <task id="LOCAL-00091" summary="Changed">
       <created>1663597943570</created>
@@ -611,7 +593,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663937205070</updated>
     </task>
-    <option name="localTasksCounter" value="138" />
+    <task id="LOCAL-00138" summary="Changed">
+      <created>1663939515775</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1663939515775</updated>
+    </task>
+    <task id="LOCAL-00139" summary="Changed">
+      <created>1663941211458</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1663941211467</updated>
+    </task>
+    <option name="localTasksCounter" value="140" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
