@@ -5,119 +5,191 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="Changed">
-      <change afterPath="$PROJECT_DIR$/python-learn/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/.idea/python-learn.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/01_你好Python/render.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/01_你好Python/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/02_Python入门语法/05_字符串的多种定义方式.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/02_Python入门语法/06_Python中的运算符.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/02_Python入门语法/07_input语句.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/02_Python入门语法/08_字符串格式化的方式2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/02_Python入门语法/09_对表达式进行格式化.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/02_Python入门语法/10_字符串格式化练习题.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/03_Python判断语句/01_布尔类型和比较运算符.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/03_Python判断语句/02_2_成年人判断练习题.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/03_Python判断语句/02_if判断语句的基础格式.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/03_Python判断语句/03_2_我要买票吗练习题.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/03_Python判断语句/03_if else语句的使用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/03_Python判断语句/04_2_猜猜心里数字练习题.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/03_Python判断语句/04_if_elif_else语句的使用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/03_Python判断语句/05_判断语句的嵌套.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/03_Python判断语句/06_判断语句实战案例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/03_Python判断语句/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/04_Python循环语句/01_2_while循环练习题_求1-100的和.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/04_Python循环语句/01_while循环的基础语法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/04_Python循环语句/02_while循环的基础案例-猜数字.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/04_Python循环语句/03_while循环的嵌套应用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/04_Python循环语句/04_while循环的嵌套案例-九九乘法表.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/04_Python循环语句/05_2_for循环练习题-数一数有几个a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/04_Python循环语句/05_for循环的基础语法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/04_Python循环语句/06_range语句.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/04_Python循环语句/07_变量作用域.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/04_Python循环语句/08_2_for循环打印九九乘法表.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/04_Python循环语句/08_for循环的嵌套使用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/04_Python循环语句/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/05_函数/01_函数快速体验.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/05_函数/02_函数定义.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/05_函数/03_函数基础定义练习案例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/05_函数/04_函数的参数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/05_函数/05_函数的参数练习案例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/05_函数/06_函数的返回值定义语法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/05_函数/07_None.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/05_函数/08_函数的说明文档.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/05_函数/09_函数的嵌套调用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/05_函数/10_变量的作用域.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/05_函数/11_函数综合案例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/05_函数/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/06_函数进阶/01_函数的多返回值.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/06_函数进阶/02_函数参数的多种使用形式.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/06_函数进阶/03_函数作为参数传递.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/06_函数进阶/04_lambda匿名函数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/06_函数进阶/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/07_数据容器/01_list列表.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/07_数据容器/02_list列表的常用操作.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/07_数据容器/03_list列表常用操作课后练习.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/07_数据容器/04_list列表的循环.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/07_数据容器/05_tuple元组.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/07_数据容器/06_字符串.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/07_数据容器/07_字符串课后练习.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/07_数据容器/08_序列和切片.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/07_数据容器/09_序列切片课后练习.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/07_数据容器/10_集合.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/07_数据容器/11_集合课后练习.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/07_数据容器/12_字典.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/07_数据容器/13_字典的常用操作.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/07_数据容器/14_字典课后练习.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/07_数据容器/15_数据容器通用功能.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/07_数据容器/16_字符串大小比较.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/07_数据容器/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/08_文件操作/01_文件的读取.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/08_文件操作/02_文件读取的课后练习.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/08_文件操作/03_文件的写入.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/08_文件操作/04_文件的追加写入.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/08_文件操作/05_文件操作的综合案例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/09_异常_模块_包/01_演示异常的出现.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/09_异常_模块_包/02_异常的捕获.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/09_异常_模块_包/03_异常的传递.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/09_异常_模块_包/04_模块的导入.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/09_异常_模块_包/05_自定义模块.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/09_异常_模块_包/06_包.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/09_异常_模块_包/07_综合案例练习.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/10_可视化案例/01_json数据格式.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/10_可视化案例/02_pyecharts基础入门.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/10_可视化案例/03_折线图开发.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/10_可视化案例/04_地图可视化的基本使用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/10_可视化案例/05_全国疫情可视化地图开发.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/10_可视化案例/06_省级疫情可视化地图开发.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/10_可视化案例/07_基础柱状图开发.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/10_可视化案例/08_基础时间线柱状图开发.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/10_可视化案例/09_拓展知识点-列表的sort方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/10_可视化案例/10_GDP动态柱状图开发.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/10_可视化案例/1960-2019全球GDP前8国家.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/10_可视化案例/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/10_可视化案例/全国疫情地图.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/10_可视化案例/基础时间线柱状图.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/10_可视化案例/基础柱状图.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/10_可视化案例/河南省疫情地图.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/10_可视化案例/美日印疫情折线图.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/my_package/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/my_package/my_module1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/my_package/my_module2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/my_utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/my_utils/file_util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-learn/my_utils/str_util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/可视化案例数据/动态柱状图数据/1960-2019全球GDP数据.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/可视化案例数据/地图数据/疫情.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/可视化案例数据/折线图数据/印度.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/可视化案例数据/折线图数据/日本.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/可视化案例数据/折线图数据/美国.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap1/CalCircleArea.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap1/CalFibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap1/CalRunTime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap1/DrawSevenColorfulCircles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap1/DrawStar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap1/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap1/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap1/编程题/demo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap1/编程题/demo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap1/编程题/demo3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap1/编程题/demo4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap1/编程题/demo5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap10/10-2词云图2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap10/10-3词云图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap10/10.1词云图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap10/10.4课后习题1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap10/10.5课后习题2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap10/MSYH.TTC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap10/a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap10/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap10/picture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap10/test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap10/保利地产：2018年年度报告.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap10/报告.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap10/词云中文案例.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap10/词云中文案例2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap10/课堂演示案例1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap10/课堂演示案例1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap10/课堂演示案例2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap11/11-1网络爬虫.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap11/11.9.myqr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap2/2-10编程题_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap2/2-11编程题_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap2/2-12编程题_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap2/2-13编程题_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap2/2-14编程题_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap2/2-1注释.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap2/2-2续行符.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap2/2-3单分支语句.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap2/2-4双分支语句.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap2/2-5while结构.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap2/2-6print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap2/2-7倒背如流.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap2/2-8倒背如流.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap2/2-9倒背如流.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap2/画图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap3/3-1编程题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap3/3-2编程题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap3/3-3编程题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap3/3-4编程题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap3/3.5编程题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap3/CaesarChineseEncode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap3/CaesarDecode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap3/CaesarEncode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap3/CaesarEncodeAndDecode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap3/课程案例/3.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap3/课程案例/3.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap3/课程案例/3.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap3/课程案例/3.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/4-10break2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/4-11continue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/4-12循环-break-else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/4-13try-except.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/4-14try-except2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/4-15try-except3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/4-16try-except4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/4-17猜数游戏.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/4-18猜数游戏.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/4-19编程题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/4-1单分支结构.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/4-20编程题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/4-21编程题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/4-22编程题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/4-2单分支结构.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/4-3二分支结构.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/4-4二分支结构.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/4-5多分支结构.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/4-6多分支结构.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/4-7for循环.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/4-8while循环.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/4-9break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/课堂案例/4.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/课堂案例/4.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/课堂案例/4.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/课堂案例/4.12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/课堂案例/4.13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/课堂案例/4.14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/课堂案例/4.15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/课堂案例/4.16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/课堂案例/4.17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/课堂案例/4.18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/课堂案例/4.19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/课堂案例/4.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/课堂案例/4.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/课堂案例/4.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/课堂案例/4.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/课堂案例/4.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/课堂案例/4.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/课堂案例/4.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap4/课堂案例/4.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap5/5-1函数的定义.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap5/5-2编码题_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap5/5-3编程题_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap5/5-4编程题_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap5/5-5编程题_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap5/5-6编程题_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap5/课堂代码/5.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap5/课堂代码/5.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap6/6-1编码题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap6/6-2编码题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap6/6-3编码题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap6/6-4编码题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap6/6-5编码题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/7-10编码题2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/7-11编码题3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/7-12编码题4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/7-13编码题5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/7-1读取文件内容.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/7-2读取文件内容.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/7-3读取文件内容.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/7-4存储成CSV格式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/7-4遍历文件内容.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/7-5读取CSV文件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/7-6二维数据写入CSV文件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/7-7二维数据读入.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/7-8遍历二维数据.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/7-9编码题1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/a.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/c.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/cc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/city.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/cpi.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/demo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/demo1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/dx.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/dx.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/x.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/y.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/课堂代码演示1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/课堂代码演示2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/课堂代码演示3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/课堂代码演示4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/课堂代码演示5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/课堂代码演示7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/课堂演示代码10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/课堂演示代码11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/课堂演示代码12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/课堂演示代码6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/课堂演示代码7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/课堂演示代码8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap7/课堂演示代码9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap9/7-10编码题3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap9/7-11编码题4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap9/7-12编码题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap9/7-12编码题5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap9/7-1画圆.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap9/7-2三角形.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap9/7-3四边形.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap9/7-5五边形.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap9/7-6六边形.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap9/7-7圆形.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap9/7-8编码题1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap9/7-9编码题2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap9/课堂演示案例1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap9/课堂演示案例2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap9/课堂演示案例3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级/chap9/课堂演示案例4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级模拟题/全国计算机等级二级考试模拟试卷一/模拟题一源码/综合应用1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级模拟题/全国计算机等级二级考试模拟试卷一/模拟题一源码/综合应用2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级模拟题/全国计算机等级二级考试模拟试卷一/模拟题一源码/论语-原文.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级模拟题/全国计算机等级二级考试模拟试卷一/模拟题一源码/论语-网络版.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级模拟题/全国计算机等级二级考试模拟试卷一/论语-网络版.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级模拟题/全国计算机等级二级考试模拟试卷三/全国计算机等级二级考试模块试卷三-答案.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级模拟题/全国计算机等级二级考试模拟试卷三/全国计算机等级二级考试模块试卷三.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级模拟题/全国计算机等级二级考试模拟试卷二/全国计算机等级二级考试模块试卷二-答案.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级模拟题/全国计算机等级二级考试模拟试卷二/全国计算机等级二级考试模拟试卷二.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级模拟题/全国计算机等级二级考试模拟试卷二/源码/天龙八部-汉字统计.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级模拟题/全国计算机等级二级考试模拟试卷二/源码/天龙八部-网络版.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级模拟题/全国计算机等级二级考试模拟试卷二/源码/天龙八部-词语统计.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级模拟题/全国计算机等级二级考试模拟试卷二/源码/简单程序设计2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级模拟题/全国计算机等级二级考试模拟试卷二/源码/综合应用题1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/计算机二级模拟题/全国计算机等级二级考试模拟试卷二/源码/综合应用题2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/notebook.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/notebook.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/库/standard_library.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/库/standard_library.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,49 +258,7 @@
       <recent name="$PROJECT_DIR$/Python/文件备份" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.standard_library">
-    <configuration name="01_json数据格式" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python Project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-learn/10_可视化案例" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-learn/10_可视化案例/01_json数据格式.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="03_折线图开发" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python Project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-learn/10_可视化案例" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-learn/10_可视化案例/03_折线图开发.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.综合应用1">
     <configuration name="05_全国疫情可视化地图开发" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -242,6 +272,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-learn/10_可视化案例/05_全国疫情可视化地图开发.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="综合应用1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/计算机二级模拟题/全国计算机等级二级考试模拟试卷一/模拟题一源码" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/计算机二级模拟题/全国计算机等级二级考试模拟试卷一/模拟题一源码/综合应用1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="10.4课后习题1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/计算机二级/chap10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/计算机二级/chap10/10.4课后习题1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -357,11 +429,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.综合应用1" />
+        <item itemvalue="Python.10.4课后习题1" />
         <item itemvalue="Python.standard_library" />
         <item itemvalue="Python.scratch_1" />
         <item itemvalue="Python.05_全国疫情可视化地图开发" />
-        <item itemvalue="Python.03_折线图开发" />
-        <item itemvalue="Python.01_json数据格式" />
       </list>
     </recent_temporary>
   </component>
@@ -373,13 +445,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00084" summary="Changed">
-      <created>1663558061192</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1663558061192</updated>
     </task>
     <task id="LOCAL-00085" summary="Changed">
       <created>1663573870724</created>
@@ -717,7 +782,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663823392763</updated>
     </task>
-    <option name="localTasksCounter" value="133" />
+    <task id="LOCAL-00133" summary="Changed">
+      <created>1663899362361</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1663899362362</updated>
+    </task>
+    <option name="localTasksCounter" value="134" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
