@@ -75,7 +75,7 @@
       <recent name="$PROJECT_DIR$/Python/文件备份" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.scratch_1">
+  <component name="RunManager" selected="Python.notebook">
     <configuration name="08_基础时间线柱状图开发" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -246,8 +246,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.scratch_1" />
         <item itemvalue="Python.notebook" />
+        <item itemvalue="Python.scratch_1" />
         <item itemvalue="Python.10_GDP动态柱状图开发" />
         <item itemvalue="Python.09_拓展知识点-列表的sort方法" />
         <item itemvalue="Python.08_基础时间线柱状图开发" />
@@ -262,13 +262,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00096" summary="Updated">
-      <created>1663598265987</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1663598265987</updated>
     </task>
     <task id="LOCAL-00097" summary="Updated">
       <created>1663598370558</created>
@@ -606,7 +599,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663986276517</updated>
     </task>
-    <option name="localTasksCounter" value="145" />
+    <task id="LOCAL-00145" summary="Changed">
+      <created>1663996639042</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1663996639042</updated>
+    </task>
+    <option name="localTasksCounter" value="146" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

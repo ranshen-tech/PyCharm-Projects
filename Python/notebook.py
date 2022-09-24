@@ -302,17 +302,19 @@
 
 
 # 创建⏰类
-class Clock:
-    id = None  # 序列
-    price = None  # 价格
+# class Clock:
+#     id = None  # 序列
+#     price = None  # 价格
 
+    # def ring(self):
+    #     import os
+    #     os.system("say 'hi'")
 
-    def ring(self):
-        import os
-        os.system()
 # 构建对象
-clock1 = Clock()
-clock1.id = '001'
-clock1.price = 19.99
-print(f'⏰id：{clock1.id}, 价格：{clock1.price}')
-clock1.ring()
+# clock1 = Clock()
+# clock1.id = '001'
+# clock1.price = 19.99
+# print(f'⏰id：{clock1.id}, 价格：{clock1.price}')
+# clock1.ring()
+
+
