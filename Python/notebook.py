@@ -352,18 +352,18 @@
 #     def __init__(self, name, age):
 #         self.name = name
 #         self.age = age
-    # __str__魔术方法
-    # def __str__(self):
-    #     return f'Student类对象，name：{self.name}, age：{self.age}'
-    # __lt__魔术方法(less than)
-    # def __lt__(self, other):
-    #     return self.age < other.age
-    # __le__魔术方法(less than or equal to)
-    # def __le__(self, other):
-    #     return self.age <= other.age
-    # __eq__魔术方法(equal) 返回True or False
-    # def __eq__(self, other):
-    #     return self.age == other.age
+# __str__魔术方法
+# def __str__(self):
+#     return f'Student类对象，name：{self.name}, age：{self.age}'
+# __lt__魔术方法(less than)
+# def __lt__(self, other):
+#     return self.age < other.age
+# __le__魔术方法(less than or equal to)
+# def __le__(self, other):
+#     return self.age <= other.age
+# __eq__魔术方法(equal) 返回True or False
+# def __eq__(self, other):
+#     return self.age == other.age
 # stu1 = Student('周杰伦', 31)
 # stu2 = Student('林俊杰', 31)
 # print(stu1)
@@ -372,5 +372,36 @@
 # print(stu1 == stu2)
 
 
-# 面向对象封装📦思想中私有成员的使用
+# 面向对象封装📦思想中私有成员的使用(只可以内部自己使用)
+# class Phone:
+#     __current_voltage = 0.5  # 当前运行电压
 
+    # def __keep_single_core(self):
+    #     print('让cpu以单核模式运行')
+
+    # def call_by_5g(self):
+    #     if self.__current_voltage >= 1:
+    #         print('5g通话已开启')
+    #     else:
+    #         self.__keep_single_core()
+    #         print('电量不足，无法使用5g通话，以设置单核运行进行省电。')
+# phone = Phone()
+# phone.call_by_5g()
+
+
+# 练习：设计一个带有私有成员的手机
+class Phone:
+    __is_5g_enable = False
+
+    def __check_5g(self):
+        if self.__is_5g_enable:
+            print('5g开启')
+        else:
+            print('5g关闭，使用4g网络')
+
+    def call_by_5g(self):
+        self.__check_5g()
+        print('正在通话中')
+
+phone = Phone()
+phone.call_by_5g()
