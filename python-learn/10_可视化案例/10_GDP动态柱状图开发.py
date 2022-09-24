@@ -6,7 +6,7 @@ from pyecharts.options import *
 from pyecharts.globals import ThemeType
 
 # 读取数据
-f = open("D:/1960-2019全球GDP数据.csv", "r", encoding="GB2312")
+f = open("/Users/ranshen/PyCharm Projects/可视化案例数据/动态柱状图数据/1960-2019全球GDP数据.csv", "r", encoding="GB2312")
 data_lines = f.readlines()
 # 关闭文件
 f.close()
@@ -45,6 +45,7 @@ for year in sorted_year_list:
 
     # 构建柱状图
     bar = Bar()
+    # 数据反转
     x_data.reverse()
     y_data.reverse()
     bar.add_xaxis(x_data)
