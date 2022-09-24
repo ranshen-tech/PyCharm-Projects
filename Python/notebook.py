@@ -270,4 +270,49 @@
 # print(sys.version)
 
 
-print(int('9.8'))
+"""
+2022-09-24
+"""
+
+
+# 设计一个类
+# class Student:
+#     name = None
+
+# def say_hi(self):  # 方法中访问成员变量必须用self
+#     print(f'hi, i am {self.name}，请多多关照')
+
+# def say_hi2(self, msg):
+#     print(f'大家好，我是{self.name}, {msg}')  # msg不是成员变量，是外部传入的，不用加self
+
+
+# 创建一个对象
+# stu = Student()
+# 对象属性赋值
+# stu.name = '林俊杰'
+# stu.age = 31
+# 获取对象中的信息
+# print(stu.age)
+# print(stu.name)
+# stu.say_hi2('小伙子我看好你')
+
+# stu2 = Student()
+# stu2.name = '周杰伦'
+# stu2.say_hi2('哎哟不错哟')
+
+
+# 创建⏰类
+class Clock:
+    id = None  # 序列
+    price = None  # 价格
+
+
+    def ring(self):
+        import os
+        os.system()
+# 构建对象
+clock1 = Clock()
+clock1.id = '001'
+clock1.price = 19.99
+print(f'⏰id：{clock1.id}, 价格：{clock1.price}')
+clock1.ring()
