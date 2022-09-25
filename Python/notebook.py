@@ -535,16 +535,51 @@ import random
 
 
 # 多态：完成某个行为（函数）时，使用不同的对象会得到不同的状态
-class Animal:
-    pass
+# class Animal:  # 含有抽象方法的类叫抽象类
+#     def speak(self):
+#         pass  # 空实现（pass）写法叫抽象方法，也叫接口
+# class Dog(Animal):
+#     def speak(self):
+#         print('汪汪汪')
+# class Cat(Animal):
+#     def speak(self):
+#         print('喵喵喵')
+# def make_noise(animal: Animal) -> str:
+#     return animal.speak()
+# dog = Dog()
+# cat = Cat()
+# make_noise(dog)
+# make_noise(cat)
 
-class Dog(Animal):
-    def speak(self):
-        print('汪汪汪')
 
-class Cat(Animal):
-    def speak(self):
-        print('喵喵喵')
-
-def make_noise(animal: Animal) -> str:
-    return animal.speak()
+# 演示抽象类
+class Ac:
+    def cool_wind(self):
+        """制冷"""
+        pass
+    def hot_wind(self):
+        """制热"""
+        pass
+    def swing_l_r(self):
+        """左右摆风"""
+        pass
+class Media(Ac):
+    def cool_wind(self):
+        print('美的空调制冷')
+    def hot_wind(self):
+        print('美的空调制热')
+    def swing_l_r(self):
+        print('美的空调左右摆风')
+class Gree(Ac):
+    def cool_wind(self):
+        print('格力空调制冷')
+    def hot_wind(self):
+        print('格力空调制热')
+    def swing_l_r(self):
+        print('格力空调左右摆风')
+def make_cool(ac: Ac):
+    ac.cool_wind()
+media_ac = Media()
+gree_ac = Gree()
+make_cool(media_ac)
+make_cool(gree_ac)
