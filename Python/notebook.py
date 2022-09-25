@@ -34,7 +34,8 @@
 # print(17 % -3)  # 商-6 余-1
 # print(-17 % 3)  # 商-6 余1
 # print(-17 % -3)  # 商 -5 余-2
-
+import json
+import random
 
 """
 2022-09-19
@@ -410,14 +411,13 @@
 2022-09-25
 """
 
-
 # 继承
 # class Phone:
 #     IMEI = None  # 序列号
 #     producer = 'ITCAST'  # 厂商
 
-    # def call_by_4g(self):
-    #     print('4g通话')
+# def call_by_4g(self):
+#     print('4g通话')
 
 
 # phone = Phone()
@@ -426,8 +426,8 @@
 # class Phone2022(Phone):
 #     face_id = '10001'  # 面部识别id
 
-    # def call_by_5g(self):
-    #     print('2022年新功能：5g通话')
+# def call_by_5g(self):
+#     print('2022年新功能：5g通话')
 
 
 # phone = Phone2022()
@@ -441,18 +441,18 @@
 #     nfc_type = '第五代'
 #     producer = 'HM'
 
-    # def read_card(self):
-    #     print('NFC读卡')
+# def read_card(self):
+#     print('NFC读卡')
 
-    # def write_card(self):
-    #     print('NFC写卡')
+# def write_card(self):
+#     print('NFC写卡')
 
 
 # class RemoteControl:
 #     rc_type = '红外遥控'
 
-    # def control(self):
-    #     print('红外遥控开启了')
+# def control(self):
+#     print('红外遥控开启了')
 
 
 # class MyPhone(Phone, NfcReader, RemoteControl):
@@ -472,24 +472,79 @@
 #     IMEI = None  # 序列号
 #     producer = 'ITCAST'  # 厂商
 
-    # def call_by_5g(self):
-    #     print('使用5g网络进行通话')
+# def call_by_5g(self):
+#     print('使用5g网络进行通话')
 
 # class MyPhone(Phone):
 #     producer = 'ITHEIMA'  # 复写父类的成员属性
 
-    # def call_by_5g(self):
-    #     print('开启CPU单核模式，确保通话时省电')
-        # 调用父类同名成员(方式一）
-        # print(f'父类的厂商是：{Phone.producer}')
-        # Phone.call_by_5g(self)  # 注意要写self
-        # 方式二
-        # print(f'父类的厂商是：{super().producer}')
-        # super().call_by_5g()
-        # print('关闭CPU单核模式，确保性能 ')
+# def call_by_5g(self):
+#     print('开启CPU单核模式，确保通话时省电')
+# 调用父类同名成员(方式一）
+# print(f'父类的厂商是：{Phone.producer}')
+# Phone.call_by_5g(self)  # 注意要写self
+# 方式二
+# print(f'父类的厂商是：{super().producer}')
+# super().call_by_5g()
+# print('关闭CPU单核模式，确保性能 ')
 # phone = MyPhone()
 # phone.call_by_5g()
 # print(phone.producer)
 
 
-# 调用方法传参的时候快捷键：command + p
+# 类型注解：无法直接看出变量类型时会添加类型注解，调用方法传参的时候快捷键：command + p
+# 基础数据类型注解
+# var_1: int = 10
+# var_2: str = 'itheima'
+# var_3: bool = True
+# 类对象类型注解
+# class Student:
+#     pass
+# stu: Student = Student()
+# 基础容器类型注解
+# my_list: list = [1, 2, 3]
+# my_tuple: tuple = (1, 2, 3)
+# my_dict: dict = {"itheima": 666}
+# 容器类型详细注解
+# mylist: list[int] = [1, 2, 3]
+# m_tuple: tuple[int, str, bool] = (1, "itheima", True)
+# mydict: dict[str, int] = {"itheima": 666}
+# 在注释中进行类型注解(option + enter会自动导入包）
+# var1 = random.randint(1, 10)  # type: int
+# var2 = json.loads('{"name": "rs"}')  # type: dict[str, str]
+# def func():
+#     return 10
+# var3 = func()  # type: int
+
+# 函数（方法）的类型注解
+# 形参注解
+# def add(x: int, y: int):
+#     return x + y
+# add()
+# 返回值类型注解
+# def func(data: list) -> list:
+#     return data
+# print(func(1))
+
+# Union类型: 在变量注解，函数（方法）形参和返回值注解中均可使用。
+# from typing import Union
+# my_list: list[Union[int, str]] = [1, 2, 'itheima', 'itcast']
+# my_dict: dict[str, Union[str, int]] = {"name": "周杰伦", "age": 31}
+# def func(data: Union[str, int]) -> Union[str, int]:
+#     pass
+
+
+# 多态：完成某个行为（函数）时，使用不同的对象会得到不同的状态
+class Animal:
+    pass
+
+class Dog(Animal):
+    def speak(self):
+        print('汪汪汪')
+
+class Cat(Animal):
+    def speak(self):
+        print('喵喵喵')
+
+def make_noise(animal: Animal) -> str:
+    return animal.speak()
