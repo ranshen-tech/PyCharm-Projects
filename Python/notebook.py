@@ -274,7 +274,6 @@
 2022-09-24
 """
 
-
 # 设计一个类
 # class Student:
 #     name = None
@@ -376,32 +375,118 @@
 # class Phone:
 #     __current_voltage = 0.5  # 当前运行电压
 
-    # def __keep_single_core(self):
-    #     print('让cpu以单核模式运行')
+# def __keep_single_core(self):
+#     print('让cpu以单核模式运行')
 
-    # def call_by_5g(self):
-    #     if self.__current_voltage >= 1:
-    #         print('5g通话已开启')
-    #     else:
-    #         self.__keep_single_core()
-    #         print('电量不足，无法使用5g通话，以设置单核运行进行省电。')
+# def call_by_5g(self):
+#     if self.__current_voltage >= 1:
+#         print('5g通话已开启')
+#     else:
+#         self.__keep_single_core()
+#         print('电量不足，无法使用5g通话，以设置单核运行进行省电。')
 # phone = Phone()
 # phone.call_by_5g()
 
 
 # 练习：设计一个带有私有成员的手机
 # class Phone:
-#     __is_5g_enable = False
+#     __is_5g_enable = True  # 5g状态
 
-    # def __check_5g(self):
-    #     if self.__is_5g_enable:
-    #         print('5g开启')
-    #     else:
-    #         print('5g关闭，使用4g网络')
+# def __check_5g(self):
+#     if self.__is_5g_enable:
+#         print('5g开启')
+#     else:
+#         print('5g关闭，使用4g网络')
 
-    # def call_by_5g(self):
-    #     self.__check_5g()
-    #     print('正在通话中')
+# def call_by_5g(self):
+#     self.__check_5g()
+#     print('正在通话中')
 
 # phone = Phone()
 # phone.call_by_5g()
+
+
+"""
+2022-09-25
+"""
+
+
+# 继承
+# class Phone:
+#     IMEI = None  # 序列号
+#     producer = 'ITCAST'  # 厂商
+
+    # def call_by_4g(self):
+    #     print('4g通话')
+
+
+# phone = Phone()
+# phone.call_by_4g()
+
+# class Phone2022(Phone):
+#     face_id = '10001'  # 面部识别id
+
+    # def call_by_5g(self):
+    #     print('2022年新功能：5g通话')
+
+
+# phone = Phone2022()
+# print(phone.producer)
+# phone.call_by_4g()
+# phone.call_by_5g()
+
+
+# 多继承: 如有同名成员，默认以继承顺序（从左到右）为优先级
+# class NfcReader:
+#     nfc_type = '第五代'
+#     producer = 'HM'
+
+    # def read_card(self):
+    #     print('NFC读卡')
+
+    # def write_card(self):
+    #     print('NFC写卡')
+
+
+# class RemoteControl:
+#     rc_type = '红外遥控'
+
+    # def control(self):
+    #     print('红外遥控开启了')
+
+
+# class MyPhone(Phone, NfcReader, RemoteControl):
+#     pass
+
+# phone = MyPhone()
+# phone.call_by_4g()
+# phone.read_card()
+# phone.write_card()
+# print(phone.rc_type)
+# phone.control()
+# print(phone.producer)
+
+
+# 复写(只可以在子类内部调用父类的同名成员）
+class Phone:
+    IMEI = None  # 序列号
+    producer = 'ITCAST'  # 厂商
+
+    def call_by_5g(self):
+        print('使用5g网络进行通话')
+
+class MyPhone(Phone):
+    producer = 'ITHEIMA'  # 复写父类的成员属性
+
+    def call_by_5g(self):
+        print('开启CPU单核模式，确保通话时省电')
+        # 调用父类同名成员(方式一）
+        # print(f'父类的厂商是：{Phone.producer}')
+        # Phone.call_by_5g(self)  # 注意要写self
+        # 方式二
+        print(f'父类的厂商是：{super().producer}')
+        super().call_by_5g()
+        print('关闭CPU单核模式，确保性能 ')
+phone = MyPhone()
+phone.call_by_5g()
+print(phone.producer)
