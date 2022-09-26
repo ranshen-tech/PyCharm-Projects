@@ -1,5 +1,5 @@
 """
-和文件相关的类定义
+和文件相关的类定义(步骤2、3)
 """
 import json
 
@@ -49,7 +49,7 @@ if __name__ == '__main__':
     json_file_reader = JsonFileReader('2011年2月销售数据JSON.txt')
     list_1 = text_file_reader.read_data()
     list_2 = json_file_reader.read_data()
-    # for i in list_1:
-    #     print(i)
-    # for i in list_2:
-    #     print(i)
+    for i in list_1:
+        print(i)
+    for i in list_2:
+        print(i)
