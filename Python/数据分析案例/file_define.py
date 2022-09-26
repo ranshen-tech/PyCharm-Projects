@@ -1,6 +1,7 @@
 """
 和文件相关的类定义
 """
+import json
 
 from data_define import Record
 
@@ -29,10 +30,26 @@ class TextFileReader(FileReader):
 
 
 class JsonFileReader(FileReader):
+    def __init__(self, path):
+        self.path = path  # 定义成员变量记录文件路径
 
-
+    def read_data(self) -> list[Record]:
+        with open('2011年2月销售数据JSON.txt') as f:
+            record_list: list[Record] = []
+            for line in f.readlines():
+                data_dict = json.loads(line)  # 会自动消除读取到的每一行数据中的\n
+                record = Record(data_dict['date'], data_dict['order_id'],
+                                int(data_dict['money']), data_dict['province'])
+                record_list.append(record)
+        return record_list
 
 
 if __name__ == '__main__':
     text_file_reader = TextFileReader('2011年1月销售数据.txt')
-    text_file_reader.read_data()
+    json_file_reader = JsonFileReader('2011年2月销售数据JSON.txt')
+    list_1 = text_file_reader.read_data()
+    list_2 = json_file_reader.read_data()
+    # for i in list_1:
+    #     print(i)
+    # for i in list_2:
+    #     print(i)

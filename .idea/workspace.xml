@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="Changed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/数据分析案例/data_define.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/数据分析案例/data_define.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python/数据分析案例/file_define.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/数据分析案例/file_define.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -262,13 +263,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00110" summary="Changed">
-      <created>1663676584562</created>
-      <option name="number" value="00110" />
-      <option name="presentableId" value="LOCAL-00110" />
-      <option name="project" value="LOCAL" />
-      <updated>1663676584562</updated>
     </task>
     <task id="LOCAL-00111" summary="Changed">
       <created>1663678178827</created>
@@ -606,7 +600,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664153328004</updated>
     </task>
-    <option name="localTasksCounter" value="159" />
+    <task id="LOCAL-00159" summary="Changed">
+      <created>1664154657510</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1664154657510</updated>
+    </task>
+    <option name="localTasksCounter" value="160" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
