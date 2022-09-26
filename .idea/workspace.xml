@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="Changed">
+      <change afterPath="$PROJECT_DIR$/Python/数据分析案例/data_define.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/数据分析案例/file_define.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/数据分析案例/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -261,13 +264,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00108" summary="Updated">
-      <created>1663654577140</created>
-      <option name="number" value="00108" />
-      <option name="presentableId" value="LOCAL-00108" />
-      <option name="project" value="LOCAL" />
-      <updated>1663654577140</updated>
     </task>
     <task id="LOCAL-00109" summary="Changed">
       <created>1663666072556</created>
@@ -605,7 +601,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664088377566</updated>
     </task>
-    <option name="localTasksCounter" value="157" />
+    <task id="LOCAL-00157" summary="Changed">
+      <created>1664089121281</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1664089121281</updated>
+    </task>
+    <option name="localTasksCounter" value="158" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
