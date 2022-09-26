@@ -32,9 +32,15 @@ for record in all_data:
     else:
         data_dict[record.date] = record.money
 
-print(data_dict)
+# print(data_dict)
 
 
 # 可视化图标开发
-bar = Bar()
-bar.add_xaxis()
+bar = Bar(init_opts=InitOpts(theme=ThemeType.LIGHT))
+bar.add_xaxis(list(data_dict.keys()))  # 添加x轴数据
+bar.add_yaxis("销售额", list(data_dict.values()), label_opts=LabelOpts(is_show=False))  # 添加了y轴数据
+# 给当前图表设置标题
+bar.set_global_opts(
+    title_opts=TitleOpts(title="每日销售额")
+)
+bar.render("每日销售额柱状图.html")
