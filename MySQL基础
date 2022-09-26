@@ -1,9 +1,0 @@
-show databases; (查看有哪些基础库）
-use 数据库名; (使用某个数据库）
-show tables;(查看数据库内有哪些表）
-exit（退出MySQL命令行环境）
-
-数据定义: DDL(Data Definition Language) - 库/表的创建、删除
-数据操纵: DML(Data Manipulation Language) - 数据的增、删、改
-数据控制: DCL(Data Control Language) - 新增/删除用户，密码修改，权限管理
-数据查询: DQL(Data Query Language) - 需求查询，数据计算
