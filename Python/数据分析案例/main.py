@@ -9,6 +9,9 @@
 """
 from file_define import FileReader, JsonFileReader, TextFileReader
 from data_define import Record
+from pyecharts.charts import Bar  # 构建柱状图对象
+from pyecharts.options import *  # 构建可选的选项
+from pyecharts.globals import ThemeType  # 导入主题，控制图标颜色
 
 text_file_reader = TextFileReader('2011年1月销售数据.txt')
 json_file_reader = JsonFileReader('2011年2月销售数据JSON.txt')
@@ -20,4 +23,18 @@ feb_data: list[Record] = json_file_reader.read_data()
 all_data: list[Record] = jan_data + feb_data
 
 # 进行数据计算
+# {"2011-01-01": 1234, "2011-01-02": 300, "2011-01-03": 650}
+data_dict = {}
+for record in all_data:
+    if record.date in data_dict.keys():
+        # 当前日期已经有记录了，和旧记录累加即可
+        data_dict[record.date] += record.money
+    else:
+        data_dict[record.date] = record.money
 
+print(data_dict)
+
+
+# 可视化图标开发
+bar = Bar()
+bar.add_xaxis()
