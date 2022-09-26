@@ -1,58 +1,9 @@
-DDL-数据库操作
-查询：
-查询所有数据库：
-show databases;
-查询当前数据库：
-select database();
+show databases; (查看有哪些基础库）
+use 数据库名; (使用某个数据库）
+show tables;(查看数据库内有哪些表）
+exit（退出MySQL命令行环境）
 
-创建：
-create database [if not exists] 数据库名 [default charset 字符集] [collate 排序规则];
-
-删除：
-drop database [if exists] 数据库名;
-
-使用：
-use database;
-
-
-DDL-表操作-查询
-查询当前数据库所有表：
-show tables;
-
-查询表结构：
-desc 表名;
-
-查询指定表的建表语句：
-show create table 表名;
-
-
-DDL-表操作-创建：
-create table 表名(
-    字段1 字段1类型 [comment '字段1注释'],
-    字段2 字段2类型 [comment '字段2注释'],
-    字段3 字段3类型 [comment '字段3注释'],
-    ...
-    字段n 字段n类型 [comment '字段n注释']
-) [comment '表注释'];
-
-
-DDl-表操作-数据类型
-数值类型：
-tinyint [unsigned]
-int [unsigned]
-float [unsigned]
-
-字符串类型：
-char
-varchar
-
-日期类型：
-data
-time
-datatime
-
-
-Added
-Fixed
-Changed
-Updated
+数据定义: DDL(Data Definition Language) - 库/表的创建、删除
+数据操纵: DML(Data Manipulation Language) - 数据的增、删、改
+数据控制: DCL(Data Control Language) - 新增/删除用户，密码修改，权限管理
+数据查询: DQL(Data Query Language) - 需求查询，数据计算
