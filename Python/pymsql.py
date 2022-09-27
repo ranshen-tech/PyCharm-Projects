@@ -18,8 +18,8 @@ cursor = conn.cursor()  # 获取到游标对象
 conn.select_db("ranshen")
 # 执行SQL
 # cursor.execute("create table test_pymysql_2(id int)")
-# cursor.execute('select * from student')
-cursor.execute("insert into student values(10002, '林俊杰', 31, '男')")
+cursor.execute('select * from student')
+# cursor.execute("insert into student values(10002, '林俊杰', 31, '男')")
 # # 通过commit确认
 # conn.commit()
 results: tuple = cursor.fetchall()
