@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="Changed">
-      <change afterPath="$PROJECT_DIR$/MySQL源码/MysqlHelper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySQL源码/MysqlHelper_Demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySQL源码/python操作mysql步骤.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySQL源码/sql注入演示.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySQL源码/sql语句参数化.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySQL源码/删除修改数据.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySQL源码/增加单条数据.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySQL源码/批量增加数据.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySQL源码/查询数据.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/pymsql.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/pymsql.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/english_grammar_notes" beforeDir="false" afterPath="$PROJECT_DIR$/linux.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -250,13 +241,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00120" summary="Changed">
-      <created>1663726420300</created>
-      <option name="number" value="00120" />
-      <option name="presentableId" value="LOCAL-00120" />
-      <option name="project" value="LOCAL" />
-      <updated>1663726420300</updated>
     </task>
     <task id="LOCAL-00121" summary="Changed">
       <created>1663726647668</created>
@@ -594,7 +578,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664256382780</updated>
     </task>
-    <option name="localTasksCounter" value="169" />
+    <task id="LOCAL-00169" summary="Changed">
+      <created>1664327712375</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1664327712375</updated>
+    </task>
+    <option name="localTasksCounter" value="170" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
