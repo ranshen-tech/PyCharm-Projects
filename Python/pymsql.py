@@ -27,4 +27,5 @@ results: tuple = cursor.fetchall()
 for i in results:
     print(i)
 # 关闭链接
+cursor.close()
 conn.close()
