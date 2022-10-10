@@ -47,3 +47,13 @@
 
 
 # 集合是可变数据类型，集合中的元素必须是不可变数据类型,集合没有索引，但集合中元素可以for遍历
+
+# 客人编号
+# ids = [1, 2, 3]
+# names = ['派大星', '章鱼哥', '珊迪']
+# for id, name in zip(ids, names):
+#     print(str(id) + '号：' + name)
+
+# names = ['派大星', '章鱼哥', '珊迪']
+# for id, name in enumerate(names, 1):
+#   print(str(id) + '号：' + name)
