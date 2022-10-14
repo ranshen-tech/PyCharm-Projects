@@ -18,6 +18,6 @@ if __name__ == '__main__':
     dict_obj = response.json()
     print(dict_obj)
     # step6.持久化存储
-    fp = open('dog.json', 'w')
-    json.dump(dict_obj, fp=fp)
-
+    fp = open('dog.json', 'w', encoding='utf-8')
+    json.dump(dict_obj, fp=fp, ensure_ascii=False)
+    print('over!!!')

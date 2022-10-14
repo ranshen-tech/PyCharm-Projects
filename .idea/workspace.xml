@@ -5,32 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="changed">
-      <change afterPath="$PROJECT_DIR$/chap3/cookie.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap3/demo1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap3/demo10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap3/demo11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap3/demo12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap3/demo13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap3/demo14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap3/demo15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap3/demo1_urllib_request.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap3/demo2_urllib_request2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap3/demo3_urllib_request3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap3/demo4_urllib_request4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap3/demo5_urllib_request5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap3/demo6_ipproxy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap3/demo7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap3/demo8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap3/demo9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap3/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫/ran.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫/requests_firstblood.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫/sogou.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫/spider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫/冉申.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫/破解百度翻译.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫/网页采集器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/爬虫/dog.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap3/demo1_urllib_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap3/demo1_urllib_request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap3/demo8.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap3/demo8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap3/demo9.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap3/demo9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬虫/破解百度翻译.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/破解百度翻译.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,8 +79,8 @@
       <recent name="$PROJECT_DIR$/Python/经典案例" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.scratch">
-    <configuration name="网页采集器" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.demo9">
+    <configuration name="破解百度翻译" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,7 +92,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫/网页采集器.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫/破解百度翻译.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="demo1_urllib_request" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,7 +134,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap3/demo7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap3/demo1_urllib_request.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="requests_firstblood" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="demo8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,11 +151,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chap3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫/requests_firstblood.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap3/demo8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chap3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap3/demo9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,10 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.demo9" />
+        <item itemvalue="Python.demo8" />
+        <item itemvalue="Python.demo1_urllib_request" />
+        <item itemvalue="Python.破解百度翻译" />
         <item itemvalue="Python.scratch" />
-        <item itemvalue="Python.网页采集器" />
-        <item itemvalue="Python.requests_firstblood" />
-        <item itemvalue="Python.demo7" />
       </list>
     </recent_temporary>
   </component>
@@ -222,13 +224,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00129" summary="Changed">
-      <created>1663817583259</created>
-      <option name="number" value="00129" />
-      <option name="presentableId" value="LOCAL-00129" />
-      <option name="project" value="LOCAL" />
-      <updated>1663817583259</updated>
     </task>
     <task id="LOCAL-00130" summary="Changed">
       <created>1663817892482</created>
@@ -566,7 +561,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665636167682</updated>
     </task>
-    <option name="localTasksCounter" value="178" />
+    <task id="LOCAL-00178" summary="changed">
+      <created>1665727788203</created>
+      <option name="number" value="00178" />
+      <option name="presentableId" value="LOCAL-00178" />
+      <option name="project" value="LOCAL" />
+      <updated>1665727788204</updated>
+    </task>
+    <option name="localTasksCounter" value="179" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
