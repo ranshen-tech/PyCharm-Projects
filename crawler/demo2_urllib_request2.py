@@ -1,11 +1,7 @@
-# 教育机构 ：马士兵教育
-# 讲    师：杨淑娟
 import urllib.parse
 import urllib.request
-
 import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
-
 url = 'https://www.xslou.com/login.php'
 
 data = {'username': '18600605736', 'password': '57365736', 'action': 'login'}
