@@ -5,28 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="changed">
-      <change afterPath="$PROJECT_DIR$/crawler/demo1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawler/demo14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runoob/urllib_.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap3/cookie.txt" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/cookie.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap3/demo1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap3/demo10.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/demo10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap3/demo11.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/demo11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap3/demo12.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/demo12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap3/demo13.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/demo13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap3/demo14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap3/demo15.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/demo15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap3/demo1_urllib_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/demo1_urllib_request.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap3/demo2_urllib_request2.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/demo2_urllib_request2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap3/demo3_urllib_request3.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/demo3_urllib_request3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap3/demo4_urllib_request4.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/demo4_urllib_request4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap3/demo5_urllib_request5.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/demo5_urllib_request5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap3/demo6_ipproxy.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/demo6_ipproxy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap3/demo7.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/demo7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap3/demo8.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/demo8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap3/demo9.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/demo9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap3/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/demo1_urllib_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/demo1_urllib_request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runoob/urllib_.py" beforeDir="false" afterPath="$PROJECT_DIR$/runoob/urllib_.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +76,7 @@
       <recent name="$PROJECT_DIR$/Python/经典案例" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.demo1 (1)">
+  <component name="RunManager" selected="Python.urllib_">
     <configuration name="破解百度翻译" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -224,9 +205,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.urllib_" />
         <item itemvalue="Python.demo1 (1)" />
         <item itemvalue="Python.demo1" />
-        <item itemvalue="Python.urllib_" />
         <item itemvalue="Python.demo14" />
         <item itemvalue="Python.scratch" />
       </list>
@@ -240,13 +221,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00134" summary="Changed">
-      <created>1663910015648</created>
-      <option name="number" value="00134" />
-      <option name="presentableId" value="LOCAL-00134" />
-      <option name="project" value="LOCAL" />
-      <updated>1663910015648</updated>
     </task>
     <task id="LOCAL-00135" summary="Changed">
       <created>1663912440580</created>
@@ -584,7 +558,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665743012275</updated>
     </task>
-    <option name="localTasksCounter" value="183" />
+    <task id="LOCAL-00183" summary="changed">
+      <created>1665813268463</created>
+      <option name="number" value="00183" />
+      <option name="presentableId" value="LOCAL-00183" />
+      <option name="project" value="LOCAL" />
+      <updated>1665813268463</updated>
+    </task>
+    <option name="localTasksCounter" value="184" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
