@@ -1,8 +1,6 @@
-# 教育机构 ：马士兵教育
-# 讲    师：杨淑娟
-
 import urllib.request
+import ssl
 
 url = 'https://www.baidu.com'
-resp = urllib.request.urlopen(url)
+resp = urllib.request.urlopen(url, context=ssl._create_unverified_context())
 print(resp)
