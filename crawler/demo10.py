@@ -1,5 +1,3 @@
-# 教育机构 ：马士兵教育
-# 讲    师：杨淑娟
 # 发送不带参数的get请求
 import requests
 
@@ -13,4 +11,5 @@ print('响应状态码:', resp.status_code)
 print('请求后的cookie:', cookie)
 print('获取请求的网址:', resp.url)
 print('响应头:', headers)
-# print('响应内容:', resp.text)
+print('响应内容:', resp.text)
+print('encoding', resp.encoding)
