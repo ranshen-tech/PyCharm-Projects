@@ -6,6 +6,7 @@ headers = {
     'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36'
 }
 url_ = 'https://movie.douban.com/top250'
+# url_ = input('Please enter query URL: ')
 
 
 def get_data(url, user_agent):
