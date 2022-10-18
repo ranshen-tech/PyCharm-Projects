@@ -4,10 +4,13 @@ from bs4 import BeautifulSoup
 
 headers = {'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36'}
 url_ = 'https://movie.douban.com/top250'
+# params = {'start': 0}
 # url_ = input('Please enter query URL: ')
 
 
-def get_data(url, user_agent):
+def get_data(url, user_agent=None):
+    if user_agent is None:
+        user_agent = headers
     res = requests.get(url, headers=user_agent)
     soup = BeautifulSoup(res.text, 'html.parser')
     return soup.select('div.hd a')
