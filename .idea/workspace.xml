@@ -5,11 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="changed">
-      <change afterPath="$PROJECT_DIR$/runoob/requests_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第5章-数据存储/PPT/第5站-数据存储.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第5章-数据存储/文档/scott - 副本.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第5章-数据存储/源码/chap5/demo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第5章-数据存储/源码/chap5/demo10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第5章-数据存储/源码/chap5/demo11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第5章-数据存储/源码/chap5/demo12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第5章-数据存储/源码/chap5/demo13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第5章-数据存储/源码/chap5/demo14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第5章-数据存储/源码/chap5/demo15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第5章-数据存储/源码/chap5/demo16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第5章-数据存储/源码/chap5/demo17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第5章-数据存储/源码/chap5/demo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第5章-数据存储/源码/chap5/demo3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第5章-数据存储/源码/chap5/demo4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第5章-数据存储/源码/chap5/demo5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第5章-数据存储/源码/chap5/demo6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第5章-数据存储/源码/chap5/demo7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第5章-数据存储/源码/chap5/demo8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第5章-数据存储/源码/chap5/demo9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第5章-数据存储/源码/chap5/demolianjia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第5章-数据存储/源码/chap5/demolianjia_mongodb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第5章-数据存储/源码/chap5/lianjia.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第5章-数据存储/源码/chap5/mongodb.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第5章-数据存储/源码/chap5/movie.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第5章-数据存储/源码/chap5/mysql查询.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第5章-数据存储/源码/chap5/student.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第5章-数据存储/源码/chap5/下厨房美食.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第5章-数据存储/源码/chap5/京东销售最好的粽子数据.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第5章-数据存储/源码/chap5/我的Excel文件.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第5章-数据存储/源码/chap5/粽子的评论数据.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第5章-数据存储/源码/chap5/销售数据.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap4/demo6.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap4/demo6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap4/demo7.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap4/demo7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap4/demo8.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap4/demo8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runoob/requests_.py" beforeDir="false" afterPath="$PROJECT_DIR$/runoob/requests_.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,28 +106,7 @@
       <recent name="$PROJECT_DIR$/Python/经典案例" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.demo8">
-    <configuration name="demo4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python Project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chap4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap4/demo4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.requests_">
     <configuration name="demo6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,13 +191,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.requests_" />
+        <item itemvalue="Python.scratch" />
         <item itemvalue="Python.demo8" />
         <item itemvalue="Python.demo7" />
         <item itemvalue="Python.demo6" />
-        <item itemvalue="Python.requests_" />
-        <item itemvalue="Python.demo4" />
       </list>
     </recent_temporary>
   </component>
@@ -202,13 +230,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00142" summary="Changed">
-      <created>1663980766291</created>
-      <option name="number" value="00142" />
-      <option name="presentableId" value="LOCAL-00142" />
-      <option name="project" value="LOCAL" />
-      <updated>1663980766291</updated>
     </task>
     <task id="LOCAL-00143" summary="Changed">
       <created>1663983290691</created>
@@ -546,7 +567,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665978926682</updated>
     </task>
-    <option name="localTasksCounter" value="191" />
+    <task id="LOCAL-00191" summary="changed">
+      <created>1665997436617</created>
+      <option name="number" value="00191" />
+      <option name="presentableId" value="LOCAL-00191" />
+      <option name="project" value="LOCAL" />
+      <updated>1665997436617</updated>
+    </task>
+    <option name="localTasksCounter" value="192" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

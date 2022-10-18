@@ -1,0 +1,124 @@
+创建数据库
+use school
+
+创建集合(表 )
+db.createCollection('student')
+
+(1)插入一条数据
+db.student.insert({'name':'张三','age':20})
+
+插入多条数据
+db.student.insert([{'name':'李四','gender':'女'},{'name':'王五','age':24},{'name':'陈六','age':28,'gender':'女'}])
+
+循环插入多条数据   (js写法)
+for (i=20;i<=25;i++){db.student.insert({'name':'麻七','age':i})}
+
+
+插入操作
+db.student.save({'_id':1,'name':'lili'})
+db.student.save({'_id':2,'name':'lili'})
+
+save与insert的区别
+如果collection中的id有相同的情况下，insert操作报错
+如果collection中的id有相同的情况下,save执行更新操作
+如查collection中的id没有相同的情况下,save执行的是插入操作
+
+(2)修改操作
+update会执行全文档更新，如果想保留原值，那么需要将所有的原值都写入
+db.student.update({'name':'李四'},{'age':25,'name':'李四','gender':'男'})
+
+如果想保留原值的第二种方式，使用$set进行设置
+db.student.update({'name':'李四'},{$set:{'age':20}})
+
+第三个参数 multi 默认为false，只更新符合条件的第一条数据，如果为true，将对符合条件的所有数据进行更新操作
+db.student.update({'name':'李四'},{$set:{'age':25}},{'multi':true})
+
+(3)删除操作
+将姓名为lili的全部删除
+db.student.remove({'name':'lili'})
+
+将符合条件的一条数据删除   {justOne:true}
+
+db.student.remove({'name':'麻七'},{justOne:true})
+
+将collection中的所有数据进行删除
+
+db.student.remove({})
+
+
+(4)查询操作
+ a:查询全部数据
+  db.student.find()
+ b:查询匹配数据
+ db.student.find({'name':'张三'})
+
+ c:只返回匹配的第一条数据
+ db.student.findOne({'name':'麻七'})
+
+ d:等值的查询
+  db.student.find({'age':20})
+  db.student.find({'age':{'$eq':22}})
+
+ e:非等值查询
+   查询年龄小于22岁
+   db.student.find({'age':{'$lt':22}})
+
+   查询年龄小于等于22岁
+   db.student.find({'age':{'$lte':22}})
+
+    查询年龄大于等于22岁
+   db.student.find({'age':{'$gte':22}})
+
+   查询年龄是20或23岁
+   db.student.find({'age':{'$in':[20,23]}})
+
+   查询年龄是20岁的或者姓名是麻七的学员
+   db.student.find({'$or':[{'age':20},{'name':'麻七'}]})
+
+  f:模糊匹配
+    查询姓名中包含“麻”的所有数据
+    db.student.find({'name':/麻/})
+
+    db.student.find({'name':{$regex:'麻'}})
+
+  g:js的写法
+    查询大于20岁的学员信息
+    db.student.find({$where:function(){return this.age>20}})
+
+   查询指定数量的文档
+   db.student.find().limit(3)
+
+   跳过3条再查三条
+   db.student.find().limit(3).skip(3)
+
+   排序查询
+   db.student.find().sort({age:1})  1表示升序
+   db.student.find().sort({age:-1})  -1表示降序
+
+   统计文档个数
+   db.student.find().count()
+
+   db.student.find({'name':'麻七'}).count()
+   去重查询
+   db.student.distinct('age')
+
+   查找有年龄的学员信息
+   db.student.find({'age':{$exists:true}})  #true表示的是含有年龄的学员
+
+   db.student.find({'age':{$exists:false}}) #false表示的是不含有年龄的学员
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
