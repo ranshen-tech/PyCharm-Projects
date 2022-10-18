@@ -11,14 +11,19 @@ url_ = 'https://movie.douban.com/top250'
 def get_data(url, user_agent):
     res = requests.get(url, headers=user_agent)
     soup = BeautifulSoup(res.text, 'html.parser')
-    movie_tags = soup.select('div.hd a')
+    return soup.select('div.hd a')
+
     # print(movie_tags[0].select('span.title')[0].text, end='')
     # print(movie_tags[0].text.split('/')[0])
-    for movie_tag in movie_tags:
-        movie_name_tag = movie_tag.text.split('/')[0]
-        # print(movie_name_tag.strip())
-        movie_link_tag = movie_tag['href']
-        print(movie_name_tag.strip(), movie_link_tag)
 
 
-get_data(url_, headers)
+def process_data(datas):
+    for data in datas:
+        movie_name = data.text.split('/')[0]
+        movie_link = data['href']
+        print(movie_name.strip(), movie_link)
+        # print(type(movie_name.strip()), type(movie_link))
+
+
+movie_tags = get_data(url_, headers)
+process_data(movie_tags)

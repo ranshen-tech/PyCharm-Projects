@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="changed">
-      <change afterPath="$PROJECT_DIR$/runoob/scrawler_temp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runoob/scrawler_temp.py" beforeDir="false" afterPath="$PROJECT_DIR$/runoob/scrawler_temp.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,13 +198,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00144" summary="Changed">
-      <created>1663986276517</created>
-      <option name="number" value="00144" />
-      <option name="presentableId" value="LOCAL-00144" />
-      <option name="project" value="LOCAL" />
-      <updated>1663986276517</updated>
     </task>
     <task id="LOCAL-00145" summary="Changed">
       <created>1663996639042</created>
@@ -543,7 +535,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666060769622</updated>
     </task>
-    <option name="localTasksCounter" value="193" />
+    <task id="LOCAL-00193" summary="changed">
+      <created>1666068839971</created>
+      <option name="number" value="00193" />
+      <option name="presentableId" value="LOCAL-00193" />
+      <option name="project" value="LOCAL" />
+      <updated>1666068839971</updated>
+    </task>
+    <option name="localTasksCounter" value="194" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
