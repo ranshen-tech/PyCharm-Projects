@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="changed">
+      <change afterPath="$PROJECT_DIR$/runoob/douban_movie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runoob/mtime_movie_comments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runoob/segmentfault.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runoob/requests_.py" beforeDir="false" afterPath="$PROJECT_DIR$/runoob/requests_.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runoob/scrawler_temp.py" beforeDir="false" afterPath="$PROJECT_DIR$/runoob/scrawler_temp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第5章-数据存储/源码/chap5/demo10.py" beforeDir="false" afterPath="$PROJECT_DIR$/第5章-数据存储/源码/chap5/demo10.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,8 +77,8 @@
       <recent name="$PROJECT_DIR$/Python/经典案例" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.requests_">
-    <configuration name="demo10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.scratch">
+    <configuration name="douban_movie" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第5章-数据存储/源码/chap5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/runoob" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第5章-数据存储/源码/chap5/demo10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runoob/douban_movie.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mtime_movie_comments" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chap4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/runoob" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap4/demo8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runoob/mtime_movie_comments.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,7 +162,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="scrawler_temp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="segmentfault" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -174,7 +174,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runoob/scrawler_temp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runoob/segmentfault.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.requests_" />
-        <item itemvalue="Python.demo10" />
         <item itemvalue="Python.scratch" />
-        <item itemvalue="Python.scrawler_temp" />
-        <item itemvalue="Python.demo8" />
+        <item itemvalue="Python.mtime_movie_comments" />
+        <item itemvalue="Python.douban_movie" />
+        <item itemvalue="Python.segmentfault" />
+        <item itemvalue="Python.requests_" />
       </list>
     </recent_temporary>
   </component>
@@ -201,13 +201,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00149" summary="Changed">
-      <created>1664013142895</created>
-      <option name="number" value="00149" />
-      <option name="presentableId" value="LOCAL-00149" />
-      <option name="project" value="LOCAL" />
-      <updated>1664013142895</updated>
     </task>
     <task id="LOCAL-00150" summary="Changed">
       <created>1664014005237</created>
@@ -545,7 +538,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666082861596</updated>
     </task>
-    <option name="localTasksCounter" value="198" />
+    <task id="LOCAL-00198" summary="changed">
+      <created>1666097929339</created>
+      <option name="number" value="00198" />
+      <option name="presentableId" value="LOCAL-00198" />
+      <option name="project" value="LOCAL" />
+      <updated>1666097929339</updated>
+    </task>
+    <option name="localTasksCounter" value="199" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
