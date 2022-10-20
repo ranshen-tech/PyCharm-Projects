@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="changed">
+    <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="ππ">
+      <change afterPath="$PROJECT_DIR$/runoob/dynamic_crawler_task.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runoob/mtime_movie_comments.py" beforeDir="false" afterPath="$PROJECT_DIR$/runoob/mtime_movie_comments.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第5章-数据存储/源码/chap5/demo14.py" beforeDir="false" afterPath="$PROJECT_DIR$/第5章-数据存储/源码/chap5/demo14.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +75,7 @@
       <recent name="$PROJECT_DIR$/Python/经典案例" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.mtime_movie_comments">
+  <component name="RunManager" selected="Python.dynamic_crawler_task">
     <configuration name="demo14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,6 +110,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runoob/douban_movie.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dynamic_crawler_task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/runoob" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runoob/dynamic_crawler_task.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,34 +181,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="segmentfault" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python Project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/runoob" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runoob/segmentfault.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.dynamic_crawler_task" />
         <item itemvalue="Python.mtime_movie_comments" />
         <item itemvalue="Python.demo14" />
         <item itemvalue="Python.scratch" />
         <item itemvalue="Python.douban_movie" />
-        <item itemvalue="Python.segmentfault" />
       </list>
     </recent_temporary>
   </component>
@@ -200,13 +199,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00152" summary="Changed">
-      <created>1664015527701</created>
-      <option name="number" value="00152" />
-      <option name="presentableId" value="LOCAL-00152" />
-      <option name="project" value="LOCAL" />
-      <updated>1664015527701</updated>
     </task>
     <task id="LOCAL-00153" summary="Changed">
       <created>1664071156075</created>
@@ -544,7 +536,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666166526165</updated>
     </task>
-    <option name="localTasksCounter" value="201" />
+    <task id="LOCAL-00201" summary="ππ">
+      <created>1666188028096</created>
+      <option name="number" value="00201" />
+      <option name="presentableId" value="LOCAL-00201" />
+      <option name="project" value="LOCAL" />
+      <updated>1666188028096</updated>
+    </task>
+    <option name="localTasksCounter" value="202" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -564,7 +563,6 @@
       <path value="$PROJECT_DIR$/Learning_Notes" />
       <path value="$PROJECT_DIR$/Pycharm Course" />
     </ignored-roots>
-    <MESSAGE value="while循环案例" />
     <MESSAGE value="基础语法" />
     <MESSAGE value="发工资，优雅" />
     <MESSAGE value="项目" />
@@ -589,7 +587,8 @@
     <MESSAGE value="ˆ" />
     <MESSAGE value="changedˆ" />
     <MESSAGE value="changed" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed" />
+    <MESSAGE value="ππ" />
+    <option name="LAST_COMMIT_MESSAGE" value="ππ" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
