@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="ππ">
-      <change afterPath="$PROJECT_DIR$/runoob/dynamic_crawler_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runoob/simulate_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shanbay/spider/lesson6_cookie.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +76,7 @@
       <recent name="$PROJECT_DIR$/Python/经典案例" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.dynamic_crawler_task">
+  <component name="RunManager" selected="Python.scratch">
     <configuration name="demo14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,27 +90,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第5章-数据存储/源码/chap5/demo14.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="douban_movie" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python Project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/runoob" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runoob/douban_movie.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,13 +161,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="simulate_login" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/runoob" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runoob/simulate_login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.scratch" />
+        <item itemvalue="Python.simulate_login" />
         <item itemvalue="Python.dynamic_crawler_task" />
         <item itemvalue="Python.mtime_movie_comments" />
         <item itemvalue="Python.demo14" />
-        <item itemvalue="Python.scratch" />
-        <item itemvalue="Python.douban_movie" />
       </list>
     </recent_temporary>
   </component>
@@ -199,13 +200,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00153" summary="Changed">
-      <created>1664071156075</created>
-      <option name="number" value="00153" />
-      <option name="presentableId" value="LOCAL-00153" />
-      <option name="project" value="LOCAL" />
-      <updated>1664071156075</updated>
     </task>
     <task id="LOCAL-00154" summary="Changed">
       <created>1664071445392</created>
@@ -543,7 +537,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666188028096</updated>
     </task>
-    <option name="localTasksCounter" value="202" />
+    <task id="LOCAL-00202" summary="ππ">
+      <created>1666230006707</created>
+      <option name="number" value="00202" />
+      <option name="presentableId" value="LOCAL-00202" />
+      <option name="project" value="LOCAL" />
+      <updated>1666230006707</updated>
+    </task>
+    <option name="localTasksCounter" value="203" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
