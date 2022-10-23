@@ -5,8 +5,96 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="ππ">
+      <change afterPath="$PROJECT_DIR$/shanbay/spider/lesson7_selenium.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/PPT/第7站-Scrapy框架.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_1/demo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_1/douban/book.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_1/douban/douban/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_1/douban/douban/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_1/douban/douban/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_1/douban/douban/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_1/douban/douban/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_1/douban/douban/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_1/douban/douban/spiders/top250book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_1/douban/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_1/douban/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_2/story/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_2/story/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_2/story/story.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_2/story/story/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_2/story/story/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_2/story/story/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_2/story/story/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_2/story/story/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_2/story/story/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_2/story/story/spiders/qustory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_3/lieyun/lieyun/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_3/lieyun/lieyun/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_3/lieyun/lieyun/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_3/lieyun/lieyun/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_3/lieyun/lieyun/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_3/lieyun/lieyun/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_3/lieyun/lieyun/spiders/lieyunwang.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_3/lieyun/lieyun/spiders/lyw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_3/lieyun/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_3/lieyun/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_3/总结" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_4/xsl/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_4/xsl/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_4/xsl/xsl/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_4/xsl/xsl/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_4/xsl/xsl/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_4/xsl/xsl/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_4/xsl/xsl/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_4/xsl/xsl/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_4/xsl/xsl/spiders/xsllogin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_5/zcool/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_5/zcool/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_5/zcool/zcool/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_5/zcool/zcool/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_5/zcool/zcool/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_5/zcool/zcool/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_5/zcool/zcool/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_5/zcool/zcool/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_5/zcool/zcool/spiders/zcoolspider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_6/httpua/httpua/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_6/httpua/httpua/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_6/httpua/httpua/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_6/httpua/httpua/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_6/httpua/httpua/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_6/httpua/httpua/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_6/httpua/httpua/spiders/httpbin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_6/httpua/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_6/httpua/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_7/ss/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_7/ss/ss/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_7/ss/ss/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_7/ss/ss/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_7/ss/ss/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_7/ss/ss/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_7/ss/ss/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_7/ss/ss/spiders/baidu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_7/ss/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_8/zufang/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_8/zufang/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_8/zufang/zufang/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_8/zufang/zufang/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_8/zufang/zufang/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_8/zufang/zufang/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_8/zufang/zufang/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_8/zufang/zufang/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_8/zufang/zufang/spiders/lianjia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_9/job/job/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_9/job/job/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_9/job/job/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_9/job/job/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_9/job/job/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_9/job/job/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_9/job/job/spiders/liepin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_9/job/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/源码/chap7_9/job/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章-Scrapy框架/软件/Navicat for MySQL V11.0.10 绿色版_15224296.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shanbay/spider/lesson6_cookie.py" beforeDir="false" afterPath="$PROJECT_DIR$/shanbay/spider/lesson6_cookie.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +163,7 @@
       <recent name="$PROJECT_DIR$/Python/经典案例" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lesson6_cookie">
+  <component name="RunManager" selected="Python.scratch">
     <configuration name="dynamic_crawler_task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -183,8 +271,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lesson6_cookie" />
         <item itemvalue="Python.scratch" />
+        <item itemvalue="Python.lesson6_cookie" />
         <item itemvalue="Python.simulate_login" />
         <item itemvalue="Python.dynamic_crawler_task" />
         <item itemvalue="Python.mtime_movie_comments" />
@@ -199,13 +287,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00156" summary="Changed">
-      <created>1664088377566</created>
-      <option name="number" value="00156" />
-      <option name="presentableId" value="LOCAL-00156" />
-      <option name="project" value="LOCAL" />
-      <updated>1664088377566</updated>
     </task>
     <task id="LOCAL-00157" summary="Changed">
       <created>1664089121281</created>
@@ -543,7 +624,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666319074454</updated>
     </task>
-    <option name="localTasksCounter" value="205" />
+    <task id="LOCAL-00205" summary="ππ">
+      <created>1666446197968</created>
+      <option name="number" value="00205" />
+      <option name="presentableId" value="LOCAL-00205" />
+      <option name="project" value="LOCAL" />
+      <updated>1666446197968</updated>
+    </task>
+    <option name="localTasksCounter" value="206" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
