@@ -40,3 +40,18 @@ for link in links:
     print(content.text)
 
 browser.quit()
+
+
+# 为了提升爬取效率，我们可以将浏览器设置为静默模式，让浏览器不必真的打开，而是在后台默默地获取数据、操作页面。
+# from selenium import webdriver
+
+# 初始化配置
+# options = webdriver.ChromeOptions()
+# headless 为静默模式
+# options.add_argument('--headless')
+# 将配置传入浏览器
+# browser = webdriver.Chrome(options=options)
+# 打开网页
+# browser.get('https://wpblog.x0y1.com')
+# 关闭浏览器
+# browser.quit()

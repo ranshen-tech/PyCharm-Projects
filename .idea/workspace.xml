@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="">
+    <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="changed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shanbay/spider/lesson7_selenium.py" beforeDir="false" afterPath="$PROJECT_DIR$/shanbay/spider/lesson7_selenium.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +74,7 @@
       <recent name="$PROJECT_DIR$/Python/经典案例" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lesson7_selenium">
+  <component name="RunManager" selected="Python.scratch">
     <configuration name="dynamic_crawler_task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -183,8 +182,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lesson7_selenium" />
         <item itemvalue="Python.scratch" />
+        <item itemvalue="Python.lesson7_selenium" />
         <item itemvalue="Python.lesson6_cookie" />
         <item itemvalue="Python.simulate_login" />
         <item itemvalue="Python.dynamic_crawler_task" />
@@ -199,20 +198,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00158" summary="Changed">
-      <created>1664153328004</created>
-      <option name="number" value="00158" />
-      <option name="presentableId" value="LOCAL-00158" />
-      <option name="project" value="LOCAL" />
-      <updated>1664153328004</updated>
-    </task>
-    <task id="LOCAL-00159" summary="Changed">
-      <created>1664154657510</created>
-      <option name="number" value="00159" />
-      <option name="presentableId" value="LOCAL-00159" />
-      <option name="project" value="LOCAL" />
-      <updated>1664154657510</updated>
     </task>
     <task id="LOCAL-00160" summary="Changed">
       <created>1664156570524</created>
@@ -543,7 +528,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666527443953</updated>
     </task>
-    <option name="localTasksCounter" value="207" />
+    <task id="LOCAL-00207" summary="changed">
+      <created>1666579470300</created>
+      <option name="number" value="00207" />
+      <option name="presentableId" value="LOCAL-00207" />
+      <option name="project" value="LOCAL" />
+      <updated>1666579470301</updated>
+    </task>
+    <task id="LOCAL-00208" summary="changed">
+      <created>1666579526372</created>
+      <option name="number" value="00208" />
+      <option name="presentableId" value="LOCAL-00208" />
+      <option name="project" value="LOCAL" />
+      <updated>1666579526372</updated>
+    </task>
+    <option name="localTasksCounter" value="209" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -586,9 +585,9 @@
     <MESSAGE value="Changed" />
     <MESSAGE value="ˆ" />
     <MESSAGE value="changedˆ" />
-    <MESSAGE value="changed" />
     <MESSAGE value="ππ" />
-    <option name="LAST_COMMIT_MESSAGE" value="ππ" />
+    <MESSAGE value="changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
