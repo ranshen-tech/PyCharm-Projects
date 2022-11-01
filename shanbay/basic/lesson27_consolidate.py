@@ -1,32 +1,64 @@
-# 赛亚人
-class Saiyan:
-    hair = '黑发'
+# 别忘了在这里导入必要的模块哦
+from random import choice
 
-    # 每个赛亚人战斗力不同
-    def __init__(self, ATK):
-        self.ATK = ATK
+from lesson27_card import *
 
 
-# 请在下方定义“超级赛亚人”类
-class SuperSaiyan(Saiyan):
-    # 超级赛亚人能够变身
-    def transform(self):
-        # 变身后发色变为金色
-        self.hair = '金色'
-        # 战斗力变为原来的 50 倍
-        self.ATK *= 50
+# 狼人阵营
+class Wolf:
+    skill = '每晚可和同伴一起杀死一名玩家'
+    card = wolf_symbol
+
+    def show_card(self):
+        print(f'你的身份卡是：\n')
+        print(self.card)
+        print(f'\n你拥有的技能是: {self.skill}')
 
 
-# 卡卡罗特是超级赛亚人，初始战斗力为 25
-kakarot = SuperSaiyan(25)
-# 他是赛亚人
-if isinstance(kakarot, Saiyan):
-    print('卡卡罗特是赛亚人，长着一头{}'.format(kakarot.hair))
-else:
-    print('卡卡罗特不是赛亚人')
-print('他的战斗力是 {}'.format(kakarot.ATK))
+# 人类阵营
+class Human:
+    skill = '没有特殊技能'
 
-# 并且能通过变身提升战斗力
-print('卡卡罗特伴随着一阵金光，开始变身！')
-kakarot.transform()
-print(f'变身后的战斗力是 {kakarot.ATK}，头发也变成了{kakarot.hair}')
+    def show_card(self):
+        print('你的身份卡是: \n')
+        print(self.card)
+        print(f'\n你拥有的技能是: {self.skill}')
+
+
+# 预言家是人类阵营
+# 每晚可查验任意一名在座玩家的身份
+class Prophet(Human):
+    def __init__(self):
+        self.card = prophet_symbol
+        self.skill = '每晚可查验任意一名在座玩家的身份'
+
+
+# 女巫是人类阵营
+# 有一瓶毒药、一瓶解药
+class Witch(Human):
+    def __init__(self):
+        self.card = witch_symbol
+        self.skill = '有一瓶毒药、一瓶解药'
+
+
+# 猎人是人类阵营
+# 被投票出局或中刀身亡时，可开枪带走任意一名玩家
+class Hunter(Human):
+    def __init__(self):
+        self.card = hunter_symbol
+        self.skill = '被投票出局或中刀身亡时，可开枪带走任意一名玩家'
+
+
+# 村民是人类阵营
+# 没有特殊技能
+class Villager(Human):
+    def __init__(self):
+        self.card = villager_symbol
+
+
+# 狼人杀九人局标准配置：3 狼、3 村民、1 预言家、1 女巫、1 猎人
+roles = [Villager(), Villager(), Villager(), Prophet(), Witch(), Hunter(), Wolf(), Wolf(), Wolf()]
+# 游戏开始时，你可从所有角色牌中抽取一张，作为自己的身份卡
+player = choice(roles)
+# 请调用 show_card() 方法，观察自己的角色卡
+player.show_card()
