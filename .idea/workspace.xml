@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="changed">
-      <change afterPath="$PROJECT_DIR$/shanbay/basic/lesson28_assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_js_reverse/acturally_combat.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shanbay/basic/lesson27_consolidate.py" beforeDir="false" afterPath="$PROJECT_DIR$/shanbay/basic/lesson27_consolidate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shanbay/basic/lesson28_assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/shanbay/basic/lesson28_assignment.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +78,7 @@
       <recent name="$PROJECT_DIR$/Python/经典案例" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lesson27_consolidate">
+  <component name="RunManager" selected="Python.SHA1_">
     <configuration name="SHA1_" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson28_assignment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,11 +171,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/shanbay/basic" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shanbay/basic/lesson28_assignment.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SHA1_" />
+        <item itemvalue="Python.lesson28_assignment" />
         <item itemvalue="Python.lesson27_consolidate" />
         <item itemvalue="Python.lesson26_consolidate_1" />
         <item itemvalue="Python.lesson26_assignment" />
-        <item itemvalue="Python.scratch" />
-        <item itemvalue="Python.SHA1_" />
       </list>
     </recent_temporary>
   </component>
@@ -202,13 +202,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00171" summary="Changed">
-      <created>1664504031262</created>
-      <option name="number" value="00171" />
-      <option name="presentableId" value="LOCAL-00171" />
-      <option name="project" value="LOCAL" />
-      <updated>1664504031262</updated>
     </task>
     <task id="LOCAL-00172" summary="Changed">
       <created>1664507928088</created>
@@ -546,7 +539,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667280985297</updated>
     </task>
-    <option name="localTasksCounter" value="220" />
+    <task id="LOCAL-00220" summary="changed">
+      <created>1667282109664</created>
+      <option name="number" value="00220" />
+      <option name="presentableId" value="LOCAL-00220" />
+      <option name="project" value="LOCAL" />
+      <updated>1667282109664</updated>
+    </task>
+    <option name="localTasksCounter" value="221" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
