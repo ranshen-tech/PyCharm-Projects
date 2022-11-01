@@ -18,8 +18,8 @@ def get_token(args: List[Any]):
     return base64.b64encode(','.join([sign, timestamp]).encode('utf-8')).decode('utf-8')
 
 
-args = ['/api/movie']
-token = get_token(args=args)
+api = ['/api/movie']
+token = get_token(api)
 index_url = INDEX_URL.format(limit=LIMIT, offset=OFFSET, token=token)
 response = requests.get(index_url)
 # print('response', response.json())
@@ -29,7 +29,7 @@ for item in result['results']:
     id = item['id']
     encrypt_id = base64.b64encode(str(id).encode('utf-8')).decode('utf-8')
     args = [f'/api/movie/{encrypt_id}']
-    token = get_token(args=args)
+    token = get_token(api)
     detail_url = DETAIL_URL.format(id=encrypt_id, token=token)
     response = requests.get(detail_url)
     print('response', response.json())
