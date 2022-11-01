@@ -4,6 +4,7 @@ import time
 import requests
 import base64
 """
+https://spa6.scrape.center/
 1.将/api/movie放到一个列表里；
 2.在列表中加入当前的时间戳；
 3.将列表内容用逗号拼接；
