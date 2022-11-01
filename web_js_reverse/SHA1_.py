@@ -2,11 +2,10 @@ __author__ = 'ranshen0519@icloud.com'
 
 import hashlib
 
-sha1 = hashlib.sha1()
-data = "msb"
-sha1.update(data.encode("utf-8"))
-sha1_data = sha1.hexdigest()
-print(sha1_data)
+hash_ = hashlib.sha1()
+hash_.update('ranshen'.encode("utf-8"))
+print(hash_.hexdigest())
+print(hash_.digest())
 
 
 # 解密工具：http://tool.geekapp.cn/index.php
