@@ -1,5 +1,22 @@
 __author__ = 'ranshen0519@icloud.com'
+
 from random import randint
+
+"""
+用 面向对象编程 方法编写完成 Player 类，让卡卡罗特和比克大魔王展开决斗
+卡卡罗特（kakarot）
+姓名（name）：卡卡罗特
+生命值（HP）：100
+攻击力（ATK，attack）：25
+
+比克大魔王（piccolo）
+姓名（name）：比克大魔王
+生命值（HP）：150
+攻击力（ATK，attack）：15
+
+决斗采取 回合制，由卡卡罗特先发动攻击；
+防御时有 20% 几率防御成功，完全闪避攻击，免受伤害。
+"""
 
 
 # 选手类
