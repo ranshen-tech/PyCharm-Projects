@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="changed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_js_reverse/SHA1_.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_js_reverse/SHA1_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shanbay/basic/lesson28_assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/shanbay/basic/lesson28_assignment.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web_js_reverse/acturally_combat.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_js_reverse/acturally_combat.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +78,7 @@
       <recent name="$PROJECT_DIR$/Python/经典案例" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.acturally_combat">
+  <component name="RunManager" selected="Python.lesson28_assignment">
     <configuration name="SHA1_" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -186,10 +186,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lesson28_assignment" />
         <item itemvalue="Python.acturally_combat" />
         <item itemvalue="Python.SHA1_" />
         <item itemvalue="Python.scratch" />
-        <item itemvalue="Python.lesson28_assignment" />
         <item itemvalue="Python.lesson27_consolidate" />
       </list>
     </recent_temporary>
@@ -202,13 +202,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00173" summary="Changed">
-      <created>1664510057644</created>
-      <option name="number" value="00173" />
-      <option name="presentableId" value="LOCAL-00173" />
-      <option name="project" value="LOCAL" />
-      <updated>1664510057644</updated>
     </task>
     <task id="LOCAL-00174" summary="Changed">
       <created>1664514674779</created>
@@ -546,7 +539,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667294690432</updated>
     </task>
-    <option name="localTasksCounter" value="222" />
+    <task id="LOCAL-00222" summary="changed">
+      <created>1667297711167</created>
+      <option name="number" value="00222" />
+      <option name="presentableId" value="LOCAL-00222" />
+      <option name="project" value="LOCAL" />
+      <updated>1667297711167</updated>
+    </task>
+    <option name="localTasksCounter" value="223" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

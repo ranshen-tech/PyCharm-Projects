@@ -17,4 +17,11 @@ Some of them are going into the park.
 '''
 
 word_list = article.lower().replace('.', '').split()
-print(word_list)
+# print(word_list)
+word_count = {}
+for word in word_list:
+    if word in word_count:
+        word_count[word] += 1
+    else:
+        word_count[word] = 1
+print(word_count)

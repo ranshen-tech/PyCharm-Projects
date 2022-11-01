@@ -42,7 +42,7 @@ if __name__ == '__main__':
     for i in range(5):
         offset += (i * 10)
         real_ajax_url = ajax_url.format(limit, offset, token)
-        print(real_ajax_url)
+        # print(real_ajax_url)
         response = requests.get(real_ajax_url)
         print(response.json())
         time.sleep(1)
