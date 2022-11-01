@@ -19,6 +19,9 @@ class Wolf:
 class Human:
     skill = '没有特殊技能'
 
+    def __init__(self):
+        self.card = None
+
     def show_card(self):
         print('你的身份卡是: \n')
         print(self.card)
