@@ -32,6 +32,7 @@ class Human:
 # 每晚可查验任意一名在座玩家的身份
 class Prophet(Human):
     def __init__(self):
+        super().__init__()
         self.card = prophet_symbol
         self.skill = '每晚可查验任意一名在座玩家的身份'
 
@@ -40,6 +41,7 @@ class Prophet(Human):
 # 有一瓶毒药、一瓶解药
 class Witch(Human):
     def __init__(self):
+        super().__init__()
         self.card = witch_symbol
         self.skill = '有一瓶毒药、一瓶解药'
 
@@ -48,6 +50,7 @@ class Witch(Human):
 # 被投票出局或中刀身亡时，可开枪带走任意一名玩家
 class Hunter(Human):
     def __init__(self):
+        super().__init__()
         self.card = hunter_symbol
         self.skill = '被投票出局或中刀身亡时，可开枪带走任意一名玩家'
 
@@ -56,6 +59,7 @@ class Hunter(Human):
 # 没有特殊技能
 class Villager(Human):
     def __init__(self):
+        super().__init__()
         self.card = villager_symbol
 
 
