@@ -23,14 +23,11 @@ class SeatBooking:
     # 展示座位预订信息
     def check_bookings(self, seats):
         print("正在为您查询该场次电影的预订状态...")
-        time.sleep(0.7)
         print('从上到下为 1～6 排，从左至右为 1～8 座')
         print("======================")
         for row in seats:
-            time.sleep(0.1)
             print('\t'.join(row))
         print("======================")
-        time.sleep(0.7)
 
     # 预订座位
     def book_seat(self, seats):
@@ -39,10 +36,8 @@ class SeatBooking:
             column = self.get_col()
             if seats[row][column] == '○':
                 print("正在为您预订指定座位...")
-                time.sleep(0.7)
                 seats[row][column] = '●'  # 预订成功，该座位将被标记为“已预约”
                 print(f"预订成功！座位号：{row+1}排{column+1}座")
                 break
             else:
                 print("这个座位已经被预订了哦, 试试别的吧")
-                time.sleep(0.7)

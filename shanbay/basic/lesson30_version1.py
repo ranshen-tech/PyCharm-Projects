@@ -5,6 +5,15 @@ import seat_booking
 import infos
 import film_selector
 
+class Controller:
+    def __init__(self, information):
+        self.films = information  # 电影库所有电影
+
+
+
+
+
+
 selector = film_selector.FilmSelector()
 # selector.display_films(infos.infos)
 selector.display_options(infos.infos)
