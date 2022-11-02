@@ -1,6 +1,5 @@
 __author__ = 'ranshen0519@icloud.com'
 
-import time
 from infos import infos
 from film_selector import FilmSelector
 from seat_booking import SeatBooking

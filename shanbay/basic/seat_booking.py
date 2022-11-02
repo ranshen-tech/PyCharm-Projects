@@ -1,6 +1,3 @@
-import time
-
-
 class SeatBooking:
     @staticmethod
     def get_row():

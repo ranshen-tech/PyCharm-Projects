@@ -1,6 +1,3 @@
-import time
-
-
 class FilmSelector:
     @staticmethod
     def display_options(films):
