@@ -16,9 +16,9 @@ class FilmSelector:
 
     @staticmethod
     def get_choice(films):
-        valid_choice = [i + 1 for i in range(len(films))]
+        valid_choice = [str(i + 1) for i in range(len(films))]
         valid_choice.append('x')
-        choice = int(input('你的选择是？ '))
+        choice = input('你的选择是？ ')
         while choice not in valid_choice:
-            choice = int(input('没有按照要求输入哦，请重新输入 '))
+            choice = input('没有按照要求输入哦，请重新输入 ')
         return choice
