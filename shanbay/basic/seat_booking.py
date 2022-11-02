@@ -34,12 +34,15 @@ class SeatBooking:
 
     # 预订座位
     def book_seat(self, seats):
-        row = self.get_row()
-        column = self.get_col()
-        if seats[row][column] == '○':
-            print("正在为您预订指定座位...")
-            time.sleep(0.7)
-            seats[row][column] = '●'  # 预订成功，该座位将被标记为“已预约”
-            print(f"预订成功！座位号：{row+1}排{column+1}座")
-        else:
-            print("这个座位已经被预订了哦")
+        while True:
+            row = self.get_row()
+            column = self.get_col()
+            if seats[row][column] == '○':
+                print("正在为您预订指定座位...")
+                time.sleep(0.7)
+                seats[row][column] = '●'  # 预订成功，该座位将被标记为“已预约”
+                print(f"预订成功！座位号：{row+1}排{column+1}座")
+                break
+            else:
+                print("这个座位已经被预订了哦, 试试别的吧")
+                time.sleep(0.7)
