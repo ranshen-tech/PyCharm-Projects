@@ -1,7 +1,7 @@
 __author__ = 'ranshen0519@icloud.com'
 
 import time
-
+from infos import infos
 from film_selector import FilmSelector
 from seat_booking import SeatBooking
 
@@ -26,27 +26,19 @@ class Controller:
         name = film['name']
         symbol = film['symbol']
         seat_list = film['seats']
+        print(f'正在为您预订电影《{name}》的座位...')
+        print(symbol)
         booking = SeatBooking()
         booking.check_bookings(seat_list)
         booking.book_seat(seat_list)
 
     @staticmethod
     def welcome():
-        print('+============================+')
         print('+     欢迎来到时光电影院     +')
-        print('+============================+')
-        print('')
-        time.sleep(0.7)
 
     @staticmethod
-    def bye(self):
-        print('')
-        time.sleep(0.2)
-        print('+============================+')
+    def bye():
         print('+  已经退出系统，下次见！👋  +')
-        print('+============================+')
 
-# seat_list = infos.infos[0]['seats']
-# booking = SeatBooking()
-# booking.check_bookings(seat_list)
-# booking.book_seat(seat_list)
+
+s = Controller(infos)
