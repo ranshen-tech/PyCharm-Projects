@@ -8,7 +8,8 @@ import film_selector
 # 实例化 FilmSelector 类
 selector = film_selector.FilmSelector()
 # 调用类的 display_films() 方法
-selector.display_films(infos.infos)
+# selector.display_films(infos.infos)
+selector.display_options(infos.infos)
 # 从 infos 列表中取出第一部电影的座位表
 seat_list = infos.infos[0]['seats']
 # 实例化 SeatBooking 类
