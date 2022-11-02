@@ -28,7 +28,7 @@ class SeatBooking:
         print("======================")
         for row in seats:
             time.sleep(0.1)
-            print('  '.join(row))
+            print('\t'.join(row))
         print("======================")
         time.sleep(0.7)
 

@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="changed">
+      <change afterPath="$PROJECT_DIR$/shanbay/basic/film_selector.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shanbay/basic/lesson30_version1.py" beforeDir="false" afterPath="$PROJECT_DIR$/shanbay/basic/lesson30_version1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shanbay/basic/seat_booking.py" beforeDir="false" afterPath="$PROJECT_DIR$/shanbay/basic/seat_booking.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -201,13 +203,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00184" summary="changed">
-      <created>1665814909668</created>
-      <option name="number" value="00184" />
-      <option name="presentableId" value="LOCAL-00184" />
-      <option name="project" value="LOCAL" />
-      <updated>1665814909668</updated>
     </task>
     <task id="LOCAL-00185" summary="changed">
       <created>1665822530153</created>
@@ -545,7 +540,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667367282166</updated>
     </task>
-    <option name="localTasksCounter" value="233" />
+    <task id="LOCAL-00233" summary="changed">
+      <created>1667368347021</created>
+      <option name="number" value="00233" />
+      <option name="presentableId" value="LOCAL-00233" />
+      <option name="project" value="LOCAL" />
+      <updated>1667368347021</updated>
+    </task>
+    <option name="localTasksCounter" value="234" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
