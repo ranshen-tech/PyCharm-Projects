@@ -4,17 +4,18 @@ import booking
 import selector
 import films
 
-film, name, seats_list, symbol = None, None, None, None
+film, name, seats_list, symbol, choice = None, None, None, None, None
 
 
 def choose_film(films_):
-    global film, name, seats_list, symbol
+    global film, name, seats_list, symbol, choice
     selector.display_options(films_)
     choice = selector.get_choice(films_)
-    film = films_[int(choice) - 1]
-    name = film['name']
-    seats_list = film['seats']
-    symbol = film['symbol']
+    if choice != 'x':
+        film = films_[int(choice) - 1]
+        name = film['name']
+        seats_list = film['seats']
+        symbol = film['symbol']
 
 
 def choose_seat():
@@ -45,5 +46,6 @@ def bye():
 if __name__ == '__main__':
     welcome()
     choose_film(films.films)
-    choose_seat()
+    if choice != 'x':
+        choose_seat()
     bye()

@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="changed">
+      <change afterPath="$PROJECT_DIR$/shanbay/basic/time_ciname_object/booking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shanbay/basic/time_ciname_object/films.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shanbay/basic/time_ciname_object/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shanbay/basic/time_ciname_object/selector.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shanbay/basic/time_cinema_project/files.py" beforeDir="false" afterPath="$PROJECT_DIR$/shanbay/basic/time_cinema_project/films.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shanbay/basic/time_cinema_project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/shanbay/basic/time_cinema_project/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shanbay/basic/time_cinema_project/selector.py" beforeDir="false" afterPath="$PROJECT_DIR$/shanbay/basic/time_cinema_project/selector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shanbay/basic/time_cinema_project/booking.py" beforeDir="false" afterPath="$PROJECT_DIR$/shanbay/basic/time_cinema_process/booking.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shanbay/basic/time_cinema_project/films.py" beforeDir="false" afterPath="$PROJECT_DIR$/shanbay/basic/time_cinema_process/films.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shanbay/basic/time_cinema_project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/shanbay/basic/time_cinema_process/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shanbay/basic/time_cinema_project/selector.py" beforeDir="false" afterPath="$PROJECT_DIR$/shanbay/basic/time_cinema_process/selector.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,13 +208,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00202" summary="ππ">
-      <created>1666230006707</created>
-      <option name="number" value="00202" />
-      <option name="presentableId" value="LOCAL-00202" />
-      <option name="project" value="LOCAL" />
-      <updated>1666230006707</updated>
     </task>
     <task id="LOCAL-00203" summary="ππ">
       <created>1666314222404</created>
@@ -547,7 +545,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667444638638</updated>
     </task>
-    <option name="localTasksCounter" value="251" />
+    <task id="LOCAL-00251" summary="changed">
+      <created>1667447718770</created>
+      <option name="number" value="00251" />
+      <option name="presentableId" value="LOCAL-00251" />
+      <option name="project" value="LOCAL" />
+      <updated>1667447718770</updated>
+    </task>
+    <option name="localTasksCounter" value="252" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
