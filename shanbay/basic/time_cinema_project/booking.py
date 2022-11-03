@@ -1,24 +1,22 @@
 __author__ = 'ranshen0519@icloud.com'
 
 
-class SeatBooking:
-    @staticmethod
-    def get_row():
-        input_row = int(input("预订第几排的座位呢？请输入 1～6 之间的数字"))
-        valid_row = [i for i in range(1, 7)]
-        while input_row not in valid_row:
-            input_row = int(input('没有按要求输入哦，请输入 1～6 之间的数字'))
-        row = input_row - 1
-        return row
+def get_row():
+    input_row = int(input("预订第几排的座位呢？请输入 1～6 之间的数字"))
+    valid_row = [i for i in range(1, 7)]
+    while input_row not in valid_row:
+        input_row = int(input('没有按要求输入哦，请输入 1～6 之间的数字'))
+    row = input_row - 1
+    return row
 
-    @staticmethod
-    def get_col():
-        input_column = int(input('预订这一排的第几座呢？请输入 1～8 之间的数字'))
-        valid_column = [i for i in range(1, 9)]
-        while input_column not in valid_column:
-            input_column = int(input('没有按要求输入哦，请输入 1～8 之间的数字'))
-        column = input_column - 1
-        return column
+
+def get_col():
+    input_column = int(input('预订这一排的第几座呢？请输入 1～8 之间的数字'))
+    valid_column = [i for i in range(1, 9)]
+    while input_column not in valid_column:
+        input_column = int(input('没有按要求输入哦，请输入 1～8 之间的数字'))
+    column = input_column - 1
+    return column
 
     @staticmethod
     def check_bookings(seats):
