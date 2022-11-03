@@ -4,8 +4,9 @@ from seat_booking import SeatBooking
 
 
 class Controller:
-    def __init__(self, infos):
-        self.films = infos  # 电影库所有电影
+    def __init__(self, films):
+        self.choice = None
+        self.films = films  # 电影库所有电影
         self.welcome()
         self.choose_film()
         if self.choice != 'x':

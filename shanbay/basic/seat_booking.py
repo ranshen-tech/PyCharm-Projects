@@ -36,7 +36,8 @@ class SeatBooking:
             else:
                 print("这个座位已经被预订了哦, 试试别的吧")
 
-    def book_seat_at_front(self, seats):
+    @staticmethod
+    def book_seat_at_front(seats):
         print("正在为您预订最靠前的座位...")
         for row in range(6):
             for column in range(8):
