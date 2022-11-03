@@ -1,5 +1,4 @@
 __author__ = 'ranshen0519@icloud.com'
-__author__ = 'ranshen0519@icloud.com'
 films = [
   {
     'name': '泰坦尼克号',
