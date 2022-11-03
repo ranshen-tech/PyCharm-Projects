@@ -18,32 +18,32 @@ def get_col():
     column = input_column - 1
     return column
 
-    @staticmethod
-    def check_bookings(seats):
-        print("正在为您查询该场次电影的预订状态...")
-        for row in seats:
-            print('\t'.join(row))
-        print("======================")
 
-    def book_seat(self, seats):
-        while True:
-            row = self.get_row()
-            column = self.get_col()
+def check_bookings(seats):
+    print("正在为您查询该场次电影的预订状态...")
+    for row in seats:
+        print('\t'.join(row))
+
+
+def book_seat(seats):
+    while True:
+        row = get_row()
+        column = get_col()
+        if seats[row][column] == '○':
+            print("正在为您预订指定座位...")
+            seats[row][column] = '●'
+            print(f"预订成功！座位号：{row + 1}排{column + 1}座")
+            break
+        else:
+            print("这个座位已经被预订了哦, 试试别的吧")
+
+
+def book_seat_at_front(seats):
+    print("正在为您预订最靠前的座位...")
+    for row in range(6):
+        for column in range(8):
             if seats[row][column] == '○':
-                print("正在为您预订指定座位...")
-                seats[row][column] = '●'
-                print(f"预订成功！座位号：{row + 1}排{column + 1}座")
-                break
-            else:
-                print("这个座位已经被预订了哦, 试试别的吧")
-
-    @staticmethod
-    def book_seat_at_front(seats):
-        print("正在为您预订最靠前的座位...")
-        for row in range(6):
-            for column in range(8):
-                if seats[row][column] == '○':
-                    seats[row][column] = '●'  # 预订该座位
-                    print("预订成功！座位号：{}排{}座".format(row + 1, column + 1))
-                    return  # 结束函数的执行，返回到它被调用的地方
-        print("非常抱歉🥺，所有座位都被订满了，无法为您保留座位")
+                seats[row][column] = '●'  # 预订该座位
+                print("预订成功！座位号：{}排{}座".format(row + 1, column + 1))
+                return  # 结束函数的执行，返回到它被调用的地方
+    print("非常抱歉🥺，所有座位都被订满了，无法为您保留座位")
