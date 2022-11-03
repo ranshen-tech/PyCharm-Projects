@@ -1,5 +1,5 @@
 __author__ = 'ranshen0519@icloud.com'
-infos = [
+files = [
   {
     'name': '泰坦尼克号',
     'symbol': '''
