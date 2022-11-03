@@ -2,13 +2,15 @@ __author__ = 'ranshen0519@icloud.com'
 
 
 class Booking:
-    def __init__(self):
-        self.row = self.get_row()
-        self.column = self.get_col()
+    def __init__(self, film_index, seats):
+        self.check_bookings(seats)
+        self.book_seat(seats)
+        # self.book_seat_at_front(seats)
 
     def __str__(self):
         return '座位预定系统'
 
+    @staticmethod
     def get_row(self):
         input_row = int(input("预订第几排的座位呢？请输入 1～6 之间的数字"))
         valid_row = [i for i in range(1, 7)]
@@ -17,8 +19,8 @@ class Booking:
         row = input_row - 1
         return row
 
-    # @staticmethod
-    def get_col(self):
+    @staticmethod
+    def get_col():
         input_column = int(input('预订这一排的第几座呢？请输入 1～8 之间的数字'))
         valid_column = [i for i in range(1, 9)]
         while input_column not in valid_column:
@@ -26,7 +28,8 @@ class Booking:
         column = input_column - 1
         return column
 
-    def check_bookings(self, seats):
+    @staticmethod
+    def check_bookings(seats):
         print("正在为您查询该场次电影的预订状态...")
         for row in seats:
             print('\t'.join(row))
@@ -43,7 +46,8 @@ class Booking:
             else:
                 print("这个座位已经被预订了哦, 试试别的吧")
 
-    def book_seat_at_front(self, seats):
+    @staticmethod
+    def book_seat_at_front(seats):
         print("正在为您预订最靠前的座位...")
         for row in range(6):
             for column in range(8):
