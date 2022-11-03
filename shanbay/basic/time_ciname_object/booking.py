@@ -2,16 +2,15 @@ __author__ = 'ranshen0519@icloud.com'
 
 
 class Booking:
-    def __init__(self, film_index, seats):
-        self.check_bookings(seats)
-        self.book_seat(seats)
-        # self.book_seat_at_front(seats)
+    def __init__(self, seats):
+        # self.check_bookings(seats)
+        self.choose_seat(seats)
 
     def __str__(self):
         return '座位预定系统'
 
     @staticmethod
-    def get_row(self):
+    def get_row():
         input_row = int(input("预订第几排的座位呢？请输入 1～6 之间的数字"))
         valid_row = [i for i in range(1, 7)]
         while input_row not in valid_row:
@@ -57,6 +56,16 @@ class Booking:
                     return  # 结束函数的执行，返回到它被调用的地方
         print("非常抱歉🥺，所有座位都被订满了，无法为您保留座位")
 
-# a = Booking()
-# print(a)
-# print(Booking())
+    def choose_seat(self, seats):
+        print('支持的座位预订方式如下：')
+        print("1 - 指定行列号预定座位")
+        print("2 - 给我预订一个最靠前的座位！")
+        method = input('请选择座位预订方式')
+        valid_method = ['1', '2']
+        while method not in valid_method:
+            method = input('没有按照要求输入哦，请重新输入')
+        if method == '1':
+            self.check_bookings(seats)
+            self.book_seat(seats)
+        else:
+            self.book_seat_at_front(seats)

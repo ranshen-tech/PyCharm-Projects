@@ -8,7 +8,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shanbay/basic/time_ciname_object/booking.py" beforeDir="false" afterPath="$PROJECT_DIR$/shanbay/basic/time_ciname_object/booking.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shanbay/basic/time_ciname_object/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/shanbay/basic/time_ciname_object/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shanbay/basic/time_ciname_object/selector.py" beforeDir="false" afterPath="$PROJECT_DIR$/shanbay/basic/time_ciname_object/selector.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,13 +202,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00205" summary="ππ">
-      <created>1666446197968</created>
-      <option name="number" value="00205" />
-      <option name="presentableId" value="LOCAL-00205" />
-      <option name="project" value="LOCAL" />
-      <updated>1666446197968</updated>
     </task>
     <task id="LOCAL-00206" summary="ππ">
       <created>1666527443952</created>
@@ -547,7 +539,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667454417467</updated>
     </task>
-    <option name="localTasksCounter" value="254" />
+    <task id="LOCAL-00254" summary="changed">
+      <created>1667459654931</created>
+      <option name="number" value="00254" />
+      <option name="presentableId" value="LOCAL-00254" />
+      <option name="project" value="LOCAL" />
+      <updated>1667459654931</updated>
+    </task>
+    <option name="localTasksCounter" value="255" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
