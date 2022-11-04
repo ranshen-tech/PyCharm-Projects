@@ -1,4 +1,10 @@
 __author__ = 'ranshen0519@icloud.com'
+"""
+返回查找到的第一个
+soup.select_one(".sister")
+# <a class="sister" href="http://example.com/elsie" id="link1">Elsie</a>
+"""
+
 import requests
 from bs4 import BeautifulSoup
 # 电影名和链接
