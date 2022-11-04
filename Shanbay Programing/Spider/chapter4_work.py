@@ -11,8 +11,8 @@ from bs4 import BeautifulSoup
 def get_one_page(pages):
     url = 'https://movie.douban.com/top250'
     headers = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"}
-    params = {'start': pages * 25}  # int
-
+    params = {'start': f'{pages * 25}'}  # int str都可以
+    print(params)
     res = requests.get(url, params, headers=headers)
     soup = BeautifulSoup(res.text, 'html.parser')
 
