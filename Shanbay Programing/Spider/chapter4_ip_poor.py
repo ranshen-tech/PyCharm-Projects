@@ -2,9 +2,7 @@ __author__ = 'ranshen0519@icloud.com'
 
 from random import choice
 
-# 导入 requests 库
 import requests
-# 从 bs4 库导入 BeautifulSoup
 from bs4 import BeautifulSoup
 
 
@@ -20,7 +18,6 @@ def get_one_page_data(page, proxy):
     res = requests.get(
         base_url, headers=headers, params=params, proxies=proxy
     )
-    # 解析成 BeautifulSoup 对象
     soup = BeautifulSoup(res.text, 'html.parser')
     # 提取出书名、作者、出版社信息并按行打印
 

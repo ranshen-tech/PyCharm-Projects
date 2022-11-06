@@ -3,10 +3,6 @@ import time
 import requests
 from bs4 import BeautifulSoup
 
-"""
- https://movie.douban.com/top250
-"""
-
 
 def get_one_page(pages):
     url = 'https://movie.douban.com/top250'

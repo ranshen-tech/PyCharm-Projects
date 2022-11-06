@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="changed">
-      <change afterPath="$PROJECT_DIR$/Shanbay Programing/Spider/chapter6_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shanbay Programing/Spider/ch7_selenium.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shanbay Programing/Spider/chapter3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Shanbay Programing/Spider/chapter3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Shanbay Programing/Spider/chapter4_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Shanbay Programing/Spider/chapter4_demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shanbay Programing/Spider/chapter5_work.py" beforeDir="false" afterPath="$PROJECT_DIR$/Shanbay Programing/Spider/chapter5_work.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shanbay Programing/Spider/chapter4_ip_poor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Shanbay Programing/Spider/chapter4_ip_poor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shanbay Programing/Spider/chapter4_work.py" beforeDir="false" afterPath="$PROJECT_DIR$/Shanbay Programing/Spider/chapter4_work.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,8 +81,8 @@
       <recent name="$PROJECT_DIR$/Python/经典案例" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.chapter6_demo">
-    <configuration name="chapter4_work" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.chapter3_work">
+    <configuration name="ch7_selenium" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,7 +94,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Shanbay Programing/Spider/chapter4_work.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Shanbay Programing/Spider/ch7_selenium.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="chapter5_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="chapter3_work" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,7 +115,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Shanbay Programing/Spider/chapter5_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Shanbay Programing/Spider/chapter3_work.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.chapter3_work" />
+        <item itemvalue="Python.ch7_selenium" />
         <item itemvalue="Python.chapter6_demo" />
         <item itemvalue="Python.scratch" />
         <item itemvalue="Python.chapter5_work" />
-        <item itemvalue="Python.chapter5_demo" />
-        <item itemvalue="Python.chapter4_work" />
       </list>
     </recent_temporary>
   </component>
@@ -203,20 +205,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00217" summary="changed">
-      <created>1667280412479</created>
-      <option name="number" value="00217" />
-      <option name="presentableId" value="LOCAL-00217" />
-      <option name="project" value="LOCAL" />
-      <updated>1667280412479</updated>
-    </task>
-    <task id="LOCAL-00218" summary="changed">
-      <created>1667280541484</created>
-      <option name="number" value="00218" />
-      <option name="presentableId" value="LOCAL-00218" />
-      <option name="project" value="LOCAL" />
-      <updated>1667280541484</updated>
     </task>
     <task id="LOCAL-00219" summary="changed">
       <created>1667280985297</created>
@@ -547,7 +535,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667625331602</updated>
     </task>
-    <option name="localTasksCounter" value="266" />
+    <task id="LOCAL-00266" summary="changed">
+      <created>1667692931660</created>
+      <option name="number" value="00266" />
+      <option name="presentableId" value="LOCAL-00266" />
+      <option name="project" value="LOCAL" />
+      <updated>1667692931660</updated>
+    </task>
+    <task id="LOCAL-00267" summary="changed">
+      <created>1667692942506</created>
+      <option name="number" value="00267" />
+      <option name="presentableId" value="LOCAL-00267" />
+      <option name="project" value="LOCAL" />
+      <updated>1667692942506</updated>
+    </task>
+    <option name="localTasksCounter" value="268" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
