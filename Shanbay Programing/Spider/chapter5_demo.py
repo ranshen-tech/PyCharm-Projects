@@ -1,6 +1,6 @@
 __author__ = 'ranshen0519@icloud.com'
-import time
 import requests
+import time
 
 
 for page in range(1, 4):

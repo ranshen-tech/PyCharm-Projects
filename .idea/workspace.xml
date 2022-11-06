@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="changed">
-      <change afterPath="$PROJECT_DIR$/Shanbay Programing/Spider/ch7_selenium.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shanbay Programing/Spider/chapter3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Shanbay Programing/Spider/chapter3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shanbay Programing/Spider/chapter4_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Shanbay Programing/Spider/chapter4_demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shanbay Programing/Spider/chapter4_ip_poor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Shanbay Programing/Spider/chapter4_ip_poor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shanbay Programing/Spider/chapter4_work.py" beforeDir="false" afterPath="$PROJECT_DIR$/Shanbay Programing/Spider/chapter4_work.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shanbay Programing/Spider/ch7_selenium.py" beforeDir="false" afterPath="$PROJECT_DIR$/Shanbay Programing/Spider/ch7_selenium.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shanbay Programing/Spider/chapter5_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Shanbay Programing/Spider/chapter5_demo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,23 +49,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ranshen/PyCharm Projects/Python/my_package&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/ranshen/PyCharm Projects/Python/my_package",
+    "settings.editor.selected.configurable": "preferences.keymap"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/新建临时文件&quot;: [
-      &quot;Python&quot;,
-      &quot;Markdown&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/新建临时文件": [
+      "Python",
+      "Markdown"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Python/my_package" />
@@ -81,7 +79,7 @@
       <recent name="$PROJECT_DIR$/Python/经典案例" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.chapter3_work">
+  <component name="RunManager" selected="Python.ch7_selenium">
     <configuration name="ch7_selenium" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="chapter5_work" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="chapter4_work" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,7 +134,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Shanbay Programing/Spider/chapter5_work.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Shanbay Programing/Spider/chapter4_work.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.chapter3_work" />
         <item itemvalue="Python.ch7_selenium" />
+        <item itemvalue="Python.chapter4_work" />
+        <item itemvalue="Python.chapter3_work" />
         <item itemvalue="Python.chapter6_demo" />
         <item itemvalue="Python.scratch" />
-        <item itemvalue="Python.chapter5_work" />
       </list>
     </recent_temporary>
   </component>
@@ -205,13 +203,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00219" summary="changed">
-      <created>1667280985297</created>
-      <option name="number" value="00219" />
-      <option name="presentableId" value="LOCAL-00219" />
-      <option name="project" value="LOCAL" />
-      <updated>1667280985297</updated>
     </task>
     <task id="LOCAL-00220" summary="changed">
       <created>1667282109664</created>
@@ -549,7 +540,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667692942506</updated>
     </task>
-    <option name="localTasksCounter" value="268" />
+    <task id="LOCAL-00268" summary="changed">
+      <created>1667697350765</created>
+      <option name="number" value="00268" />
+      <option name="presentableId" value="LOCAL-00268" />
+      <option name="project" value="LOCAL" />
+      <updated>1667697350765</updated>
+    </task>
+    <option name="localTasksCounter" value="269" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
