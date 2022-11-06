@@ -38,11 +38,3 @@ for link in links:
     content = soup_psg.select('div.entry-content')[0]
     # 打印文章内容
     print(content.text)
-
-
-
-
-
-
-
-
