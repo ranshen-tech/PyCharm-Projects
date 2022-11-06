@@ -13,7 +13,7 @@ url = 'http://front-gateway.mtime.com/library/movie/comment.api'
 
 for i in range(1, 6):
     payload = {
-        'tt': '1667624244437',
+        'tt': f'{int(time.time()) * 1000}',
         'movieId': '209164',
         'pageIndex': f'{i}',
         'pageSize': '40',

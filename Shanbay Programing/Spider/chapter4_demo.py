@@ -12,8 +12,7 @@ def get_one_page_data(page):
     # 豆瓣读书 Top 250 首页 URL
     url = 'https://book.douban.com/top250'
     # 定制消息头
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36'}
+    headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36'}
     # 根据传入参数定制查询参数
     params = {'start': page * 25}
     # 发送带消息头和查询参数的请求
