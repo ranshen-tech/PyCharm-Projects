@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="changed">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib的使用/demo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib的使用/demo1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib的使用/demo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib的使用/demo2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib的使用/demo3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib的使用/demo3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib的使用/demo4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib的使用/demo4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib的使用/demo5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib的使用/demo5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib的使用/demo6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib的使用/demo6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib的使用/demo7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib的使用/demo7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,28 +76,7 @@
       <recent name="$PROJECT_DIR$/Python/经典案例" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.demo5">
-    <configuration name="demo2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python Project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib的使用" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib的使用/demo2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.demo6">
     <configuration name="demo3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,6 +140,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="demo6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib的使用" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib的使用/demo6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="scratch_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -191,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.demo6" />
         <item itemvalue="Python.demo5" />
         <item itemvalue="Python.scratch_1" />
         <item itemvalue="Python.demo4" />
         <item itemvalue="Python.demo3" />
-        <item itemvalue="Python.demo2" />
       </list>
     </recent_temporary>
   </component>
@@ -207,13 +200,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00222" summary="changed">
-      <created>1667297711167</created>
-      <option name="number" value="00222" />
-      <option name="presentableId" value="LOCAL-00222" />
-      <option name="project" value="LOCAL" />
-      <updated>1667297711167</updated>
     </task>
     <task id="LOCAL-00223" summary="changed">
       <created>1667299388626</created>
@@ -551,7 +537,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667912120118</updated>
     </task>
-    <option name="localTasksCounter" value="271" />
+    <task id="LOCAL-00271" summary="changed">
+      <created>1667956070101</created>
+      <option name="number" value="00271" />
+      <option name="presentableId" value="LOCAL-00271" />
+      <option name="project" value="LOCAL" />
+      <updated>1667956070101</updated>
+    </task>
+    <option name="localTasksCounter" value="272" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
