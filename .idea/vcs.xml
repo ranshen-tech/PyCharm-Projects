@@ -4,5 +4,6 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib 的使用" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.3 正则表达式" vcs="Git" />
   </component>
 </project>

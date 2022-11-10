@@ -5,24 +5,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="changed">
-      <change afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib 的使用/quote.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/Session维持.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/内置状态码.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/抓取网页.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/用Cookie维持登录状态.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/SSL证书验证.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/logging模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/代理设置.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.4 httpx 的使用/main1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.4 httpx 的使用/main10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.4 httpx 的使用/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.4 httpx 的使用/main3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.4 httpx 的使用/main4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.4 httpx 的使用/main5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.4 httpx 的使用/main6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.4 httpx 的使用/main7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.4 httpx 的使用/main8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.4 httpx 的使用/main9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib 的使用/demo20.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib 的使用/demo20.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib 的使用/demo21.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib 的使用/demo21.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib 的使用/demo1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib 的使用/demo13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib 的使用/demo13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib 的使用/demo14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib 的使用/demo15.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib 的使用/demo15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib 的使用/demo16.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib 的使用/url异常处理.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib 的使用/demo17.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib 的使用/demo17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib 的使用/demo18.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib 的使用/demo19.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib 的使用/demo19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib 的使用/demo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib 的使用/demo2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib 的使用/demo3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib 的使用/demo4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib 的使用/demo4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib 的使用/demo5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib 的使用/demo5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib 的使用/demo8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib 的使用/demo8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib 的使用/parse_qs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib 的使用/parse_qs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/demo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/demo1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/demo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/demo2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib 的使用/urlsplit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib 的使用/urlsplit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/demo12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/demo12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/demo13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/demo13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/demo14.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/demo14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/demo15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/demo18.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/demo18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/demo19.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/身份认证.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/demo20.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/demo21.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/Prepared Request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/demo23.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/demo25.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/demo3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/demo3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/demo5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/demo5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/demo6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/demo6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/demo7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/demo7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/demo9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/demo9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.3 正则表达式.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.3 正则表达式/demo11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.3 正则表达式/demo9 sub.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.3 正则表达式/demo12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.3 正则表达式/demo10 compile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.3 正则表达式/demo8 findall.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.3 正则表达式/demo8 findall.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.5 基础爬虫案例实战.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +75,7 @@
         <option name="title" value="All" />
       </GitPushTagMode>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../Library/Caches/JetBrains/PyCharmEdu2022.2/python_stubs/1456468620/time.py" root0="SKIP_INSPECTION" />
@@ -63,24 +94,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/ranshen/PyCharm Projects/Python/my_package",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ranshen/PyCharm Projects/Python/my_package&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/新建临时文件": [
-      "Python",
-      "Markdown"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/新建临时文件&quot;: [
+      &quot;Python&quot;,
+      &quot;Markdown&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Python/my_package" />
@@ -94,8 +125,8 @@
       <recent name="$PROJECT_DIR$/Python/经典案例" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Session维持">
-    <configuration name="用Cookie维持登录状态" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main3 基本使用">
+    <configuration name="身份认证" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,7 +138,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/用Cookie维持登录状态.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/身份认证.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Session维持" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Prepared Request" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,7 +159,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/Session维持.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/Prepared Request.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,28 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python Project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib的使用" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.1 urllib的使用/demo21.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="demo5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="代理设置" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,7 +180,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/demo5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/代理设置.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,7 +189,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="scratch_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="demo25" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,11 +197,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.2 requests 的使用/demo25.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.4 httpx 的使用" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.4 httpx 的使用/main1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main3 基本使用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.4 httpx 的使用" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.4 httpx 的使用/main3 基本使用.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,11 +254,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Session维持" />
-        <item itemvalue="Python.用Cookie维持登录状态" />
-        <item itemvalue="Python.scratch_1" />
-        <item itemvalue="Python.demo5" />
-        <item itemvalue="Python.demo21" />
+        <item itemvalue="Python.main3 基本使用" />
+        <item itemvalue="Python.main1" />
+        <item itemvalue="Python.Prepared Request" />
+        <item itemvalue="Python.demo25" />
+        <item itemvalue="Python.身份认证" />
       </list>
     </recent_temporary>
   </component>
@@ -218,13 +270,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00228" summary="changed">
-      <created>1667359240544</created>
-      <option name="number" value="00228" />
-      <option name="presentableId" value="LOCAL-00228" />
-      <option name="project" value="LOCAL" />
-      <updated>1667359240544</updated>
     </task>
     <task id="LOCAL-00229" summary="changed">
       <created>1667360099863</created>
@@ -562,7 +607,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667965873608</updated>
     </task>
-    <option name="localTasksCounter" value="277" />
+    <task id="LOCAL-00277" summary="changed">
+      <created>1667980351132</created>
+      <option name="number" value="00277" />
+      <option name="presentableId" value="LOCAL-00277" />
+      <option name="project" value="LOCAL" />
+      <updated>1667980351132</updated>
+    </task>
+    <option name="localTasksCounter" value="278" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
