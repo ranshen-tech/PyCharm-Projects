@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="changed">
-      <change afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.4 httpx 的使用/main2 示例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.5 基础爬虫案例实战/step1 爬取列表页.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/logging 模块用法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/my.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python Project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.4 httpx 的使用/main2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.4 httpx 的使用/main3 基本使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.4 httpx 的使用/main3 基本使用.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.4 httpx 的使用/main4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.4 httpx 的使用/main5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.4 httpx 的使用/main6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.4 httpx 的使用/main4 Client对象.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.4 httpx 的使用/main7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.4 httpx 的使用/main8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.4 httpx 的使用/main5 支持HTTP-2.0.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.4 httpx 的使用/main9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.4 httpx 的使用/main6 支持异步请求.py" afterDir="false" />
-    </list>
+    <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="changed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,24 +44,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ranshen/PyCharm Projects/Python/my_package&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/ranshen/PyCharm Projects/Python/my_package",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/新建临时文件&quot;: [
-      &quot;Python&quot;,
-      &quot;Markdown&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/新建临时文件": [
+      "Python",
+      "Markdown"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Python/my_package" />
@@ -216,13 +199,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00230" summary="changed">
-      <created>1667365397182</created>
-      <option name="number" value="00230" />
-      <option name="presentableId" value="LOCAL-00230" />
-      <option name="project" value="LOCAL" />
-      <updated>1667365397182</updated>
     </task>
     <task id="LOCAL-00231" summary="changed">
       <created>1667365903816</created>
@@ -560,7 +536,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668089791102</updated>
     </task>
-    <option name="localTasksCounter" value="279" />
+    <task id="LOCAL-00279" summary="changed">
+      <created>1668157643757</created>
+      <option name="number" value="00279" />
+      <option name="presentableId" value="LOCAL-00279" />
+      <option name="project" value="LOCAL" />
+      <updated>1668157643757</updated>
+    </task>
+    <option name="localTasksCounter" value="280" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
