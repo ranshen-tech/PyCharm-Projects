@@ -26,3 +26,4 @@ logging.info('scraping %s...', url)
 # 输出到同目录下 my.log 文件中的内容：
 # Wed 05 Jun 2019 22:25:32 test.py INFO This is a info.
 # Wed 05 Jun 2019 22:25:32 test.py WARNING This is a warning.
+print(type('s'))
