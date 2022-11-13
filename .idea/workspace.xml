@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="changed">
-      <change afterPath="$PROJECT_DIR$/os库 用法详解/1. 文件重命名.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.5 基础爬虫案例实战/step1 爬取列表页.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.5 基础爬虫案例实战/step1 爬取列表页.py" afterDir="false" />
-    </list>
+    <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="changed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -206,13 +202,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00238" summary="changed">
-      <created>1667383376589</created>
-      <option name="number" value="00238" />
-      <option name="presentableId" value="LOCAL-00238" />
-      <option name="project" value="LOCAL" />
-      <updated>1667383376589</updated>
     </task>
     <task id="LOCAL-00239" summary="changed">
       <created>1667391048050</created>
@@ -550,7 +539,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668311237818</updated>
     </task>
-    <option name="localTasksCounter" value="287" />
+    <task id="LOCAL-00287" summary="changed">
+      <created>1668316422843</created>
+      <option name="number" value="00287" />
+      <option name="presentableId" value="LOCAL-00287" />
+      <option name="project" value="LOCAL" />
+      <updated>1668316422843</updated>
+    </task>
+    <option name="localTasksCounter" value="288" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
