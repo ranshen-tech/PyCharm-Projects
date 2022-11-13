@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0b2a96c-2b6a-40f0-be80-fbe8118649e0" name="变更" comment="changed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.5 基础爬虫案例实战/step1 爬取列表页.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3网络爬虫开发实战/第二章 - 基本库的使用/2.5 基础爬虫案例实战/step1 爬取列表页.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -208,34 +209,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662616815918</updated>
-    </task>
-    <task id="LOCAL-00261" summary="changed">
-      <created>1667568677479</created>
-      <option name="number" value="00261" />
-      <option name="presentableId" value="LOCAL-00261" />
-      <option name="project" value="LOCAL" />
-      <updated>1667568677479</updated>
-    </task>
-    <task id="LOCAL-00262" summary="changed">
-      <created>1667571733066</created>
-      <option name="number" value="00262" />
-      <option name="presentableId" value="LOCAL-00262" />
-      <option name="project" value="LOCAL" />
-      <updated>1667571733066</updated>
-    </task>
-    <task id="LOCAL-00263" summary="changed">
-      <created>1667571919269</created>
-      <option name="number" value="00263" />
-      <option name="presentableId" value="LOCAL-00263" />
-      <option name="project" value="LOCAL" />
-      <updated>1667571919269</updated>
-    </task>
-    <task id="LOCAL-00264" summary="changed">
-      <created>1667623882742</created>
-      <option name="number" value="00264" />
-      <option name="presentableId" value="LOCAL-00264" />
-      <option name="project" value="LOCAL" />
-      <updated>1667623882742</updated>
     </task>
     <task id="LOCAL-00265" summary="changed">
       <created>1667625331602</created>
@@ -552,7 +525,35 @@
       <option name="project" value="LOCAL" />
       <updated>1668331635111</updated>
     </task>
-    <option name="localTasksCounter" value="310" />
+    <task id="LOCAL-00310" summary="changed">
+      <created>1668331997801</created>
+      <option name="number" value="00310" />
+      <option name="presentableId" value="LOCAL-00310" />
+      <option name="project" value="LOCAL" />
+      <updated>1668331997801</updated>
+    </task>
+    <task id="LOCAL-00311" summary="changed">
+      <created>1668332119263</created>
+      <option name="number" value="00311" />
+      <option name="presentableId" value="LOCAL-00311" />
+      <option name="project" value="LOCAL" />
+      <updated>1668332119263</updated>
+    </task>
+    <task id="LOCAL-00312" summary="changed">
+      <created>1668332154158</created>
+      <option name="number" value="00312" />
+      <option name="presentableId" value="LOCAL-00312" />
+      <option name="project" value="LOCAL" />
+      <updated>1668332154158</updated>
+    </task>
+    <task id="LOCAL-00313" summary="changed">
+      <created>1668332196293</created>
+      <option name="number" value="00313" />
+      <option name="presentableId" value="LOCAL-00313" />
+      <option name="project" value="LOCAL" />
+      <updated>1668332196293</updated>
+    </task>
+    <option name="localTasksCounter" value="314" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
